@@ -5,7 +5,7 @@ reason about what every single line does.
 
 ENVIRONMENT REQUIREMENTS:
 This script requires an Anaconda environment with PyTorch installed.
-Run with: & "$env:USERPROFILE\Anaconda3\envs\pytorch\python.exe" train.py
+Run with: & "$env:USERPROFILE\Anaconda3\envs\grey-lord\python.exe" train.py
 
 How to use (quick-start):
   1. Place this file next to `vocab_to_int.json` and `int_to_vocab.json`.
@@ -309,7 +309,7 @@ def train(data_dir: str, file_glob: str, num_epochs: int = 3, batch_size: int = 
     
     # Set default save path if not provided
     if save_path is None:
-        save_path = f"grey-lord.{datetime.now().strftime('%Y-%m-%dT%H-%M-%S.%f')}.gpt2"
+        save_path = f"model-{num_epochs}@{max_seq_len}D{datetime.now().strftime('%Y-%m-%dT%H-%M-%S.%f')}"
     
     # ------------------------------------------------------------------
     # DataLoader setup with train/validation split
@@ -455,8 +455,8 @@ def main() -> None:
     parser.add_argument("--lr", type=float, 
                        default=training_config["default_lr"],
                        help="Learning rate")
-    parser.add_argument("--save-path", type=str, default="trained_model",
-                       help="Directory to save the trained model")
+    parser.add_argument("--save-path", type=str, default=None,
+                       help="Directory to save the trained model (default: model-{epochs}@{context_length}D{date}T{time})")
     parser.add_argument("--model-path", type=str, default=None,
                        help="Path to existing model to continue training from")
     parser.add_argument("--cpu", action="store_true",
