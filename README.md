@@ -25,7 +25,7 @@ A project aimed at creating a Language Model that can play MajorMUD through deep
 - **Special Tokens**: `<|client|>`, `<|server|>`, `<|delay_short|>`, etc.
 - **Byte-Level Encoding**: Raw bytes mapped to `byte_0` through `byte_255`
 - **Vocabulary Size**: 262 tokens (optimized for telnet data)
-- **Context Length**: Up to 8,192 tokens
+- **Context Length**: Up to 8,192 tokens (default: 512, configurable)
 
 ## 🚀 Usage
 
@@ -59,10 +59,13 @@ conda activate grey-lord
 
 ### Training Commands
 ```bash
-# Fast iteration (good for testing) → saves to model-10@1024/
+# Fast iteration (good for testing) → saves to model-{data_size}-3@512D{timestamp}/
+& "$env:USERPROFILE\Anaconda3\envs\grey-lord\python.exe" train.py
+
+# Extended training with more epochs → saves to model-{data_size}-10@1024D{timestamp}/
 & "$env:USERPROFILE\Anaconda3\envs\grey-lord\python.exe" train.py --epochs 10 --batch-size 32 --max-seq-len 1024
 
-# Production training (recommended) → saves to model-100@8192/
+# Production training (recommended) → saves to model-{data_size}-100@8192D{timestamp}/
 & "$env:USERPROFILE\Anaconda3\envs\grey-lord\python.exe" train.py --epochs 100 --batch-size 1 --max-seq-len 8192
 
 # Custom save path
@@ -87,7 +90,7 @@ conda activate grey-lord
 - **Model Size**: ~7M parameters
 - **Memory Usage**: 26MB model + gradients + optimizer states
 - **GPU Utilization**: Scales with batch size (1x to 32x speedup)
-- **Training Time**: 3-6 hours for production model (50-100 epochs)
+- **Training Time**: Varies by configuration (3 epochs default, 10+ for production models)
 
 ### Hardware Requirements
 - **Minimum**: 4GB GPU memory (short sequences)
@@ -124,9 +127,13 @@ grey-lord/
 ├── vocabulary.ipynb            # Vocabulary creation notebook
 │
 ├── Model Checkpoints
-├── model-current/              # Current best model (10@8192~)
-├── model-10@8192D2025-06-19T15-43-23.523/
-├── model-10@4096D2025-06-18T22-31-52.622/
+├── trained_model/              # Model checkpoints directory
+│   ├── model-current/          # Current best model checkpoint
+│   ├── config.json            # Model configuration
+│   ├── generation_config.json # Generation parameters
+│   └── model.safetensors      # Model weights
+├── trained_model_4096/        # 4096 context length model
+├── trained_model_8192/        # 8192 context length model
 ```
 
 ## 🔬 Technical Details
