@@ -307,9 +307,8 @@ def train(data_dir: str, file_glob: str, num_epochs: int = 3, batch_size: int = 
     print(f"[DEBUG] Max token ID: {max(vocab_to_int.values())}")
     print(f"[DEBUG] Calculated vocab_size: {vocab_size}")
     
-    # Set default save path if not provided
-    if save_path is None:
-        save_path = f"model-{num_epochs}@{max_seq_len}D{datetime.now().strftime('%Y-%m-%dT%H-%M-%S.%f')}"
+    # Set default save path if not provided (will be set after data_size calculation)
+    save_path_template = save_path
     
     # ------------------------------------------------------------------
     # DataLoader setup with train/validation split
@@ -333,6 +332,32 @@ def train(data_dir: str, file_glob: str, num_epochs: int = 3, batch_size: int = 
     train_files = file_paths[num_val_files:]
     
     print(f"[info] Split: {len(train_files)} training files, {len(val_files)} validation files")
+    
+    # Calculate data size (total bytes of training files)
+    data_size = 0
+    for file_path in train_files:
+        try:
+            data_size += file_path.stat().st_size
+        except OSError:
+            print(f"[warning] Could not get size of file: {file_path}")
+    
+    # Convert to human-readable format
+    if data_size >= 1024**3:  # GB
+        data_size_str = f"{data_size / (1024**3):.1f}GB"
+    elif data_size >= 1024**2:  # MB
+        data_size_str = f"{data_size / (1024**2):.1f}MB"
+    elif data_size >= 1024:  # KB
+        data_size_str = f"{data_size / 1024:.1f}KB"
+    else:
+        data_size_str = f"{data_size:.1f}B"
+    
+    print(f"[info] Training data size: {data_size_str} ({data_size:,} bytes)")
+    
+    # Set default save path if not provided (now that we have data_size)
+    if save_path_template is None:
+        save_path = f"model-{data_size_str}-{num_epochs}@{max_seq_len}D{datetime.now().strftime('%Y-%m-%dT%H-%M-%S.%f')}"
+    else:
+        save_path = save_path_template
     
     # ------------------------------------------------------------------
     # Model setup (needed early to get model vocabulary size)
