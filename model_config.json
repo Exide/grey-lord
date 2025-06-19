@@ -1,0 +1,25 @@
+{
+  "model": {
+    "vocab_size": 262,
+    "n_positions": 8192,
+    "n_embd": 256,
+    "n_layer": 6,
+    "n_head": 8
+  },
+  "training": {
+    "default_epochs": 3,
+    "default_batch_size": 1,
+    "default_lr": 5e-5,
+    "default_max_seq_len": 512,
+    "default_val_split": 0.2
+  },
+  "data": {
+    "default_data_dir": "C:/Users/exide/code/c-telnet-proxy",
+    "default_file_glob": "*T*_*-*-*-*-*"
+  },
+  "vocab": {
+    "vocab_to_int_file": "vocab_to_int.json",
+    "int_to_vocab_file": "int_to_vocab.json",
+    "pad_token": "<|pad|>"
+  }
+}
