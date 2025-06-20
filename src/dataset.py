@@ -35,10 +35,10 @@ class ByteStreamDataset(Dataset):
         dataset_type = f" ({label})" if label else ""
         print(f"[info] Dataset{dataset_type} initialized with {len(self.paths)} files.")
 
-    def __len__(self) -> int:  # type: ignore[override]
+    def __len__(self) -> int:
         return len(self.paths)
 
-    def __getitem__(self, idx: int):  # type: ignore[override]
+    def __getitem__(self, idx: int):
         file_path = self.paths[idx]
         try:
             with file_path.open("rb") as f:

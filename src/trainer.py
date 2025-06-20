@@ -13,9 +13,9 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any, Union
 
-import torch # type: ignore
-from torch.utils.data import DataLoader # type: ignore
-from transformers import AutoModelForCausalLM, get_linear_schedule_with_warmup # type: ignore
+import torch
+from torch.utils.data import DataLoader
+from transformers import AutoModelForCausalLM, get_linear_schedule_with_warmup
 
 from config_utils import get_vocab_config, get_training_config
 
