@@ -18,6 +18,9 @@ import argparse
 import sys
 from pathlib import Path
 
+# Add the src directory to Python path so we can import our modules
+sys.path.insert(0, str(Path(__file__).parent / "src"))
+
 def create_parser():
     """Create the main argument parser with subcommands."""
     parser = argparse.ArgumentParser(
@@ -32,7 +35,7 @@ Common Examples:
   python grey-lord.py train --model-path trained_model --epochs 25 --learning-rate 1e-5
   
   # Analyze training results
-  python grey-lord.py analyze --training-dir grey-lord-v1-batch32-lr3e4-20241201-143022
+  python grey-lord.py analyze --training-dir v1_batch-32_learning-rate-3e4_20241201143022
   
   # Debug vocabulary issues
   python grey-lord.py debug vocab
@@ -80,7 +83,7 @@ Common Examples:
 
 def add_train_arguments(parser):
     """Add training-specific arguments."""
-    from src.config_utils import get_training_config, get_data_config
+    from config_utils import get_training_config, get_data_config
     
     training_config = get_training_config()
     data_config = get_data_config()
@@ -225,8 +228,20 @@ def add_model_arguments(parser):
     export_parser.add_argument('--output', default='deployment', help='Output directory')
 
 def handle_train_command(args):
-    """Handle the train command."""
-    from src.train import train
+    """Handle the train command with integrated training logic."""
+    from datetime import datetime
+    from pathlib import Path
+    from torch.utils.data import DataLoader
+    
+    # Import our modular components
+    from vocab import load_vocabulary, get_vocab_size
+    from model import setup_device_and_model, get_model_vocab_size, print_model_info
+    from dataset import ByteStreamDataset, create_collate_fn, calculate_data_size, split_files
+    from trainer import (
+        run_training_loop, setup_optimizer_and_scheduler, 
+        save_training_artifacts, generate_training_plots
+    )
+    from utils import generate_save_path
     
     # Force CPU if requested
     if args.cpu:
@@ -235,23 +250,139 @@ def handle_train_command(args):
         import torch
         torch.cuda.is_available = lambda: False
     
-    print("🚀 TRAINING WITH GREY LORD")
-    print("=" * 50)
-    
     try:
-        train(
-            data_dir=args.data_dir,
-            file_glob=args.file_glob,
+        print("🚀 STARTING TRAINING")
+        print("=" * 50)
+        
+        # Load vocabulary
+        print("[1/7] Loading vocabulary...")
+        vocab_to_int, int_to_vocab, pad_token_id = load_vocabulary()
+        vocab_size = get_vocab_size(vocab_to_int)
+        
+        print(f"[DEBUG] Vocabulary loaded: {len(vocab_to_int)} items")
+        print(f"[DEBUG] Max token ID: {max(vocab_to_int.values())}")
+        print(f"[DEBUG] Calculated vocab_size: {vocab_size}")
+        
+        # Set up data
+        print("\n[2/7] Setting up data...")
+        data_path = Path(args.data_dir)
+        if not data_path.exists():
+            raise FileNotFoundError(f"Data directory not found: {args.data_dir}")
+        
+        file_paths = sorted(data_path.glob(args.file_glob))
+        if not file_paths:
+            raise FileNotFoundError(
+                f"No files found in {args.data_dir} matching pattern '{args.file_glob}'"
+            )
+
+        print(f"[info] Found {len(file_paths)} files matching pattern '{args.file_glob}'")
+        
+        # Split files
+        training_files, validation_files = split_files(file_paths, args.val_split)
+        print(f"[info] Split: {len(training_files)} training files, {len(validation_files)} validation files")
+        
+        # Calculate data size
+        data_size, data_size_str = calculate_data_size(training_files)
+        print(f"[info] Training data size: {data_size_str} ({data_size:,} bytes)")
+        
+        # Generate save path if not provided
+        if args.save_path is None:
+            save_path = generate_save_path(
+                args.data_dir, args.batch_size, args.learning_rate, 
+                args.max_seq_len, args.model_path
+            )
+        else:
+            save_path = args.save_path
+        
+        save_dir = Path(save_path)
+        print(f"[info] Model will be saved to: {save_dir}")
+        
+        # Set up model and device
+        print("\n[3/7] Setting up model...")
+        device, model = setup_device_and_model(vocab_size, args.model_path)
+        model_vocab_size = get_model_vocab_size(model)
+        
+        print_model_info(model)
+        
+        # Create datasets
+        print("\n[4/7] Creating datasets...")
+        training_dataset = ByteStreamDataset(training_files, vocab_to_int, pad_token_id, model_vocab_size, "training")
+        validation_dataset = ByteStreamDataset(validation_files, vocab_to_int, pad_token_id, model_vocab_size, "validation")
+        
+        # Create data loaders
+        collate_fn = create_collate_fn(args.max_seq_len, pad_token_id)
+        training_loader = DataLoader(training_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=collate_fn)
+        validation_loader = DataLoader(validation_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=collate_fn)
+        
+        # Set up optimizer and scheduler
+        print("\n[5/7] Setting up optimizer and scheduler...")
+        num_training_steps = len(training_loader) * args.epochs
+        optimizer, scheduler = setup_optimizer_and_scheduler(model, args.learning_rate, num_training_steps)
+        
+        print(f"[info] Training steps: {num_training_steps:,} ({len(training_loader)} batches × {args.epochs} epochs)")
+        print(f"[info] Optimizer: {type(optimizer).__name__}")
+        print(f"[info] Scheduler: {type(scheduler).__name__}")
+        
+        # Create training configuration
+        training_config = {
+            'model_path': args.model_path,
+            'data_dir': args.data_dir,
+            'file_glob': args.file_glob,
+            'num_epochs': args.epochs,
+            'batch_size': args.batch_size,
+            'learning_rate': args.learning_rate,
+            'max_seq_len': args.max_seq_len,
+            'val_split': args.val_split,
+            'patience': args.patience,
+            'vocab_size': vocab_size,
+            'model_vocab_size': model_vocab_size,
+            'num_training_files': len(training_files),
+            'num_validation_files': len(validation_files),
+            'training_data_size': data_size,
+            'training_start_time': datetime.now().isoformat(),
+            'device': str(device),
+            'gradient_clip': 1.0,
+            'weight_decay': 0.01
+        }
+        
+        # Run training
+        print("\n[6/7] Running training loop...")
+        training_state = run_training_loop(
+            model=model,
+            training_loader=training_loader,
+            validation_loader=validation_loader,
+            device=device,
             num_epochs=args.epochs,
-            batch_size=args.batch_size,
-            learning_rate=args.learning_rate,
-            save_path=args.save_path,
-            max_seq_len=args.max_seq_len,
-            model_path=args.model_path,
-            val_split=args.val_split,
-            patience=args.patience
+            optimizer=optimizer,
+            scheduler=scheduler,
+            patience=args.patience,
+            gradient_clip=training_config['gradient_clip']
         )
-        print("\n🎉 Training completed successfully!")
+        
+        # Save best model during training (this is handled in the training loop)
+        if training_state.history['best_epoch'] > 0:
+            model.save_pretrained(save_dir)
+            print(f"[info] Best model saved to: {save_dir}")
+        
+        # Save training artifacts
+        print("\n[7/7] Saving training artifacts...")
+        save_training_artifacts(save_dir, training_state, training_config, data_size_str, model)
+        
+        # Generate plots
+        generate_training_plots(save_dir, training_state)
+        
+        # Final summary
+        print("\n🎉 TRAINING COMPLETE!")
+        print("=" * 50)
+        print(f"[info] Best validation loss: {training_state.best_val_loss:.4f} at epoch {training_state.history['best_epoch']}")
+        print(f"[info] Training time: {training_state.history['total_training_time']/60:.1f} minutes")
+        print(f"[info] All training artifacts saved to: {save_dir}")
+        
+        if training_state.history['early_stopped']:
+            print("[info] Training stopped early due to lack of improvement")
+        else:
+            print("[info] Training completed all epochs")
+            
     except Exception as e:
         print(f"\n❌ Training failed: {e}")
         sys.exit(1)
@@ -456,14 +587,14 @@ def handle_config_command(args):
     if args.config_type == 'show':
         print("⚙️  CURRENT CONFIGURATION")
         print("=" * 30)
-        from src.config_utils import print_config_summary
+        from config_utils import print_config_summary
         print_config_summary()
     
     elif args.config_type == 'validate':
         print("✅ VALIDATING CONFIGURATION")
         print("=" * 30)
         try:
-            from src.config_utils import load_config
+            from config_utils import load_config
             config = load_config()
             print("✅ Configuration file is valid JSON")
             
@@ -485,7 +616,7 @@ def handle_config_command(args):
 
 def handle_model_command(args):
     """Handle the model command."""
-    from src.model_manager import (
+    from model_manager import (
         get_model_directories, create_model_leaderboard, 
         compare_models, cleanup_old_models, create_model_links, 
         export_model_for_deployment
@@ -500,7 +631,7 @@ def handle_model_command(args):
             return
         
         for i, model_dir in enumerate(model_dirs, 1):
-            from src.model_manager import load_model_summary
+            from model_manager import load_model_summary
             summary = load_model_summary(model_dir)
             val_loss = summary.get('best_validation_loss', 'N/A') if summary else 'N/A'
             val_loss_str = f"{val_loss:.4f}" if isinstance(val_loss, (int, float)) else str(val_loss)
@@ -545,7 +676,15 @@ def check_virtual_environment():
         'VIRTUAL_ENV' in os.environ  # environment variable
     )
     
-    if not in_venv:
+    # Check for conda environment indicators
+    in_conda = (
+        'CONDA_DEFAULT_ENV' in os.environ or  # conda environment variable
+        'conda' in sys.executable.lower() or  # conda in python path
+        'anaconda' in sys.executable.lower() or  # anaconda in python path
+        'miniconda' in sys.executable.lower()  # miniconda in python path
+    )
+    
+    if not (in_venv or in_conda):
         print("⚠️  WARNING: Not running in a virtual environment!")
         print("   Recommended: Create and activate a virtual environment first:")
         print("   python -m venv .venv")
