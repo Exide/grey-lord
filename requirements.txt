@@ -1,0 +1,9 @@
+# Core ML/DL dependencies
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data processing and utilities
+numpy>=1.24.0
+
+# Analysis and visualization
+matplotlib>=3.7.0
