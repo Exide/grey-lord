@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Find optimal batch size for training"""
 
+import sys
+from pathlib import Path
+
+# Add src directory to path to find config_utils
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+
 import torch
 from config_utils import get_model_config
 from calculate_max_seq_len import estimate_memory_usage

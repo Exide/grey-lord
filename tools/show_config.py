@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Display the current configuration"""
+"""Show current configuration"""
+
+import sys
+from pathlib import Path
+
+# Add src directory to path to find config_utils
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 from config_utils import print_config_summary, load_config
 import json

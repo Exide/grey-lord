@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Analyze context length vs batch size trade-offs for telnet data"""
 
+import sys
+from pathlib import Path
+
+# Add src directory to path to find config_utils
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+
 import torch
 from pathlib import Path
 from config_utils import get_model_config

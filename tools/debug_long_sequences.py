@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Debug CUDA crashes with long sequences"""
 
+import sys
+from pathlib import Path
+
+# Add src directory to path to find config_utils and train module
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+
 import torch
 import json
 from pathlib import Path

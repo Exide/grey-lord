@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Calculate maximum sequence length based on available GPU memory"""
 
+import sys
+from pathlib import Path
+
+# Add src directory to path to find config_utils
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+
 import torch
 import math
 from config_utils import get_model_config

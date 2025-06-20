@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Prepare training data by moving files from source directory to local training_data folder.
-This script will:
-1. Find files matching the training pattern
-2. Filter out files <= 1KB (too small for meaningful training)
-3. Move qualifying files to ./training_data/
-4. Provide detailed logging of the process
+Prepare training data from raw telnet log files.
+This script copies/moves files that meet size requirements to a training directory.
 """
+
+import sys
+from pathlib import Path
+
+# Add src directory to path to find config_utils
+sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 import argparse
 import shutil
