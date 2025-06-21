@@ -5,8 +5,8 @@ Grey Lord Agent Package
 Simple telnet client with AI assist for MajorMUD.
 """
 
-from .simple_telnet_client import SimpleTelnetClient
+from .telnet_client import TelnetClient
 
-__all__ = ['SimpleTelnetClient']
+__all__ = ['TelnetClient']
 
-__version__ = '1.0.0' 
+__version__ = '1.0.0'

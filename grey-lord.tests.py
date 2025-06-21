@@ -19,9 +19,10 @@ spec.loader.exec_module(grey_lord)
 # Import the functions we want to test
 setup_logging = grey_lord.setup_logging
 create_parser = grey_lord.create_parser
-route_to_training_cli = grey_lord.route_to_training_cli
-route_to_tools_cli = grey_lord.route_to_tools_cli
 start_agent_client = grey_lord.start_agent_client
+handle_train_command = grey_lord.handle_train_command
+handle_analyze_command = grey_lord.handle_analyze_command
+main = grey_lord.main
 
 
 class TestGreyLordFunctions(unittest.TestCase):
@@ -34,13 +35,18 @@ class TestGreyLordFunctions(unittest.TestCase):
         # Test that it's an ArgumentParser
         self.assertIsNotNone(parser)
         
-        # Test that it has the expected subcommands
-        # Parse help to check subcommands exist
-        with patch('sys.stderr'):  # Suppress help output
-            try:
-                parser.parse_args(['--help'])
-            except SystemExit:
-                pass  # Expected for --help
+        # Test that it has the expected subcommands by checking if we can parse them
+        # This tests the structure without triggering help output
+        test_commands = ['agent', 'train', 'analyze', 'debug', 'optimize', 'data', 'config', 'model']
+        
+        # Test agent command
+        args = parser.parse_args(['agent'])
+        self.assertEqual(args.command, 'agent')
+        
+        # Test train command with basic args
+        args = parser.parse_args(['train', '--epochs', '10'])
+        self.assertEqual(args.command, 'train')
+        self.assertEqual(args.epochs, 10)
     
     def test_setup_logging(self):
         """Test that logging is set up correctly."""
@@ -54,43 +60,36 @@ class TestGreyLordFunctions(unittest.TestCase):
             self.assertIn('format', call_args.kwargs)
             self.assertIn('handlers', call_args.kwargs)
     
-    @patch('subprocess.run')
-    def test_route_to_training_cli(self, mock_run):
-        """Test routing to training CLI."""
-        mock_run.return_value.returncode = 0
+    @patch('sys.path')
+    def test_handle_train_command_missing_imports(self, mock_path):
+        """Test the train command handler when training modules are missing."""
+        # Create mock args
+        mock_args = MagicMock()
+        mock_args.epochs = 10
+        mock_args.batch_size = 4
         
-        result = route_to_training_cli(['--epochs', '10'])
+        # The function should handle ImportError gracefully by calling sys.exit(1)
+        with self.assertRaises(SystemExit) as cm:
+            handle_train_command(mock_args)
         
-        # Check that subprocess.run was called
-        mock_run.assert_called_once()
-        
-        # Check the command structure
-        call_args = mock_run.call_args[0][0]
-        self.assertTrue(call_args[1].endswith('train.py'))
-        self.assertIn('--epochs', call_args)
-        self.assertIn('10', call_args)
-        
-        # Check return code
-        self.assertEqual(result, 0)
+        # Check that it exits with code 1 (error)
+        self.assertEqual(cm.exception.code, 1)
     
-    @patch('subprocess.run')
-    def test_route_to_tools_cli(self, mock_run):
-        """Test routing to tools CLI."""
-        mock_run.return_value.returncode = 0
+    @patch('sys.path')
+    def test_handle_analyze_command_missing_imports(self, mock_path):
+        """Test the analyze command handler when analysis modules are missing."""
+        # Create mock args
+        mock_args = MagicMock()
+        mock_args.training_dir = 'test_dir'
+        mock_args.output = 'test_output.png'
+        mock_args.format = 'png'
         
-        result = route_to_tools_cli(['analyze', '--help'])
+        # The function should handle ImportError gracefully by calling sys.exit(1)
+        with self.assertRaises(SystemExit) as cm:
+            handle_analyze_command(mock_args)
         
-        # Check that subprocess.run was called
-        mock_run.assert_called_once()
-        
-        # Check the command structure
-        call_args = mock_run.call_args[0][0]
-        self.assertTrue(call_args[1].endswith('tools.py'))
-        self.assertIn('analyze', call_args)
-        self.assertIn('--help', call_args)
-        
-        # Check return code
-        self.assertEqual(result, 0)
+        # Check that it exits with code 1 (error)
+        self.assertEqual(cm.exception.code, 1)
     
     @patch('agent.telnet_client.TelnetClient')
     def test_start_agent_client_success(self, mock_client_class):
@@ -130,6 +129,38 @@ class TestGreyLordFunctions(unittest.TestCase):
         result = start_agent_client('test_config.json')
         
         # Should return 1 for error
+        self.assertEqual(result, 1)
+
+    @patch.object(grey_lord, 'start_agent_client')
+    @patch.object(grey_lord, 'create_parser')
+    def test_main_agent_command(self, mock_create_parser, mock_start_agent):
+        """Test main function routing to agent command."""
+        # Mock parser and args
+        mock_parser = MagicMock()
+        mock_args = MagicMock()
+        mock_args.command = 'agent'
+        mock_args.config = 'test_config.json'
+        mock_parser.parse_args.return_value = mock_args
+        mock_create_parser.return_value = mock_parser
+        
+        mock_start_agent.return_value = 0
+        
+        with patch('sys.argv', ['grey-lord.py', 'agent']):
+            result = main()
+        
+        mock_start_agent.assert_called_once_with('test_config.json')
+        self.assertEqual(result, 0)
+
+    @patch.object(grey_lord, 'create_parser')
+    def test_main_no_args(self, mock_create_parser):
+        """Test main function with no arguments shows help."""
+        mock_parser = MagicMock()
+        mock_create_parser.return_value = mock_parser
+        
+        with patch('sys.argv', ['grey-lord.py']):
+            result = main()
+        
+        mock_parser.print_help.assert_called_once()
         self.assertEqual(result, 1)
 
 
