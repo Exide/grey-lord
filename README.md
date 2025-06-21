@@ -18,8 +18,10 @@ pip install -r requirements.txt
 # Train a model
 python grey-lord.py train --epochs 50 --batch-size 32
 
+# Run the AI agent
+python grey-lord.py agent start --config agent_config.json
+
 # Analyze results
-python grey-lord.py model list
 python grey-lord.py analyze --training-dir models/your-model-name
 ```
 
@@ -27,19 +29,25 @@ python grey-lord.py analyze --training-dir models/your-model-name
 
 ```
 grey-lord/
-├── grey-lord.py                   # Main CLI interface
-├── requirements.txt               # Python dependencies
-├── model_config.json              # Configuration
-├── src/                           # Core code
-│   ├── train.py                   # Training logic
+├── cli/                           # Command-line interfaces
+│   ├── train.py                   # Model training CLI
+│   ├── agent.py                   # AI agent CLI
+│   └── tools.py                   # Analysis & debug tools CLI
+├── training/                      # Model training code
+│   ├── trainer.py                 # Training logic
 │   ├── model_manager.py           # Model management
 │   └── config_utils.py            # Configuration utilities
-├── tools/                         # Utility scripts
+├── agent/                         # AI agent code
+├── analysis/                      # Analysis & debugging tools
+├── shared/                        # Shared utilities
 ├── data/                          # Vocabulary and training data
 │   ├── vocab_to_int.json          # Vocabulary mappings
 │   ├── int_to_vocab.json          # Reverse vocabulary  
-│   └── training_data_v1/          # Dataset version 1
-└── models/                        # Trained models
+│   ├── training_data_v1/          # Dataset version 1
+│   └── agent_state/               # AI agent state & history
+├── models/                        # Trained models
+├── agent_config.json              # AI agent configuration
+└── model_config.json              # Training configuration
 ```
 
 ## Training
@@ -56,7 +64,7 @@ python grey-lord.py train --model-path models/your-model --epochs 25
 
 **Custom parameters:**
 ```bash
-python grey-lord.py train --epochs 100 --batch-size 16 --learning-rate 1e-4 --max-seq-len 2048
+python grey-lord.py train --epochs 100 --batch-size 16 --learning-rate 1e-4 --context-window 2048
 ```
 
 ## Analysis & Management
@@ -86,12 +94,12 @@ python grey-lord.py model cleanup --keep 5
 
 **Find optimal batch size:**
 ```bash
-python grey-lord.py optimize batch-size
+python grey-lord.py optimize batch-size --memory-gb 8
 ```
 
 **Calculate memory usage:**
 ```bash
-python grey-lord.py optimize memory
+python grey-lord.py optimize memory --model-path models/your-model
 ```
 
 ## Debugging
@@ -103,12 +111,19 @@ python grey-lord.py debug vocab
 
 **Validate model:**
 ```bash
-python grey-lord.py debug model
+python grey-lord.py debug model --model-path models/your-model
 ```
 
 **View configuration:**
 ```bash
 python grey-lord.py config show
+```
+
+## AI Agent
+
+**Start the AI agent:**
+```bash
+python grey-lord.py agent --config agent_config.json
 ```
 
 ## Technical Details

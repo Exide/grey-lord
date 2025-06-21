@@ -1,0 +1,19 @@
+{
+  "connection": {
+    "mud_server": {
+      "host": "localhost",
+      "port": 23
+    }
+  },
+  
+  "monitoring": {
+    "logging": {
+      "level": "INFO"
+    }
+  },
+  
+  "model_settings": {
+    "model_path": "models/v1_new_batch-1_learning-rate-5e5_seq-8k_1750373340/model-current",
+    "tokenizer_path": "data/"
+  }
+}
