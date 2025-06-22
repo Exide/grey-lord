@@ -15,14 +15,33 @@ from transformers import AutoModelForCausalLM
 def main():
     print("=== Model Configuration Debug ===")
     
-    model_path = Path("trained_model")
-    if not model_path.exists():
-        print(f"ERROR: {model_path} not found!")
+    # Look for model files in current directory (we're cd'd into the model directory)
+    current_dir = Path(".")
+    
+    # Check for various model files
+    model_files = list(current_dir.glob("*.safetensors")) + list(current_dir.glob("pytorch_model.bin"))
+    config_file = current_dir / "config.json"
+    
+    if not config_file.exists():
+        print(f"ERROR: config.json not found in {current_dir.resolve()}!")
+        print("Available files:")
+        for f in current_dir.iterdir():
+            if f.is_file():
+                print(f"  {f.name}")
+        return
+    
+    if not model_files:
+        print(f"ERROR: No model files (*.safetensors or pytorch_model.bin) found in {current_dir.resolve()}!")
+        print("Available files:")
+        for f in current_dir.iterdir():
+            if f.is_file():
+                print(f"  {f.name}")
         return
     
     try:
         # Load model and check all configuration
-        model = AutoModelForCausalLM.from_pretrained(model_path)
+        print(f"Loading model from: {current_dir.resolve()}")
+        model = AutoModelForCausalLM.from_pretrained(current_dir)
         config = model.config
         
         print(f"Model type: {config.model_type}")
@@ -33,15 +52,15 @@ def main():
         print(f"Number of heads: {config.n_head if hasattr(config, 'n_head') else config.num_heads}")
         
         # Check if position embeddings match what we're trying to use
-        max_seq_len = 4096  # This is what you're using in training
+        max_seq_len = 2048  # Based on your model name: seq-2k
         max_pos_emb = config.n_positions if hasattr(config, 'n_positions') else config.max_position_embeddings
         
         print(f"\n=== Position Embedding Check ===")
-        print(f"Requested max sequence length: {max_seq_len}")
+        print(f"Detected max sequence length from model name: {max_seq_len}")
         print(f"Model's max position embeddings: {max_pos_emb}")
         
         if max_seq_len > max_pos_emb:
-            print(f"❌ PROBLEM: Requested sequence length ({max_seq_len}) > Model's max position embeddings ({max_pos_emb})")
+            print(f"❌ PROBLEM: Detected sequence length ({max_seq_len}) > Model's max position embeddings ({max_pos_emb})")
             print("   This will cause indexing errors!")
             print(f"   Solution: Use --context-window {max_pos_emb} or smaller")
         else:
@@ -64,9 +83,26 @@ def main():
             print(f"Actual position embedding size from weights: {actual_pos_emb_size}")
             
             if actual_pos_emb_size < max_seq_len:
-                print(f"❌ CRITICAL: Position embedding weights only support {actual_pos_emb_size} positions, but you're using {max_seq_len}")
-                print(f"   This is likely the cause of the CUDA assertion error!")
+                print(f"❌ CRITICAL: Position embedding weights only support {actual_pos_emb_size} positions, but model name suggests {max_seq_len}")
+                print(f"   This could cause CUDA assertion errors!")
                 
+        # Check vocabulary compatibility if vocab files exist
+        vocab_to_int_file = current_dir / "vocab_to_int.json"
+        if vocab_to_int_file.exists():
+            print(f"\n=== Vocabulary Compatibility Check ===")
+            with open(vocab_to_int_file, 'r') as f:
+                vocab_to_int = json.load(f)
+            
+            calculated_vocab_size = max(vocab_to_int.values()) + 1
+            print(f"Vocabulary file vocab size: {calculated_vocab_size}")
+            print(f"Model config vocab size: {config.vocab_size}")
+            
+            if calculated_vocab_size != config.vocab_size:
+                print(f"❌ VOCAB MISMATCH: File vocab size ({calculated_vocab_size}) != Model vocab size ({config.vocab_size})")
+                print("   This will cause CUDA indexing errors!")
+            else:
+                print("✅ Vocabulary sizes match")
+        
         # Try a small test forward pass
         print(f"\n=== Test Forward Pass ===")
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -100,6 +136,8 @@ def main():
                 
     except Exception as e:
         print(f"Error during model analysis: {e}")
+        import traceback
+        traceback.print_exc()
 
 if __name__ == "__main__":
     main() 

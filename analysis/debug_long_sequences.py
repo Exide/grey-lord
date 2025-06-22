@@ -4,15 +4,17 @@
 import sys
 from pathlib import Path
 
-# Add src directory to path to find config_utils and train module
-sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+# Add training directory to path to find training modules
+sys.path.insert(0, str(Path(__file__).parent.parent / "training"))
 
 import torch
 import json
 from pathlib import Path
 from transformers import GPT2Config, AutoModelForCausalLM
 from config_utils import get_model_config, get_data_config, get_vocab_config
-from train import load_vocabulary, custom_tokenizer, ByteStreamDataset, collate_fn
+from vocab import load_vocabulary
+from tokenizer import custom_tokenizer
+from dataset import ByteStreamDataset, collate_fn
 import traceback
 
 def test_synthetic_data(model, vocab_size, max_seq_len):
@@ -211,9 +213,15 @@ def debug_cuda_crash():
     model_config = get_model_config()
     data_config = get_data_config()
     
+    # Use default data configuration if not specified
+    data_dir = data_config.get("default_data_dir", "./data")
+    file_glob = data_config.get("default_file_glob", "*")
+    
     print(f"Vocabulary size: {vocab_size}")
     print(f"Model max positions: {model_config['n_positions']}")
     print(f"Pad token ID: {pad_token_id}")
+    print(f"Data directory: {data_dir}")
+    print(f"File pattern: {file_glob}")
     
     # Create a fresh model
     config = GPT2Config(
@@ -247,56 +255,62 @@ def debug_cuda_crash():
     
     print("✅ Synthetic data tests passed - issue is with real data!")
     
-    # Step 2: Analyze real data tokens
-    print(f"\n{'='*60}")
-    print("STEP 2: Analyzing real data tokens")
-    
-    valid_data, invalid_tokens = analyze_real_data_tokens(
-        data_config["default_data_dir"], 
-        data_config["default_file_glob"], 
-        vocab_to_int
-    )
-    
-    if not valid_data:
-        print("❌ Invalid tokens found in data!")
-        print(f"Invalid token IDs: {invalid_tokens[:20]}...")
-        return
-    
-    # Step 3: Test dataloader with different lengths
-    print(f"\n{'='*60}")
-    print("STEP 3: Testing dataloader")
-    
-    if not test_dataloader_with_different_lengths(
-        data_config["default_data_dir"], 
-        data_config["default_file_glob"], 
-        vocab_to_int, 
-        pad_token_id,
-        [512, 1024, 2048, 4096]
-    ):
-        print("❌ Dataloader issues found!")
-        return
-    
-    # Step 4: Test model with real data
-    print(f"\n{'='*60}")
-    print("STEP 4: Testing model with real data")
-    
-    print("Testing with working sequence length...")
-    if not test_model_with_real_data(model, data_config["default_data_dir"], 
-                                   data_config["default_file_glob"], 
-                                   vocab_to_int, pad_token_id, working_seq_len):
-        print("❌ Model fails with real data at working length!")
-        return
-    
-    print("Testing with failing sequence length...")
-    if not test_model_with_real_data(model, data_config["default_data_dir"], 
-                                   data_config["default_file_glob"], 
-                                   vocab_to_int, pad_token_id, failing_seq_len):
-        print("❌ Model fails with real data at failing length!")
-        return
-    
-    print("\n" + "="*60)
-    print("🎉 ALL TESTS PASSED! The issue might be training-specific.")
-    print("Try running with CUDA_LAUNCH_BLOCKING=1 for better error messages.")
+    # Step 2: Analyze real data tokens (only if data directory exists)
+    data_path = Path(data_dir)
+    if data_path.exists():
+        print(f"\n{'='*60}")
+        print("STEP 2: Analyzing real data tokens")
+        
+        valid_data, invalid_tokens = analyze_real_data_tokens(
+            data_dir, 
+            file_glob, 
+            vocab_to_int
+        )
+        
+        if not valid_data:
+            print("❌ Invalid tokens found in data!")
+            print(f"Invalid token IDs: {invalid_tokens[:20]}...")
+            return
+        
+        # Step 3: Test dataloader with different lengths
+        print(f"\n{'='*60}")
+        print("STEP 3: Testing dataloader")
+        
+        if not test_dataloader_with_different_lengths(
+            data_dir, 
+            file_glob, 
+            vocab_to_int, 
+            pad_token_id,
+            [512, 1024, 2048, 4096]
+        ):
+            print("❌ Dataloader issues found!")
+            return
+        
+        # Step 4: Test model with real data
+        print(f"\n{'='*60}")
+        print("STEP 4: Testing model with real data")
+        
+        print("Testing with working sequence length...")
+        if not test_model_with_real_data(model, data_dir, 
+                                       file_glob, 
+                                       vocab_to_int, pad_token_id, working_seq_len):
+            print("❌ Model fails with real data at working length!")
+            return
+        
+        print("Testing with failing sequence length...")
+        if not test_model_with_real_data(model, data_dir, 
+                                       file_glob, 
+                                       vocab_to_int, pad_token_id, failing_seq_len):
+            print("❌ Model fails with real data at failing length!")
+            return
+        
+        print("\n" + "="*60)
+        print("🎉 ALL TESTS PASSED! The issue might be training-specific.")
+        print("Try running with CUDA_LAUNCH_BLOCKING=1 for better error messages.")
+    else:
+        print(f"\n⚠️  Data directory '{data_dir}' not found - skipping real data tests")
+        print("✅ Synthetic data tests completed successfully!")
+        print("To test with real data, make sure your data directory exists and contains training files.")
 
 if __name__ == "__main__":
     debug_cuda_crash() 

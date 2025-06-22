@@ -18,6 +18,7 @@ from pathlib import Path
 from typing import Dict, Any, Optional, List
 from collections import deque
 import re
+from datetime import datetime
 
 # Platform-specific imports
 if sys.platform == "win32":
@@ -30,8 +31,67 @@ else:
     import select
 
 
+class SessionRecorder:
+    """Records agent sessions for training data collection."""
+    
+    def __init__(self, session_dir: Path):
+        self.session_dir = session_dir
+        self.session_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Create session file
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.session_file = self.session_dir / f"session_{timestamp}.jsonl"
+        self.experience_file = self.session_dir / f"experience_{timestamp}.jsonl"
+        
+        # Session state
+        self.session_start = time.time()
+        self.total_commands = 0
+        self.ai_commands = 0
+        self.session_data = []
+        self.experience_buffer = []
+        
+    def record_interaction(self, interaction_type: str, data: Dict[str, Any]):
+        """Record an interaction for training data."""
+        record = {
+            'timestamp': time.time(),
+            'session_time': time.time() - self.session_start,
+            'type': interaction_type,
+            'data': data
+        }
+        
+        # Write to file immediately (streaming)
+        with open(self.session_file, 'a', encoding='utf-8') as f:
+            f.write(json.dumps(record) + '\n')
+    
+    def record_ai_decision(self, context: str, command: str, outcome: str = None):
+        """Record AI decision-making for reinforcement learning."""
+        experience = {
+            'timestamp': time.time(),
+            'context': context,
+            'action': command,
+            'outcome': outcome,  # Will be filled in later when we see results
+            'session_id': self.session_file.stem
+        }
+        
+        self.experience_buffer.append(experience)
+        
+        # Write experience data
+        with open(self.experience_file, 'a', encoding='utf-8') as f:
+            f.write(json.dumps(experience) + '\n')
+    
+    def get_session_summary(self) -> Dict[str, Any]:
+        """Get summary of current session."""
+        return {
+            'session_duration': time.time() - self.session_start,
+            'total_commands': self.total_commands,
+            'ai_commands': self.ai_commands,
+            'session_file': str(self.session_file),
+            'experience_file': str(self.experience_file)
+        }
+
+
 class TelnetClient:
-    """Simple telnet client with AI assist."""
+    """Simple telnet client with AI assist and enhanced data collection."""
     
     def __init__(self, config_path: str):
         """Initialize the telnet client."""
@@ -58,6 +118,15 @@ class TelnetClient:
         # Context for AI
         self.context_buffer = deque(maxlen=1000)
         
+        # Enhanced data collection
+        self.data_collection_enabled = self.config.get('data_collection', {}).get('enabled', True)
+        if self.data_collection_enabled:
+            data_dir = Path(self.config.get('data_collection', {}).get('directory', 'data/agent_sessions'))
+            self.session_recorder = SessionRecorder(data_dir)
+            print(f"📊 Session recording enabled: {self.session_recorder.session_file}")
+        else:
+            self.session_recorder = None
+        
         # Trained model integration
         self.ai_model = None
         self.tokenizer = None
@@ -68,7 +137,6 @@ class TelnetClient:
         self.pending_commands = 0  # Track commands waiting for response
         self.max_pending_commands = 5
         
-        self.logger = logging.getLogger('TelnetClient')
         self.logger.info("Simple Telnet Client initialized with AI intelligence")
         
         # Try to load the trained model
@@ -89,16 +157,29 @@ class TelnetClient:
             raise RuntimeError(f"Failed to load config from {self.config_path}: {e}")
     
     def _setup_logging(self):
-        """Set up logging."""
+        """Set up logging for the agent."""
         log_level = getattr(logging, self.config['monitoring']['logging']['level'])
-        logging.basicConfig(
-            level=log_level,
-            format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-            handlers=[
-                logging.FileHandler('agent.log'),
-                logging.StreamHandler()
-            ]
-        )
+        
+        # Create logger
+        self.logger = logging.getLogger('TelnetClient')
+        self.logger.setLevel(log_level)
+        
+        # Avoid duplicate handlers
+        if not self.logger.handlers:
+            # Create formatter
+            formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+            
+            # File handler
+            file_handler = logging.FileHandler('agent.log')
+            file_handler.setLevel(log_level)
+            file_handler.setFormatter(formatter)
+            self.logger.addHandler(file_handler)
+            
+            # Console handler (only for errors and warnings to avoid cluttering terminal)
+            console_handler = logging.StreamHandler()
+            console_handler.setLevel(logging.WARNING)
+            console_handler.setFormatter(formatter)
+            self.logger.addHandler(console_handler)
     
     def connect(self) -> bool:
         """Connect to the server."""
@@ -233,6 +314,12 @@ class TelnetClient:
                         data_str = data.decode('utf-8', errors='replace')
                         self.context_buffer.append(data_str)
                         
+                        # Record server data for training
+                        self._record_interaction('server_data', 
+                                               raw_data=data.hex(),
+                                               text_data=data_str,
+                                               length=len(data))
+                        
                         # Track server responses to manage command rate limiting
                         if self.pending_commands > 0:
                             # Simple heuristic: if we get a prompt-like response, a command was processed
@@ -354,9 +441,22 @@ class TelnetClient:
                 time.sleep(1.0)  # Wait 1 second between commands
                 
                 if self.ai_mode and self.pending_commands < self.max_pending_commands:
+                    # Get current context for decision recording
+                    current_context = self._build_model_context()
                     command = self._get_model_decision()
                     
                     if command and self._is_safe_command(command):
+                        # Record AI decision for training data
+                        if self.session_recorder:
+                            self.session_recorder.record_ai_decision(current_context, command)
+                            self.session_recorder.ai_commands += 1
+                        
+                        # Record command interaction
+                        self._record_interaction('ai_command',
+                                               command=command,
+                                               context=current_context[:500],  # Truncate for storage
+                                               pending_commands=self.pending_commands)
+                        
                         # Show what AI is doing
                         sys.stdout.write(f"[AI] {command}\r\n")
                         sys.stdout.flush()
@@ -368,6 +468,10 @@ class TelnetClient:
                         # AI doesn't have a good idea right now - that's fine, stay quiet
                         if command:
                             self.logger.debug(f"AI generated invalid/unsafe command: {repr(command)}")
+                            # Record rejected commands too
+                            self._record_interaction('ai_command_rejected',
+                                                   command=command,
+                                                   reason='unsafe' if not self._is_safe_command(command) else 'invalid')
                     
             except Exception as e:
                 self.logger.error(f"AI loop error: {e}")
@@ -630,8 +734,6 @@ class TelnetClient:
         
         return True
     
-
-    
     def _load_trained_model(self):
         """Load the trained GPT-2 model and tokenizer."""
         try:
@@ -722,7 +824,10 @@ class TelnetClient:
             self.logger.error(f"Failed to load custom tokenizer: {e}")
             return None
     
-
+    def _record_interaction(self, interaction_type: str, **kwargs):
+        """Record interaction if data collection is enabled."""
+        if self.session_recorder:
+            self.session_recorder.record_interaction(interaction_type, kwargs)
 
 
 def main():
@@ -734,7 +839,7 @@ def main():
     args = parser.parse_args()
     
     try:
-        client = SimpleTelnetClient(args.config)
+        client = TelnetClient(args.config)
         client.start()
     except Exception as e:
         print(f"Error: {e}")

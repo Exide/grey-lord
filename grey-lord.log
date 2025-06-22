@@ -1,0 +1,27 @@
+2025-06-21 02:09:17,832 - TelnetClient - INFO - Simple Telnet Client initialized with AI intelligence
+2025-06-21 02:09:20,360 - TelnetClient - INFO - Loading trained model from models/v1_new_batch-1_learning-rate-5e5_seq-8k_1750373340/model-current
+2025-06-21 02:09:21,931 - TelnetClient - INFO - Model loaded on GPU
+2025-06-21 02:09:21,931 - TelnetClient - INFO - Trained model and tokenizer loaded successfully
+2025-06-21 02:09:21,933 - TelnetClient - INFO - Connected to localhost:23
+2025-06-21 02:09:33,485 - TelnetClient - INFO - AI mode enabled
+2025-06-21 02:09:56,764 - TelnetClient - ERROR - Model generation error: object of type 'NoneType' has no len()
+2025-06-21 02:09:59,056 - TelnetClient - ERROR - Model generation error: object of type 'NoneType' has no len()
+2025-06-21 02:10:03,620 - TelnetClient - ERROR - Model generation error: object of type 'NoneType' has no len()
+2025-06-21 02:10:04,777 - TelnetClient - ERROR - Model generation error: object of type 'NoneType' has no len()
+2025-06-21 02:10:08,250 - TelnetClient - ERROR - Model generation error: object of type 'NoneType' has no len()
+2025-06-21 02:10:08,301 - TelnetClient - INFO - AI mode disabled
+2025-06-21 02:10:08,301 - TelnetClient - INFO - Disconnected
+2025-06-21 02:22:39,179 - matplotlib.font_manager - INFO - generated new fontManager
+2025-06-21 02:23:54,741 - TelnetClient - INFO - Simple Telnet Client initialized with AI intelligence
+2025-06-21 02:23:57,147 - TelnetClient - INFO - Loading trained model from models/1_new_batch-16_seq-2k_1750458290
+2025-06-21 02:23:58,516 - TelnetClient - INFO - Model loaded on GPU
+2025-06-21 02:23:58,516 - TelnetClient - INFO - Trained model and tokenizer loaded successfully
+2025-06-21 02:23:58,518 - TelnetClient - INFO - Connected to localhost:23
+2025-06-21 02:24:12,922 - TelnetClient - INFO - AI mode enabled
+2025-06-21 02:24:14,319 - TelnetClient - DEBUG - Failed to extract command from: '<|server|>byte_50byte_232byte_250byte_127<|delay_short|>byte_82byte_47byte_77byte_77byte_69byte_68byte_32byte_114byte_111'
+2025-06-21 02:24:15,427 - TelnetClient - DEBUG - Failed to extract command from: '<|client|>byte_50byte_50byte_232byte_250byte_127<|delay_short|>byte_27byte_91byte_51byte_54byte_109byte_32byte_32byte_32'
+2025-06-21 02:24:16,556 - TelnetClient - DEBUG - Failed to extract command from: '<|client|>byte_50byte_50byte_49byte_49byte_109byte_32byte_32byte_77byte_13byte_27byte_91byte_52byte_53byte_54'
+2025-06-21 02:24:17,678 - TelnetClient - DEBUG - Model generated: 'byte_115byte_115byte_32byte_32byte_32byte_40byte_84byte_66byte_70byte_83byte_69byte_115byte_115byte_115byte_116' -> 'ss   (TBFSEssst'
+2025-06-21 02:24:18,807 - TelnetClient - ERROR - Model generation error: object of type 'NoneType' has no len()
+2025-06-21 02:24:19,343 - TelnetClient - INFO - AI mode disabled
+2025-06-21 02:24:19,343 - TelnetClient - INFO - Disconnected

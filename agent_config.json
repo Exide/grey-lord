@@ -8,12 +8,20 @@
   
   "monitoring": {
     "logging": {
-      "level": "INFO"
+      "level": "DEBUG"
     }
   },
   
   "model_settings": {
-    "model_path": "models/v1_new_batch-1_learning-rate-5e5_seq-8k_1750373340/model-current",
+    "model_path": "models/1_new_batch-16_seq-2k_1750458290",
     "tokenizer_path": "data/"
+  },
+  
+  "data_collection": {
+    "enabled": true,
+    "directory": "data/agent_sessions",
+    "collect_raw_data": true,
+    "collect_ai_decisions": true,
+    "collect_outcomes": true
   }
 }

@@ -1,0 +1,30 @@
+{
+  "model_path": null,
+  "data_dir": "data/training_data_v1",
+  "file_glob": "*",
+  "num_epochs": 50,
+  "batch_size": 16,
+  "learning_rate": 0.0003,
+  "max_seq_len": 2048,
+  "val_split": 0.25,
+  "patience": 5,
+  "vocab_size": 262,
+  "model_vocab_size": 262,
+  "num_training_files": 98,
+  "num_validation_files": 32,
+  "training_data_size": 563488372,
+  "training_start_time": "2025-06-20T15:24:52.392571",
+  "device": "cuda",
+  "gradient_clip": 1.0,
+  "weight_decay": 0.01,
+  "training_end_time": "2025-06-21T02:08:43.897184",
+  "final_results": {
+    "best_epoch": 50,
+    "best_val_loss": 1.1299410462379456,
+    "final_train_loss": 1.0842842033931188,
+    "final_val_loss": 1.1299410462379456,
+    "total_training_time_minutes": 643.8580616275469,
+    "early_stopped": false,
+    "epochs_completed": 50
+  }
+}

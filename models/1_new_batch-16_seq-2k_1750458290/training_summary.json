@@ -1,0 +1,16 @@
+{
+  "model_name": "1_new_batch-16_seq-2k_1750458290",
+  "training_completed": "2025-06-21T02:08:43.899182",
+  "best_epoch": 50,
+  "best_validation_loss": 1.1299410462379456,
+  "total_epochs": 50,
+  "training_time_minutes": 643.86,
+  "early_stopped": false,
+  "data_size": "537.4MB",
+  "model_parameters": 1875456,
+  "regularization": {
+    "dropout": 0.1,
+    "weight_decay": 0.01,
+    "gradient_clip": 1.0
+  }
+}
