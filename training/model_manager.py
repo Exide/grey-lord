@@ -10,15 +10,15 @@ from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 
 def get_model_directories() -> List[Path]:
-    """Find all model directories in the models/ directory."""
-    models_dir = Path("models")
-    if not models_dir.exists():
+    """Find all model directories in the models/all/ directory."""
+    models_all_dir = Path("models/all")
+    if not models_all_dir.exists():
         return []
     
     model_dirs = []
     
     # Look for directories that contain training artifacts
-    for item in models_dir.iterdir():
+    for item in models_all_dir.iterdir():
         if item.is_dir() and not item.name.startswith('.'):
             # Check for training summary or model files
             has_summary = (item / "training_summary.json").exists()
@@ -226,33 +226,49 @@ def create_model_links() -> None:
         summary = load_model_summary(model_dir)
         if summary and 'best_validation_loss' in summary:
             val_loss = summary['best_validation_loss']
-            if val_loss < best_val_loss:
+            # Only compare if val_loss is a number (not "unknown" string)
+            if isinstance(val_loss, (int, float)) and val_loss < best_val_loss:
                 best_val_loss = val_loss
                 best_model = model_dir
     
-    # Create links
-    latest_link = Path("latest")
-    best_link = Path("best")
+    # Create links inside models directory
+    models_dir = Path("models")
+    latest_link = models_dir / "latest"
+    best_link = models_dir / "best"
     
-    # Remove existing links
+    # Remove existing links (including broken symlinks)
     for link in [latest_link, best_link]:
-        if link.exists() or link.is_symlink():
-            link.unlink()
+        try:
+            if link.exists() or link.is_symlink():
+                link.unlink()
+                print(f"🗑️  Removed existing {link.name} symlink")
+        except FileNotFoundError:
+            # Link doesn't exist, which is fine
+            pass
+        except Exception as e:
+            print(f"⚠️  Warning: Could not remove existing {link.name}: {e}")
+            # Try to force remove it
+            try:
+                link.unlink(missing_ok=True)
+            except:
+                pass
     
-    # Create new links
+    # Create new links (point to all/modelname since models are in models/all/)
     if latest_model:
         try:
-            latest_link.symlink_to(latest_model, target_is_directory=True)
-            print(f"✅ 'latest' -> {latest_model.name}")
+            target_path = Path("all") / latest_model.name
+            latest_link.symlink_to(target_path, target_is_directory=True)
+            print(f"✅ 'models/latest' -> {target_path}")
         except Exception as e:
-            print(f"❌ Failed to create 'latest' link: {e}")
+            print(f"❌ Failed to create 'models/latest' link: {e}")
     
     if best_model:
         try:
-            best_link.symlink_to(best_model, target_is_directory=True)
-            print(f"✅ 'best' -> {best_model.name} (val_loss: {best_val_loss:.4f})")
+            target_path = Path("all") / best_model.name
+            best_link.symlink_to(target_path, target_is_directory=True)
+            print(f"✅ 'models/best' -> {target_path} (val_loss: {best_val_loss:.4f})")
         except Exception as e:
-            print(f"❌ Failed to create 'best' link: {e}")
+            print(f"❌ Failed to create 'models/best' link: {e}")
 
 def export_model_for_deployment(model_dir: str, output_dir: str = "deployment") -> None:
     """Export a model with minimal files needed for deployment."""

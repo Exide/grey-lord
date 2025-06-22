@@ -1,0 +1,23 @@
+{
+  "model_name": "v1_new_batch-1_learning-rate-5e5_seq-8k_1750373340",
+  "training_completed": "2025-06-19T17:19:22.575264",
+  "best_epoch": "unknown",
+  "best_validation_loss": "unknown",
+  "total_epochs": "unknown",
+  "training_time_minutes": "unknown",
+  "early_stopped": "unknown",
+  "data_size": "unknown",
+  "model_parameters": 6962688,
+  "model_file_size_mb": 26.3,
+  "regularization": {
+    "dropout": 0.1,
+    "weight_decay": "unknown",
+    "gradient_clip": "unknown"
+  },
+  "inferred_training_config": {
+    "batch_size": 1,
+    "learning_rate": 5e-05,
+    "sequence_length": 8000
+  },
+  "note": "This training summary was backfilled from available artifacts. Training metrics are not available."
+}

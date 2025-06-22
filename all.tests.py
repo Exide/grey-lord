@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-All Tests Runner for Grey Lord
+Grey Lord Test Runner
 
-This script discovers and runs all *.tests.py files in the repository.
-It provides a unified way to run the complete test suite.
+Discovers and runs all test files in the repository.
+Supports both standalone execution and integration with other test frameworks.
 
-Usage:
-    python all.tests.py
-    python all.tests.py -v  (verbose output)
+USAGE:
+    python all.tests.py         (run all *.tests.py files)
+    python all.tests.py -v      (verbose output)
     python all.tests.py --pattern "*test*"  (custom pattern)
 """
 
@@ -36,20 +36,15 @@ def discover_and_run_tests(pattern="*.tests.py", start_dir=".", verbose=False):
     # Create a test suite
     suite = unittest.TestSuite()
     
-    # Find all test files
+    # Find all test files using pathlib for cross-platform compatibility
     test_files = []
-    current_file = os.path.abspath(__file__)
+    current_file = Path(__file__).resolve()
+    start_path = Path(start_dir).resolve()
     
-    for root, dirs, files in os.walk(start_dir):
-        # Skip __pycache__ directories
-        dirs[:] = [d for d in dirs if d != '__pycache__']
-        
-        for file in files:
-            if file.endswith('.tests.py'):
-                test_file_path = os.path.abspath(os.path.join(root, file))
-                # Skip the current file (all.tests.py)
-                if test_file_path != current_file:
-                    test_files.append(test_file_path)
+    for test_file in start_path.rglob("*.tests.py"):
+        # Skip the current file (all.tests.py) and __pycache__ directories
+        if test_file != current_file and "__pycache__" not in str(test_file):
+            test_files.append(test_file)
     
     if not test_files:
         print(f"❌ No test files found matching pattern '{pattern}' in '{start_dir}'")
@@ -57,7 +52,7 @@ def discover_and_run_tests(pattern="*.tests.py", start_dir=".", verbose=False):
     
     print(f"🔍 Found {len(test_files)} test files:")
     for test_file in sorted(test_files):
-        rel_path = os.path.relpath(test_file, start_dir)
+        rel_path = test_file.relative_to(start_path)
         print(f"   📄 {rel_path}")
     print()
     
@@ -67,12 +62,12 @@ def discover_and_run_tests(pattern="*.tests.py", start_dir=".", verbose=False):
     
     for test_file in test_files:
         try:
-            # Convert file path to module path
-            rel_path = os.path.relpath(test_file, start_dir)
-            module_path = rel_path.replace(os.sep, '.').replace('.py', '')
+            # Convert file path to module path using pathlib
+            rel_path = test_file.relative_to(start_path)
+            module_path = str(rel_path.with_suffix('')).replace(os.sep, '.')
             
             # Add the directory to sys.path if needed
-            test_dir = os.path.dirname(os.path.abspath(test_file))
+            test_dir = str(test_file.parent)
             if test_dir not in sys.path:
                 sys.path.insert(0, test_dir)
             
@@ -91,7 +86,8 @@ def discover_and_run_tests(pattern="*.tests.py", start_dir=".", verbose=False):
             
         except Exception as e:
             failed_imports.append((test_file, str(e)))
-            print(f"❌ Failed to load: {os.path.relpath(test_file, start_dir)}")
+            rel_path = test_file.relative_to(start_path)
+            print(f"❌ Failed to load: {rel_path}")
             print(f"   Error: {e}")
     
     print(f"\n📊 Test Discovery Summary:")
@@ -101,7 +97,7 @@ def discover_and_run_tests(pattern="*.tests.py", start_dir=".", verbose=False):
     if failed_imports:
         print(f"\n⚠️  Failed imports:")
         for file_path, error in failed_imports:
-            rel_path = os.path.relpath(file_path, start_dir)
+            rel_path = file_path.relative_to(start_path)
             print(f"   • {rel_path}: {error}")
     
     if successful_imports == 0:
@@ -183,7 +179,7 @@ Examples:
     print("🧪 Grey Lord Test Runner")
     print("=" * 40)
     print(f"Pattern: {args.pattern}")
-    print(f"Directory: {os.path.abspath(args.dir)}")
+    print(f"Directory: {Path(args.dir).resolve()}")
     print(f"Verbose: {args.verbose}")
     print()
     
@@ -203,7 +199,7 @@ Examples:
 
 
 if __name__ == "__main__":
-    # Add current directory to Python path
-    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    # Add current directory to Python path using pathlib
+    sys.path.insert(0, str(Path(__file__).parent))
     
     sys.exit(main()) 
