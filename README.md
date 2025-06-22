@@ -1,82 +1,73 @@
-# Grey Lord - MajorMUD AI Agent
+# Grey Lord - MajorMUD AI
 
-A GPT-2 language model that learns to play MajorMUD by training on binary telnet data, then autonomously plays the game.
+A language model trained on raw MajorMUD bytes sent/received from many play sessions. Includes an agent that can be enabled within a command-line Telnet connection.
 
 ## Quick Start
 
 ```bash
 # Setup
 python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # Linux/Mac
+source .venv/bin/activate
 pip install -r requirements.txt
-
-# Train a model
-python grey-lord.py train --epochs 50
-
-# Run the AI agent
-python grey-lord.py agent --config agent_config.json
+python grey-lord.py --help
 ```
 
 ## Commands
 
-**AI Agent:**
+**Agent:**
 ```bash
-python grey-lord.py agent [--config agent_config.json]
+python grey-lord.py agent start --config agent_config.json
 ```
 
-**Training:**
+**Model Training:**
 ```bash
 # Basic training
-python grey-lord.py train --epochs 50
+python grey-lord.py model train --epochs 50
 
 # Continue from checkpoint
-python grey-lord.py train --model-path models/your-model --epochs 25
+python grey-lord.py model train --model-path models/your-model --epochs 25
 
 # Custom parameters
-python grey-lord.py train --epochs 100 --batch-size 16 --learning-rate 1e-4
+python grey-lord.py model train --epochs 100 --batch-size 16 --learning-rate 1e-4
 ```
 
 **Model Management:**
 ```bash
-python grey-lord.py model list                    # List models
-python grey-lord.py model leaderboard             # Performance ranking
-python grey-lord.py model compare model1 model2   # Compare models
-python grey-lord.py model cleanup --keep 5        # Clean old models
+python grey-lord.py model list                      # List models
+python grey-lord.py model leaderboard               # Performance ranking
+python grey-lord.py model compare model1 model2     # Compare models
+python grey-lord.py model cleanup --keep 5          # Clean old models
+python grey-lord.py model links                     # Create convenience links
+python grey-lord.py model export --model-dir models/your-model --output exported/
 ```
 
-**Analysis & Debugging:**
+**Model Analysis & Debugging:**
 ```bash
-python grey-lord.py analyze --training-dir models/your-model
-python grey-lord.py debug vocab                   # Check vocabulary
-python grey-lord.py debug model --model-path models/your-model
-python grey-lord.py debug sequences --data-dir training_data
+python grey-lord.py model analyze --model-dir models/your-model
+python grey-lord.py model debug vocab
+python grey-lord.py model debug model --model-dir models/your-model
+python grey-lord.py model debug sequences --data-dir training_data
 ```
 
-**Optimization:**
+**Model Optimization:**
 ```bash
-python grey-lord.py optimize batch-size --memory-gb 8
-python grey-lord.py optimize context-window --batch-size 4
-python grey-lord.py optimize memory --model-path models/your-model
+python grey-lord.py model optimize --batch-size 4 --memory-gb 8
 ```
 
 **Data Management:**
 ```bash
 python grey-lord.py data prepare --source ../telnet-data --target training_data
-python grey-lord.py data validate --data-dir training_data
-python grey-lord.py data stats --data-dir training_data
-python grey-lord.py data process-agent --session-dir data/agent_sessions --mode all
+python grey-lord.py data analyze --data-dir training_data
+python grey-lord.py data process --session-dir data/agent_sessions
 ```
 
 **Configuration:**
 ```bash
-python grey-lord.py config show                   # View current config
-python grey-lord.py config validate               # Validate config files
+python grey-lord.py config show                     # View current config
+python grey-lord.py config validate                 # Validate config files
 ```
 
 ## Training Process
-
-**High-level pseudocode for understanding the training logic:**
 
 ```
 INITIALIZATION:
@@ -174,28 +165,19 @@ model = AutoModelForCausalLM.from_pretrained("models/your-model-name")
 - **Experience replay**: State-action-reward sequences
 - **Session metadata**: Performance metrics and game outcomes
 
-### Data Processing Options
+### Data Processing
 ```bash
-# Process all types of training data
-python grey-lord.py data process-agent --mode all
-
-# Create continued training data (improve existing model)
-python grey-lord.py data process-agent --mode continued
-
-# Create behavioral cloning data (learn from successful actions)
-python grey-lord.py data process-agent --mode behavioral
-
-# Create reinforcement learning experience replay
-python grey-lord.py data process-agent --mode rl
+# Process agent session data for training
+python grey-lord.py data process --session-dir data/agent_sessions --output-dir data/processed_agent_data
 ```
 
 ### Training with Agent Data
 ```bash
 # Continue training with agent experience
-python grey-lord.py train --data-dir data/processed_agent_data/continued_training --epochs 10
+python grey-lord.py model train --data-dir data/processed_agent_data/continued --epochs 10
 
 # Train specialized model from successful behaviors
-python grey-lord.py train --data-dir data/processed_agent_data/behavioral_cloning --epochs 25
+python grey-lord.py model train --data-dir data/processed_agent_data/behavioral --epochs 25
 ```
 
 **Use cases:**

@@ -116,12 +116,12 @@ def handle_analyze_command(args):
     if args.analyze_type == 'training':
         print("📊 ANALYZING TRAINING RESULTS")
         print("=" * 40)
-        print(f"Training directory: {args.training_dir}")
+        print(f"Model directory: {args.model_dir}")
         
         try:
             from analyze_training import analyze_overfitting, plot_training_curves
             
-            training_dir = Path(args.training_dir)
+            training_dir = Path(args.model_dir)
             history_file = training_dir / "training_history.json"
             
             if not history_file.exists():
@@ -317,10 +317,10 @@ def handle_debug_command(args):
         elif args.debug_type == 'model':
             # Change to model directory for debugging
             original_dir = Path.cwd()
-            model_path = Path(args.model_path)
-            if model_path.exists():
+            model_dir = Path(args.model_dir)
+            if model_dir.exists():
                 import os
-                os.chdir(model_path.parent if model_path.is_file() else model_path)
+                os.chdir(model_dir)
             
             try:
                 from debug_model import main as debug_model_main
@@ -1005,8 +1005,8 @@ For detailed help on each command:
     
     # Model analysis
     analyze_parser = model_subparsers.add_parser('analyze', help='Analyze training results')
-    analyze_parser.add_argument("--training-dir", type=str, required=True,
-                               help="Directory containing training artifacts to analyze")
+    analyze_parser.add_argument("--model-dir", type=str, required=True,
+                               help="Directory containing model and training artifacts to analyze")
     analyze_parser.add_argument("--output", type=str, default="analysis_report.png",
                                help="Output file for analysis plots")
     analyze_parser.add_argument("--format", type=str, default="png",
@@ -1022,8 +1022,8 @@ For detailed help on each command:
                              help="Path to vocabulary files")
     
     model_debug_parser = debug_subparsers.add_parser('model', help='Debug model configuration and architecture')
-    model_debug_parser.add_argument("--model-path", type=str, required=True,
-                                   help="Path to model to debug")
+    model_debug_parser.add_argument("--model-dir", type=str, required=True,
+                                   help="Directory containing model to debug")
     
     seq_parser = debug_subparsers.add_parser('sequences', help='Debug long sequence issues')
     seq_parser.add_argument("--data-dir", type=str, default="training_data",
