@@ -12,7 +12,7 @@ from typing import Dict, Iterable, List
 import torch
 from torch.utils.data import Dataset
 
-from tokenizer import custom_tokenizer
+from .tokenizer import custom_tokenizer
 
 
 class ByteStreamDataset(Dataset):

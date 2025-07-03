@@ -17,7 +17,7 @@ import torch
 from torch.utils.data import DataLoader
 from transformers import AutoModelForCausalLM, get_linear_schedule_with_warmup
 
-from config_utils import get_vocab_config, get_training_config
+from .config_utils import get_vocab_config, get_training_config
 
 
 def validate(model: AutoModelForCausalLM, validation_loader: DataLoader, device: torch.device) -> float:

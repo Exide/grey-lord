@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 """Debug vocabulary issues"""
 
-import sys
-from pathlib import Path
-
-# Add src directory to path to find config_utils
-sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
-
 import json
 from pathlib import Path
 from transformers import AutoModelForCausalLM

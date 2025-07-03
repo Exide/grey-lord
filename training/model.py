@@ -12,8 +12,8 @@ from typing import Union
 import torch
 from transformers import GPT2Config, AutoModelForCausalLM
 
-from config_utils import get_model_config
-from vocab import validate_vocabulary_compatibility
+from .config_utils import get_model_config
+from .vocab import validate_vocabulary_compatibility
 
 
 def build_model(vocab_size: int, model_path: Union[str, None] = None) -> AutoModelForCausalLM:

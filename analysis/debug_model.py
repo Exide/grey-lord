@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 """Debug model and vocabulary compatibility"""
 
-import sys
-from pathlib import Path
-
-# Add src directory to path to find config_utils
-sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
-
 import json
 import torch
 from pathlib import Path

@@ -1,6 +1,6 @@
 # Grey Lord - MajorMUD AI
 
-A language model trained on raw MajorMUD bytes sent/received from many play sessions. Includes an agent that can be enabled within a command-line Telnet connection.
+A language model trained on raw MajorMUD bytes sent/received from many play sessions.
 
 ## Quick Start
 
@@ -14,57 +14,49 @@ python grey-lord.py --help
 
 ## Commands
 
-**Agent:**
-```bash
-python grey-lord.py agent start --config agent_config.json
-```
-
 **Model Training:**
 ```bash
-# Basic training
-python grey-lord.py model train --epochs 50
+# Basic training with default parameters from config.json
+python grey-lord.py train --epochs 50
 
-# Continue from checkpoint
-python grey-lord.py model train --model-path models/your-model --epochs 25
+# Continue training from a checkpoint
+python grey-lord.py train --model-path models/your-model --epochs 25
 
-# Custom parameters
-python grey-lord.py model train --epochs 100 --batch-size 16 --learning-rate 1e-4
-```
-
-**Model Management:**
-```bash
-python grey-lord.py model list                      # List models
-python grey-lord.py model leaderboard               # Performance ranking
-python grey-lord.py model compare model1 model2     # Compare models
-python grey-lord.py model cleanup --keep 5          # Clean old models
-python grey-lord.py model links                     # Create convenience links
-python grey-lord.py model export --model-dir models/your-model --output exported/
-```
-
-**Model Analysis & Debugging:**
-```bash
-python grey-lord.py model analyze --model-dir models/your-model
-python grey-lord.py model debug vocab
-python grey-lord.py model debug model --model-dir models/your-model
-python grey-lord.py model debug sequences --data-dir training_data
-```
-
-**Model Optimization:**
-```bash
-python grey-lord.py model optimize --batch-size 4 --memory-gb 8
+# Override configuration parameters
+python grey-lord.py train --epochs 100 --batch-size 16 --learning-rate 1e-4
 ```
 
 **Data Management:**
 ```bash
+# Prepare raw data from telnet logs
 python grey-lord.py data prepare --source ../telnet-data --target training_data
-python grey-lord.py data analyze --data-dir training_data
+
+# Process agent session data into trainable format
 python grey-lord.py data process --session-dir data/agent_sessions
+
+# Export a trained model to GGUF format
+python grey-lord.py data export --model-dir models/your-model --output-file your-model.gguf
 ```
 
-**Configuration:**
+**Analysis & Debugging:**
 ```bash
-python grey-lord.py config show                     # View current config
-python grey-lord.py config validate                 # Validate config files
+# Analyze training results for overfitting and performance
+python grey-lord.py analyze training --model-dir models/your-model
+
+# Get statistics on a data directory
+python grey-lord.py analyze data --data-dir training_data
+
+# Debug the tokenizer and vocabulary
+python grey-lord.py debug vocab --vocab-path data
+
+# Debug a trained model's structure and configuration
+python grey-lord.py debug model --model-dir models/your-model
+```
+
+**Hardware Optimization:**
+```bash
+# Find optimal batch size and context window for your GPU
+python grey-lord.py optimize --memory-gb 8
 ```
 
 ## Training Process
@@ -134,12 +126,10 @@ FINALIZATION:
 grey-lord/
 ├── grey-lord.py                   # Main CLI interface
 ├── training/                      # Model training code
-├── agent/                         # AI agent telnet client
 ├── analysis/                      # Analysis & debugging tools
 ├── data/                          # Vocabulary and training data
 ├── models/                        # Trained models
-├── agent_config.json              # AI agent configuration
-└── model_config.json              # Training configuration
+└── config.json                    # Training configuration
 ```
 
 ## Training Output
@@ -154,37 +144,6 @@ Each training run creates a timestamped directory with:
 from transformers import AutoModelForCausalLM
 model = AutoModelForCausalLM.from_pretrained("models/your-model-name")
 ```
-
-## Agent Data Collection & Retraining
-
-**The agent automatically collects data while playing that can be used for improving the model:**
-
-### What's Collected
-- **Raw telnet data**: Server responses and client commands
-- **AI decisions**: Context → Action pairs with timestamps  
-- **Experience replay**: State-action-reward sequences
-- **Session metadata**: Performance metrics and game outcomes
-
-### Data Processing
-```bash
-# Process agent session data for training
-python grey-lord.py data process --session-dir data/agent_sessions --output-dir data/processed_agent_data
-```
-
-### Training with Agent Data
-```bash
-# Continue training with agent experience
-python grey-lord.py model train --data-dir data/processed_agent_data/continued --epochs 10
-
-# Train specialized model from successful behaviors
-python grey-lord.py model train --data-dir data/processed_agent_data/behavioral --epochs 25
-```
-
-**Use cases:**
-- **Continued training**: Improve the model with real gameplay experience
-- **Behavioral cloning**: Train on only successful agent actions
-- **Domain adaptation**: Adapt to specific MUD server behaviors
-- **Reinforcement learning**: Train with reward signals from game outcomes
 
 ## Data Format
 

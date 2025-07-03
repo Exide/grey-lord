@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 from typing import Dict, Tuple
 
-from config_utils import get_vocab_config
+from .config_utils import get_vocab_config
 
 
 def load_json(path: Path) -> dict:

@@ -147,7 +147,15 @@ def create_model_leaderboard() -> None:
         return
     
     # Sort by validation loss (lower is better)
-    valid_models.sort(key=lambda x: x['val_loss'])
+    # Handle mixed data types (floats and strings like "N/A")
+    def sort_key(model):
+        val_loss = model['val_loss']
+        if isinstance(val_loss, (int, float)):
+            return (0, val_loss)  # Numeric values come first, sorted by value
+        else:
+            return (1, str(val_loss))  # Non-numeric values come last, sorted alphabetically
+    
+    valid_models.sort(key=sort_key)
     
     print(f"{'Rank':<6} {'Model Name':<30} {'Val Loss':<12} {'Best Epoch':<12} {'Time (min)':<12}")
     print("-" * 75)
@@ -155,8 +163,9 @@ def create_model_leaderboard() -> None:
     for i, model in enumerate(valid_models, 1):
         rank_emoji = "🥇" if i == 1 else "🥈" if i == 2 else "🥉" if i == 3 else f"{i:2d}"
         training_time = f"{model['training_time']:.1f}" if isinstance(model['training_time'], (int, float)) else str(model['training_time'])
+        val_loss = f"{model['val_loss']:.4f}" if isinstance(model['val_loss'], (int, float)) else str(model['val_loss'])
         
-        print(f"{rank_emoji:<6} {model['name']:<30} {model['val_loss']:<12.4f} {str(model['best_epoch']):<12} {training_time:<12}")
+        print(f"{rank_emoji:<6} {model['name']:<30} {val_loss:<12} {str(model['best_epoch']):<12} {training_time:<12}")
 
 def cleanup_old_models(keep_count: int = 5, dry_run: bool = True) -> None:
     """Clean up old model directories, keeping only the most recent ones."""

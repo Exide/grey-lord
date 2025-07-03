@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 from typing import Dict, Any
 
-CONFIG_FILE = Path("model_config.json")
+CONFIG_FILE = Path("config.json")
 
 def load_config() -> Dict[str, Any]:
     """Load configuration from the config file"""
