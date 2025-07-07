@@ -19,7 +19,31 @@ __all__ = [
     "parse_size_to_kb",
     "copy_data_files",
     "prune_data_files",
+    "log_dataset_change",
 ]
+
+
+# ---------------------------------------------------------------------------
+# Logging helpers
+# ---------------------------------------------------------------------------
+
+def log_dataset_change(dataset_path: Path, action: str, details: str) -> None:
+    """Log a change to the dataset's change.log file.
+    
+    Args:
+        dataset_path: Path to the dataset directory
+        action: Type of action (e.g., 'COPY', 'PRUNE')
+        details: Description of what was done
+    """
+    log_file = dataset_path / "change.log"
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_entry = f"[{timestamp}] {action}: {details}\n"
+    
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write(log_entry)
+    except Exception as exc:
+        print(f"⚠️  Failed to write to change.log: {exc}")
 
 
 # ---------------------------------------------------------------------------
@@ -133,6 +157,13 @@ def copy_data_files(source_dir: str, target_name: str) -> None:
     print(f"   📊 Target directory: {len(list(target_path.glob('*')))} files, {total_size / (1024**2):.1f}MB")
     print(f"   📂 Location: {target_path}")
 
+    # Log the copy operation
+    log_details = f"Copied {copied} files from {source_path} to {target_path}"
+    if skipped:
+        log_details += f" (skipped {skipped} files)"
+    log_details += f" - Total size: {total_size / (1024**2):.1f}MB"
+    log_dataset_change(target_path, "COPY", log_details)
+
 
 # ---------------------------------------------------------------------------
 # Prune helpers
@@ -245,3 +276,13 @@ def prune_data_files(dataset_name: str, min_size_str: str, pattern: Optional[str
     remaining = [p for p in dataset_path.glob("*") if p.is_file()]
     remaining_size = sum(p.stat().st_size for p in remaining)
     print(f"   📊 Final dataset: {len(remaining)} files, {remaining_size / (1024**2):.1f}MB")
+
+    # Log the pruning operation
+    log_details = f"Pruned {removed} files (min_size={size_disp}"
+    if pattern:
+        log_details += f", pattern={pattern}"
+    log_details += f") - Space freed: {total_remove / (1024**2):.1f}MB"
+    if failed:
+        log_details += f" (failed to remove {failed} files)"
+    log_details += f" - Final dataset: {len(remaining)} files, {remaining_size / (1024**2):.1f}MB"
+    log_dataset_change(dataset_path, "PRUNE", log_details)
