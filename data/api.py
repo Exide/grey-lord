@@ -42,6 +42,8 @@ def log_dataset_change(dataset_path: Path, action: str, details: str) -> None:
     try:
         with open(log_file, "a", encoding="utf-8") as f:
             f.write(log_entry)
+            f.flush()
+        print(f"📝 Logged {action} to {log_file}")
     except Exception as exc:
         print(f"⚠️  Failed to write to change.log: {exc}")
 
@@ -202,7 +204,7 @@ def prune_data_files(dataset_name: str, min_size_str: str, pattern: Optional[str
     if pattern:
         print(f"🔍 Pattern: {pattern} (keep only matching files)")
 
-    all_files = [p for p in dataset_path.glob("*") if p.is_file()]
+    all_files = [p for p in dataset_path.glob("*") if p.is_file() and p.name != "change.log"]
     if not all_files:
         print("❌ No files found in dataset")
         sys.exit(1)
