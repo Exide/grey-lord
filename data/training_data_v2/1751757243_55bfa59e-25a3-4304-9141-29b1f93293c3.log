@@ -1,0 +1,812 @@
+<|server|><|delay#354.481|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.001|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.015|><|telnet#FFFB03|><|server|><|delay#2.015|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.052|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 16:14 05-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#1.102|>greylord
+<|server|><|delay#1.995|>
+<|server|><|delay#0.050|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.113|>password
+<|server|><|delay#0.888|><|server|><|delay#0.047|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, GreyLord, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mai<|client|><|delay#0.834|>m
+<|server|><|delay#0.906|>
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.216|>e
+<|server|><|delay#0.358|>
+<|server|><|delay#0.051|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.605|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.054|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    This narrow road is quite plain save for the various lanterns hanging from
+the trees around, and a large stone stairwell leading downwards. You hear the
+clash of steel below you, and cries of pain and triumph accompanying it. Stone
+buildings lie to your north and west. 
+<|an<|client|><|delay#1.925|>rest
+<|server|><|delay#2.259|>
+<|server|><|delay#0.045|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#20.517|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#20.999|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#20.984|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#21.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#15.872|>x
+<|server|><|delay#16.172|>
+<|server|><|delay#0.040|>You will exit after a period of silent meditation.
+.<|server|><|delay#0.788|>...<|server|><|delay#1.000|>...<|server|><|delay#1.000|>...<|server|><|delay#1.002|>...<|server|><|delay#0.998|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]: (Resting) ...<|server|><|delay#1.000|><|ansi#1B5B306D|>
+Your character has been saved. If you have any comments or<|server|><|delay#0.049|> suggestions, please
+leave them in E-mail to Sysop. Thanks.
+
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B306D|>MAJORMUD<|ansi#1B5B313B33306D|>]<|ansi#1B5B306D|>: <|ansi#1B5B303B33373B34306D|><|client|><|delay#0.511|>x
+<|server|><|delay#0.592|>
+<|server|><|delay#0.049|> 
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Main System Menu (TOP)
+<|ansi#1B5B33366D|>Make your selection (<|ansi#1B5B313B33366D|>M,F,E,A,<|ansi#1B5B303B313B33366D|>? for help, or X to exit): <|client|><|delay#0.645|>x
+<|server|><|delay#0.794|>
+<|server|><|delay#0.053|><|ansi#1B5B306D|>
+<|ansi#1B5B313B356D|>You are about to terminate this connection!
+
+<|ansi#1B5B303B313B33366D|>Are you sure (Y/N, or R to re-logon)? <|client|><|delay#0.863|>r
+<|server|><|delay#0.979|>
+<|server|><|delay#0.055|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#1.976|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.054|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 16:22 05-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.641|>sysop
+<|server|><|delay#1.243|>
+<|server|><|delay#0.051|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.400|>password
+<|server|><|delay#1.152|><|server|><|delay#0.051|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Sysop, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+<|client|><|delay#0.606|>m
+<|server|><|delay#0.683|>
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.520|>e
+<|server|><|delay#0.605|>
+<|server|><|delay#0.051|><|ansi#1B5B313B33376D|>Please choose a race from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Human
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Dwarf
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Gnome
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B33306D|>]<|an<|server|><|delay#11.262|> <|server|><|delay#0.172|> <|server|><|delay#7.625|>1<|client|><|delay#-10.820|>1
+<|server|><|delay#1.375|>
+<|server|><|delay#0.053|><|ansi#1B5B313B33376D|>Please choose a class from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Warrior
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Witchunter
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Paladin
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B333<|client|><|delay#10.369|>9
+<|server|><|delay#12.228|>
+<|server|><|delay#0.042|><|ansi#1B5B306D|>
+You must now choose if you want to be a truly 'lawful' citizen of the realm.
+If you answer YES to this question then you will never be allowed to instigate
+any action which would give you evil points, and any player that attacks or
+robs from you will receive three times the regular evil points in return. You
+can still attack those with a bad reputation. This option is designed
+solely for those who want to stay away from the player combat aspects of the
+game,<|client|><|delay#1.938|>yes
+<|server|><|delay#2.739|>
+<|server|><|delay#0.001|><|ansi#1B5B306D|><|ansi#1B5B324A|><|ansi#1B5B306D|><|ansi#1B5B306D|>    .ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.ÄÄ.
+   / <|ansi#1B5B313B33366D|>M A J O R  M U D <|ansi#1B5B303B33366D|>Character Creation <|ansi#1B5B33376D|>/    \  <|ansi#1B5B313B33306D|>ÚÄ    <|ansi#1B5B33356D|>Point Cost Chart    <|ansi#1B5B33306D|>Ä¿
+  <|ansi#1B5B306D|>³                                     ÃÄÄ.   ³ <|ansi#1B5B313B33306D|>³                          ³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ans<|server|><|delay#0.000|>37m³        <|server|><|delay#0.001|><|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>40 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>100 <|ansi#1B5B303B33356D|>CP <|ansi#1B5B313B33306D|>³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ansi#1B5B33366D|>Health     <|ansi#1B5B33376D|>(  40 to  100)  <|ansi#1B5B316D|>  40 <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>50 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>150<|server|><|delay#0.000|>1m® <|ansi#1B5B33376D|>³ <|ansi#1B5B313B33306D|>ÄÄÄÄÄÄ´ <|ansi#1B5B33366D|>toggle between choices for
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯  <|ansi#1B5B33366D|>Eye Colour    <|ansi#1B5B313B33376D|>black            <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>À <|ansi#1B5B33366D|>your physical description
+  <|ansi#1B5B306D|>³                                     ³
+  ³ <|ansi#1B5B313B33316D|>¯  <|ansi#1B5B303B33366D|>Exit: <|ansi#1B5B313B33376D|>S<|server|><|delay#1.608|><|ansi#1B5B343B323066|><|ansi#1B5B303B313B33373B34306D|>Sysop             <|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>              <|server|><|delay#0.052|>    <|ansi#1B5B353B323066|><|server|><|delay#0.198|><|ansi#1B5B353B323066|><|ansi#1B5B303B313B33373B34306D|>                  <|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B393B333466|><|server|><|delay#1.593|><|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B393B333466|>5<|client|><|delay#-0.006|>50
+<|server|><|delay#0.391|><|ansi#1B5B31303B333466|><|server|><|delay#0.046|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  90<|ansi#1B5B393B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31303B333466|><|server|><|delay#0.142|><|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31303B333466|>5<|client|><|delay#-0.009|>50
+<|server|><|delay#0.328|><|ansi#1B5B31313B333466|><|server|><|delay#0.047|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  80<|ansi#1B5B31303B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31313B333466|><|server|><|delay#0.140|><|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31313B333466|>5<|client|><|delay#-0.012|>50
+<|server|><|delay#0.328|><|ansi#1B5B31323B333466|><|server|><|delay#0.050|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  70<|ansi#1B5B31313B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31323B333466|><|server|><|delay#0.138|><|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31323B333466|>5<|client|><|delay#-0.032|>50
+<|server|><|delay#0.250|><|ansi#1B5B31333B333466|><|server|><|delay#0.048|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  60<|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31333B333466|><|server|><|delay#0.139|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>5<|client|><|delay#-0.013|>50
+<|server|><|delay#0.297|><|ansi#1B5B31343B333466|><|server|><|delay#0.048|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31343B333466|><|server|><|delay#0.171|><|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31343B333466|>5<|client|><|delay#0.000|>50
+<|server|><|delay#0.281|><|ansi#1B5B31363B323266|><|server|><|delay#0.047|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  40<|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#0.626|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>none           <|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31343B333466|><|server|><|delay#2.593|><|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31333B333466|><|server|><|delay#6.328|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>6<|server|><|delay#0.297|><|ansi#1B5B31323B333466|><|server|><|delay#0.052|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>   5<|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  65<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31323B333466|><|server|><|delay#9.182|><|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  65<|ansi#1B5B31333B333466|><|server|><|delay#1.781|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>6<|client|><|delay#-11.323|>65<|ansi#1B5B41|><|ansi#1B5B42|>67
+<|server|><|delay#0.485|><|ansi#1B5B31343B333466|><|server|><|delay#0.043|><|ansi#1B5B32333B3166|><|ansi#1B5B303B313B33313B34306D|>You may not assign that much to Health<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  65<|ansi#1B5B31333B333466|><|server|><|delay#0.613|><|ansi#1B5B32333B3166|><|ansi#1B5B303B313B33313B34306D|>                                             <|server|><|delay#0.048|>                <|ansi#1B5B31333B333466|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>6<|client|><|delay#-0.057|>66
+<|server|><|delay#0.218|><|ansi#1B5B31343B333466|><|server|><|delay#0.048|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>   2<|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  66<|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31343B333466|><|server|><|delay#0.514|><|ansi#1B5B31363B323266|><|server|><|delay#0.052|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>   2<|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#0.151|><|ansi#1B5B31373B323266|><|server|><|delay#0.053|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>None           <|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31373B323266|><|server|><|delay#0.369|><|ansi#1B5B31373B323266|><|ansi#1B5B303B313B33373B34306D|>black          <|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>None           <|server|><|delay#0.053|><|ansi#1B5B31363B323266|><|server|><|delay#0.103|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Short          <|ansi#1B5B313044|><|server|><|delay#0.500|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Shoulder-Length<|server|><|delay#1.032|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Long           <|ansi#1B5B313144|><|server|><|delay#0.172|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Waist-length   <|ansi#1B5B3344|><|server|><|delay#0.171|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Ankle-Length   <|ansi#1B5B3344|><|server|><|delay#0.157|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>None           <|ansi#1B5B313144|><|server|><|delay#0.156|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Short          <|ansi#1B5B313044|><|server|><|delay#0.141|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Shoulder-Length<|server|><|delay#0.437|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Long           <|ansi#1B5B313144|><|server|><|delay#0.172|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Waist-length   <|ansi#1B5B3344|><|server|><|delay#0.156|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Ankle-Length   <|ansi#1B5B3344|><|server|><|delay#0.158|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>None           <|ansi#1B5B313144|><|server|><|delay#0.155|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Short          <|ansi#1B5B313044|><|server|><|delay#0.406|><|ansi#1B5B31373B323266|><|server|><|delay#0.047|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>Short          <|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31373B323266|><|server|><|delay#0.125|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>White          <|ansi#1B5B313044|><|server|><|delay#0.359|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Silver         <|ansi#1B5B3944|><|server|><|delay#0.563|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Red            <|ansi#1B5B313244|><|server|><|delay#0.406|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Brown          <|ansi#1B5B313044|><|server|><|delay#1.000|><|ansi#1B5B31383B323266|><|server|><|delay#0.046|><|ansi#1B5B31373B323266|><|ansi#1B5B303B313B33373B34306D|>Brown          <|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31383B323266|><|server|><|delay#0.096|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Crimson        <|ansi#1B5B3844|><|server|><|delay#0.608|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Yellow         <|ansi#1B5B3944|><|server|><|delay#0.219|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Pale-Blue      <|ansi#1B5B3644|><|server|><|delay#0.172|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Sea-Blue       <|ansi#1B5B3744|><|server|><|delay#0.546|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Dark-Blue      <|ansi#1B5B3644|><|server|><|delay#0.579|><|ansi#1B5B32303B313466|><|server|><|delay#0.043|><|ansi#1B5B31383B323266|><|ansi#1B5B303B313B33373B34306D|>Dark-Blue      <|ansi#1B5B32303B313466|><|ansi#1B5B303B376D|>SAVE<|ansi#1B5B32303B313466|><|client|><|delay#-8.623|>             <|ansi#1B5B42|>    <|ansi#1B5B42|>     <|ansi#1B5B42|>
+<|server|><|delay#3.722|><|ansi#1B5B343B323066|><|server|><|delay#0.050|><|ansi#1B5B32303B313466|><|ansi#1B5B303B313B33373B34306D|>SAVE<|ansi#1B5B32333B3166|><|ansi#1B5B303B313B33326D|>You MUST have a last name!
+You will have to start over again.
+Press Enter.<|server|><|delay#1.716|>
+<|server|><|delay#0.056|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>About t<|client|><|delay#0.896|>e
+<|server|><|delay#1.006|>
+<|server|><|delay#0.041|><|ansi#1B5B313B33376D|>Please choose a race from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Human
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Dwarf
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Gnome
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B33306D|>]<|an<|client|><|delay#0.482|>1
+<|server|><|delay#0.584|>
+<|server|><|delay#0.042|><|ansi#1B5B313B33376D|>Please choose a class from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Warrior
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Witchunter
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Paladin
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B333<|client|><|delay#2.320|>9
+<|server|><|delay#2.599|>
+<|server|><|delay#0.049|><|ansi#1B5B306D|>
+You must now choose if you want to be a truly 'lawful' citizen of the realm.
+If you answer YES to this question then you will never be allowed to instigate
+any action which would give you evil points, and any player that attacks or
+robs from you will receive three times the regular evil points in return. You
+can still attack those with a bad reputation. This option is designed
+solely for those who want to stay away from the player combat aspects of the
+game,<|client|><|delay#1.088|>yes
+<|server|><|delay#1.467|>
+<|server|><|delay#0.000|><|ansi#1B5B306D|><|ansi#1B5B324A|><|ansi#1B5B306D|><|ansi#1B5B306D|>    .ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.ÄÄ.
+   / <|ansi#1B5B313B33366D|>M A J O R  M U D <|ansi#1B5B303B33366D|>Character Creation <|ansi#1B5B33376D|>/    \  <|ansi#1B5B313B33306D|>ÚÄ    <|ansi#1B5B33356D|>Point Cost Chart    <|ansi#1B5B33306D|>Ä¿
+  <|ansi#1B5B306D|>³                                     ÃÄÄ.   ³ <|ansi#1B5B313B33306D|>³                          ³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ans<|server|><|delay#0.001|>37m³        <|server|><|delay#0.046|><|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>40 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>100 <|ansi#1B5B303B33356D|>CP <|ansi#1B5B313B33306D|>³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ansi#1B5B33366D|>Health     <|ansi#1B5B33376D|>(  40 to  100)  <|ansi#1B5B316D|>  40 <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>50 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>150<|server|><|delay#0.703|><|ansi#1B5B343B323066|><|ansi#1B5B303B313B33373B34306D|>Sysop             <|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>              <|server|><|delay#0.040|>    <|ansi#1B5B353B323066|><|server|><|delay#3.428|><|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>                  <|ansi#1B5B353B323066|>o<|server|><|delay#1.578|><|ansi#1B5B393B333466|><|server|><|delay#0.052|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|> 100<|ansi#1B5B353B323066|><|ansi#1B5B303B313B33373B34306D|>OfBBS             <|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B393B333466|><|server|><|delay#1.402|><|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B393B333466|>5<|client|><|delay#-3.045|>of BBS<|ansi#1B5B42|>50
+<|server|><|delay#0.265|><|ansi#1B5B31303B333466|><|server|><|delay#0.041|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  90<|ansi#1B5B393B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31303B333466|><|server|><|delay#0.100|><|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31303B333466|>5<|client|><|delay#-0.004|>50
+<|server|><|delay#0.250|><|ansi#1B5B31313B333466|><|server|><|delay#0.042|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  80<|ansi#1B5B31303B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31313B333466|><|server|><|delay#0.098|><|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31313B333466|>5<|client|><|delay#-0.009|>50
+<|server|><|delay#0.219|><|ansi#1B5B31323B333466|><|server|><|delay#0.043|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  70<|ansi#1B5B31313B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31323B333466|><|server|><|delay#0.207|><|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31323B333466|>5<|client|><|delay#-0.015|>50
+<|server|><|delay#0.203|><|ansi#1B5B31333B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  60<|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31333B333466|><|server|><|delay#1.019|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>6<|client|><|delay#-0.008|>66
+<|server|><|delay#0.406|><|ansi#1B5B31343B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  12<|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  66<|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31343B333466|><|server|><|delay#0.441|><|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31343B333466|>5<|client|><|delay#-0.016|>50
+<|server|><|delay#0.499|><|ansi#1B5B31363B323266|><|server|><|delay#0.043|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>   2<|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#1.426|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Short          <|ansi#1B5B313044|><|server|><|delay#0.500|><|ansi#1B5B31373B323266|><|server|><|delay#0.041|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>Short          <|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31373B323266|><|server|><|delay#0.069|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>White          <|ansi#1B5B313044|><|server|><|delay#0.312|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Silver         <|ansi#1B5B3944|><|server|><|delay#0.359|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Red            <|ansi#1B5B313244|><|server|><|delay#0.360|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Brown          <|ansi#1B5B313044|><|server|><|delay#0.406|><|ansi#1B5B31383B323266|><|server|><|delay#0.054|><|ansi#1B5B31373B323266|><|ansi#1B5B303B313B33373B34306D|>Brown          <|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31383B323266|><|server|><|delay#0.055|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Crimson        <|ansi#1B5B3844|><|server|><|delay#0.407|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Yellow         <|ansi#1B5B3944|><|server|><|delay#0.234|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Pale-Blue      <|ansi#1B5B3644|><|server|><|delay#0.188|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Sea-Blue       <|ansi#1B5B3744|><|server|><|delay#0.281|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Dark-Blue      <|ansi#1B5B3644|><|server|><|delay#0.500|><|ansi#1B5B32303B313466|><|server|><|delay#0.049|><|ansi#1B5B31383B323266|><|ansi#1B5B303B313B33373B34306D|>Dark-Blue      <|ansi#1B5B32303B313466|><|ansi#1B5B303B376D|>SAVE<|ansi#1B5B32303B313466|><|client|><|delay#-3.818|> <|ansi#1B5B42|>    <|ansi#1B5B42|>     <|ansi#1B5B42|>
+<|server|><|delay#0.560|><|ansi#1B5B343B323066|><|server|><|delay#0.050|><|ansi#1B5B32303B313466|><|ansi#1B5B303B313B33373B34306D|>SAVE<|ansi#1B5B32333B3166|><|ansi#1B5B303B313B33326D|><|ansi#1B5B313B33316D|>The name you have chosen is already in use!
+You will have to start over again.
+Press Enter.<|server|><|delay#3.950|>
+<|server|><|delay#0.045|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>About t<|client|><|delay#2.297|>t
+<|server|><|delay#2.565|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Heroes of The Realm
+<|ansi#1B5B33376D|>=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B33316D|>Ran <|ansi#1B5B33326D|>Name                  <|ansi#1B5B33356D|>Class      <|ansi#1B5B33336D|>Gang/Guild          <|ansi#1B5B33326D|>      
+<|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+<|ansi#1B5B306D|><|ansi#1B5B33316D|>  1. <|ansi#1B5B33326D|>Grak Stonehand        <|ansi#1B5B33356D|>Warrior    <|ansi#1B5<|client|><|delay#3.691|>w
+<|server|><|delay#4.044|>
+<|server|><|delay#0.043|>
+<|ansi#1B5B33356D|>There are no users in the game at the moment.
+
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B306D|>MAJORMUD<|ansi#1B5B313B33306D|>]<|ansi#1B5B306D|>: <|ansi#1B5B303B33373B34306D|><|client|><|delay#3.276|>e
+<|server|><|delay#3.442|>
+<|server|><|delay#0.045|><|ansi#1B5B313B33376D|>Please choose a race from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Human
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Dwarf
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Gnome
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B33306D|>]<|an<|client|><|delay#0.892|>1
+<|server|><|delay#1.002|>
+<|server|><|delay#0.042|><|ansi#1B5B313B33376D|>Please choose a class from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Warrior
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Witchunter
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Paladin
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B333<|server|><|delay#2.348|> <|server|><|delay#0.203|>9<|client|><|delay#-0.742|>9
+<|server|><|delay#0.344|>
+<|server|><|delay#0.055|><|ansi#1B5B306D|>
+You must now choose if you want to be a truly 'lawful' citizen of the realm.
+If you answer YES to this question then you will never be allowed to instigate
+any action which would give you evil points, and any player that attacks or
+robs from you will receive three times the regular evil points in return. You
+can still attack those with a bad reputation. This option is designed
+solely for those who want to stay away from the player combat aspects of the
+game,<|client|><|delay#0.795|>yes
+<|server|><|delay#1.258|>
+<|server|><|delay#0.000|><|ansi#1B5B306D|><|ansi#1B5B324A|><|ansi#1B5B306D|><|ansi#1B5B306D|>    .ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.ÄÄ.
+   / <|ansi#1B5B313B33366D|>M A J O R  M U D <|ansi#1B5B303B33366D|>Character Creation <|ansi#1B5B33376D|>/    \  <|ansi#1B5B313B33306D|>ÚÄ    <|ansi#1B5B33356D|>Point Cost Chart    <|ansi#1B5B33306D|>Ä¿
+  <|ansi#1B5B306D|>³                                     ÃÄÄ.   ³ <|ansi#1B5B313B33306D|>³                          ³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ans<|server|><|delay#0.000|>37m³        <|server|><|delay#0.001|><|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>40 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>100 <|ansi#1B5B303B33356D|>CP <|ansi#1B5B313B33306D|>³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ansi#1B5B33366D|>Health     <|ansi#1B5B33376D|>(  40 to  100)  <|ansi#1B5B316D|>  40 <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>50 <|ansi#1B5B303B33356D|>to b<|server|><|delay#0.000|>ase stat: <|ansi#1B5B316D|>150 <|ansi#1B5B303B33356D|>CP <|ansi#1B5B313B33306D|>³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ansi#1B5B33366D|>Charm      <|ansi#1B5B33376D|>(  40 to  100)  <|ansi#1B5B316D|>  40 <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>ÀÄ    ... and so on ...   ÄÙ
+  <|ansi#1B5B306D|>³                                     ³
+  ³ <|ansi#1B5B33316D|>¯  <|ansi#1B5B33366D|>Hair Length   <|ansi#1B5B313B33376D|>none             <|ansi#1B5<|server|><|delay#0.053|>                                   ³
+  ³ <|ansi#1B5B313B33316D|>¯  <|ansi#1B5B303B33366D|>Exit: <|ansi#1B5B313B33376D|>SAVE <|ansi#1B5B33316D|>®  <|ansi#1B5B303B33316D|>¯ <|ansi#1B5B33366D|>CP Left:       <|ansi#1B5B33316D|>® <|ansi#1B5B33376D|>³ <|ansi#1B5B313B33306D|>ÄÄÄÄÄÄÄ <|ansi#1B5B33376D|>SAVE <|ansi#1B5B33366D|>your character or <|ansi#1B5B33376D|>EXIT
+ <|ansi#1B5B306D|>©ÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.     ³
+ \_________________________________\___/
+<|ansi#1B5B313B3331<|server|><|delay#1.914|><|ansi#1B5B343B323066|><|ansi#1B5B303B313B33373B34306D|>Sysop             <|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>              <|server|><|delay#0.056|>    <|ansi#1B5B353B323066|><|server|><|delay#1.819|><|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>                  <|ansi#1B5B353B323066|>O<|server|><|delay#1.078|><|ansi#1B5B393B333466|><|server|><|delay#0.047|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|> 100<|ansi#1B5B353B323066|><|ansi#1B5B303B313B33373B34306D|>OfBBS             <|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B393B333466|><|server|><|delay#0.829|><|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B393B333466|>5<|client|><|delay#-1.965|>OfBBS<|ansi#1B5B42|>50
+<|server|><|delay#0.234|><|ansi#1B5B31303B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  90<|ansi#1B5B393B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31303B333466|><|server|><|delay#0.065|><|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31303B333466|>5<|client|><|delay#-0.011|>50
+<|server|><|delay#0.172|><|ansi#1B5B31313B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  80<|ansi#1B5B31303B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31313B333466|><|server|><|delay#0.097|><|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31313B333466|>5<|client|><|delay#-0.012|>50
+<|server|><|delay#0.172|><|ansi#1B5B31323B333466|><|server|><|delay#0.041|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  70<|ansi#1B5B31313B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31323B333466|><|server|><|delay#0.099|><|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31323B333466|>5<|client|><|delay#-0.013|>50
+<|server|><|delay#0.219|><|ansi#1B5B31333B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  60<|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31333B333466|><|server|><|delay#0.925|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>6<|client|><|delay#-0.009|>66
+<|server|><|delay#0.265|><|ansi#1B5B31343B333466|><|server|><|delay#0.056|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  12<|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  66<|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31343B333466|><|server|><|delay#0.147|><|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31343B333466|>5<|client|><|delay#-0.004|>50
+<|server|><|delay#0.172|><|ansi#1B5B31363B323266|><|server|><|delay#0.042|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>   2<|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#0.630|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Short          <|ansi#1B5B313044|><|server|><|delay#0.656|><|ansi#1B5B31373B323266|><|server|><|delay#0.046|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>Short          <|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31373B323266|><|server|><|delay#0.173|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>White          <|ansi#1B5B313044|><|server|><|delay#0.172|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Silver         <|ansi#1B5B3944|><|server|><|delay#0.188|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Red            <|ansi#1B5B313244|><|server|><|delay#0.375|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Brown          <|ansi#1B5B313044|><|server|><|delay#0.484|><|ansi#1B5B31383B323266|><|server|><|delay#0.054|><|ansi#1B5B31373B323266|><|ansi#1B5B303B313B33373B34306D|>Brown          <|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31383B323266|><|server|><|delay#0.040|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Crimson        <|ansi#1B5B3844|><|server|><|delay#0.218|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Yellow         <|ansi#1B5B3944|><|server|><|delay#0.172|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Pale-Blue      <|ansi#1B5B3644|><|server|><|delay#0.219|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Sea-Blue       <|ansi#1B5B3744|><|server|><|delay#0.234|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Dark-Blue      <|ansi#1B5B3644|><|server|><|delay#0.313|><|ansi#1B5B32303B313466|><|server|><|delay#0.051|><|ansi#1B5B31383B323266|><|ansi#1B5B303B313B33373B34306D|>Dark-Blue      <|ansi#1B5B32303B313466|><|ansi#1B5B303B376D|>SAVE<|ansi#1B5B32303B313466|><|client|><|delay#-3.395|> <|ansi#1B5B42|>    <|ansi#1B5B42|>     <|ansi#1B5B42|>
+<|server|><|delay#0.355|><|ansi#1B5B343B323066|><|server|><|delay#0.052|><|ansi#1B5B32303B313466|><|ansi#1B5B303B313B33373B34306D|>SAVE<|ansi#1B5B32333B3166|><|ansi#1B5B303B313B33326D|><|ansi#1B5B313B33316D|>The name you have chosen is already in use!
+You will have to start over again.
+Press Enter.<|server|><|delay#10.651|>
+<|server|><|delay#0.043|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>About t<|client|><|delay#0.776|>e
+<|server|><|delay#1.207|>
+<|server|><|delay#0.048|><|ansi#1B5B313B33376D|>Please choose a race from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Human
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Dwarf
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Gnome
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B33306D|>]<|an<|client|><|delay#0.801|>1
+<|server|><|delay#1.046|>
+<|server|><|delay#0.056|><|ansi#1B5B313B33376D|>Please choose a class from the following list:
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>1<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Warrior
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>2<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Witchunter
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>3<|ansi#1B5B313B33306D|>]<|ansi#1B5B303B33376D|>  Paladin
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B313B33376D|>4<|ansi#1B5B313B333<|client|><|delay#2.579|>9
+<|server|><|delay#2.897|>
+<|server|><|delay#0.049|><|ansi#1B5B306D|>
+You must now choose if you want to be a truly 'lawful' citizen of the realm.
+If you answer YES to this question then you will never be allowed to instigate
+any action which would give you evil points, and any player that attacks or
+robs from you will receive three times the regular evil points in return. You
+can still attack those with a bad reputation. This option is designed
+solely for those who want to stay away from the player combat aspects of the
+game,<|client|><|delay#0.808|>yes
+<|server|><|delay#1.264|>
+<|server|><|delay#0.000|><|ansi#1B5B306D|><|ansi#1B5B324A|><|ansi#1B5B306D|><|ansi#1B5B306D|>    .ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ.ÄÄ.
+   / <|ansi#1B5B313B33366D|>M A J O R  M U D <|ansi#1B5B303B33366D|>Character Creation <|ansi#1B5B33376D|>/    \  <|ansi#1B5B313B33306D|>ÚÄ    <|ansi#1B5B33356D|>Point Cost Chart    <|ansi#1B5B33306D|>Ä¿
+  <|ansi#1B5B306D|>³                                     ÃÄÄ.   ³ <|ansi#1B5B313B33306D|>³                          ³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ans<|server|><|delay#0.000|>37m³        <|server|><|delay#0.001|><|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>40 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>100 <|ansi#1B5B303B33356D|>CP <|ansi#1B5B313B33306D|>³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ansi#1B5B33366D|>Health     <|ansi#1B5B33376D|>(  40 to  100)  [1<|server|><|delay#0.000|>m  40 <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>³ <|ansi#1B5B303B33356D|>+<|ansi#1B5B316D|>50 <|ansi#1B5B303B33356D|>to base stat: <|ansi#1B5B316D|>150 <|ansi#1B5B303B33356D|>CP <|ansi#1B5B313B33306D|>³
+  <|ansi#1B5B306D|>³ <|ansi#1B5B33316D|>¯ <|ansi#1B5B33366D|>Charm      <|ansi#1B5B33376D|>(  40 to  100)  <|ansi#1B5B316D|>  40 <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>ÀÄ    ... and so on ...   ÄÙ
+  <|ansi#1B5B3<|server|><|delay#0.048|>0m³ <|ansi#1B5B33316D|>¯  <|ansi#1B5B33366D|>Eye Colour    <|ansi#1B5B313B33376D|>black            <|ansi#1B5B303B33316D|>® <|ansi#1B5B33376D|>³        <|ansi#1B5B313B33306D|>À <|ansi#1B5B33366D|>your physical description
+  <|ansi#1B5B306D|>³                                     ³
+  ³ <|ansi#1B5B313B33316D|>¯  <|ansi#1B5B303B33366D|>Exit: <|ansi#1B5B313B33376D|>SAVE <|ansi#1B5B33316D|>®  <|ansi#1B5B303B33316D|>¯ <|ansi#1B5B33366D|>CP Left:       <|ansi#1B5B33316D|>® <|ansi#1B5B3337<|server|><|delay#0.748|><|ansi#1B5B343B323066|><|ansi#1B5B303B376D|>                  <|ansi#1B5B343B323066|>R<|server|><|delay#1.062|><|ansi#1B5B353B323066|><|server|><|delay#0.046|><|ansi#1B5B343B323066|><|ansi#1B5B303B313B33373B34306D|>Ryan              <|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>                  <|ansi#1B5B353B323066|><|server|><|delay#0.361|><|ansi#1B5B353B323066|><|ansi#1B5B303B376D|>                  <|ansi#1B5B353B323066|>Z<|server|><|delay#0.908|><|ansi#1B5B393B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|> 100<|ansi#1B5B353B323066|><|ansi#1B5B303B313B33373B34306D|>Zander            <|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B393B333466|><|server|><|delay#0.657|><|ansi#1B5B393B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B393B333466|>5<|client|><|delay#-3.082|>Ryan<|ansi#1B5B42|>Zander<|ansi#1B5B42|>50
+<|server|><|delay#0.265|><|ansi#1B5B31303B333466|><|server|><|delay#0.045|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  90<|ansi#1B5B393B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31303B333466|><|server|><|delay#0.081|><|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31303B333466|>5<|client|><|delay#0.000|>50
+<|server|><|delay#0.187|><|ansi#1B5B31313B333466|><|server|><|delay#0.045|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  80<|ansi#1B5B31303B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31313B333466|><|server|><|delay#0.080|><|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31313B333466|>5<|client|><|delay#-0.009|>50
+<|server|><|delay#0.187|><|ansi#1B5B31323B333466|><|server|><|delay#0.045|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  70<|ansi#1B5B31313B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31323B333466|><|server|><|delay#0.096|><|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31323B333466|>5<|client|><|delay#-0.001|>50
+<|server|><|delay#0.219|><|ansi#1B5B31333B333466|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  60<|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31333B333466|><|server|><|delay#0.128|><|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31333B333466|>5<|client|><|delay#-0.009|>50
+<|server|><|delay#0.203|><|ansi#1B5B31343B333466|><|server|><|delay#0.042|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  40<|ansi#1B5B31343B333466|><|server|><|delay#0.098|><|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31343B333466|>5<|client|><|delay#-0.008|>50
+<|server|><|delay#1.000|><|ansi#1B5B31363B323266|><|server|><|delay#0.044|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  40<|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#0.488|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>none           <|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31343B333466|><|server|><|delay#2.484|><|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31343B333466|>6<|client|><|delay#-0.013|>60
+<|server|><|delay#0.187|><|ansi#1B5B31363B323266|><|server|><|delay#0.045|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>  20<|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  60<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#0.518|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>none           <|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  60<|ansi#1B5B31343B333466|><|server|><|delay#0.156|><|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  60<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31333B333466|><|server|><|delay#0.375|><|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31323B333466|><|server|><|delay#0.422|><|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31313B333466|><|server|><|delay#1.203|><|ansi#1B5B31313B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31303B333466|><|server|><|delay#1.516|><|ansi#1B5B31303B333466|><|ansi#1B5B303B376D|>    <|ansi#1B5B31303B333466|>6<|client|><|delay#-0.013|>60
+<|server|><|delay#0.484|><|ansi#1B5B31313B333466|><|server|><|delay#0.051|><|ansi#1B5B32303B333366|><|ansi#1B5B306D|>   0<|ansi#1B5B31303B333466|><|ansi#1B5B303B313B33373B34306D|>  60<|ansi#1B5B31313B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31313B333466|><|server|><|delay#4.590|><|ansi#1B5B31313B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31323B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31323B333466|><|server|><|delay#0.203|><|ansi#1B5B31323B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31333B333466|><|ansi#1B5B303B376D|>  50<|ansi#1B5B31333B333466|><|server|><|delay#0.594|><|ansi#1B5B31333B333466|><|ansi#1B5B303B313B33373B34306D|>  50<|ansi#1B5B31343B333466|><|ansi#1B5B303B376D|>  60<|ansi#1B5B31343B333466|><|server|><|delay#0.282|><|ansi#1B5B31343B333466|><|ansi#1B5B303B313B33373B34306D|>  60<|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>none           <|ansi#1B5B31363B323266|><|server|><|delay#0.780|><|ansi#1B5B31363B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31363B323266|>Short          <|ansi#1B5B313044|><|server|><|delay#0.500|><|ansi#1B5B31373B323266|><|server|><|delay#0.048|><|ansi#1B5B31363B323266|><|ansi#1B5B303B313B33373B34306D|>Short          <|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31373B323266|><|server|><|delay#0.077|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>White          <|ansi#1B5B313044|><|server|><|delay#0.485|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Silver         <|ansi#1B5B3944|><|server|><|delay#0.421|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Red            <|ansi#1B5B313244|><|server|><|delay#0.422|><|ansi#1B5B31373B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31373B323266|>Brown          <|ansi#1B5B313044|><|server|><|delay#0.375|><|ansi#1B5B31383B323266|><|server|><|delay#0.048|><|ansi#1B5B31373B323266|><|ansi#1B5B303B313B33373B34306D|>Brown          <|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>black          <|ansi#1B5B31383B323266|><|server|><|delay#0.077|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Crimson        <|ansi#1B5B3844|><|server|><|delay#0.235|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Yellow         <|ansi#1B5B3944|><|server|><|delay#0.172|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Pale-Blue      <|ansi#1B5B3644|><|server|><|delay#0.187|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Sea-Blue       <|ansi#1B5B3744|><|server|><|delay#0.203|><|ansi#1B5B31383B323266|><|ansi#1B5B303B376D|>               <|ansi#1B5B31383B323266|>Dark-Blue      <|ansi#1B5B3644|><|server|><|delay#0.578|><|ansi#1B5B32303B313466|><|server|><|delay#0.052|><|ansi#1B5B31383B323266|><|ansi#1B5B303B313B33373B34306D|>Dark-Blue      <|ansi#1B5B32303B313466|><|ansi#1B5B303B376D|>SAVE<|ansi#1B5B32303B313466|><|client|><|delay#-3.885|> <|ansi#1B5B42|>    <|ansi#1B5B42|>     <|ansi#1B5B42|>
+<|server|><|delay#2.183|><|ansi#1B5B343B323066|><|server|><|delay#0.054|><|ansi#1B5B32303B313466|><|ansi#1B5B303B313B33373B34306D|>SAVE<|ansi#1B5B32333B3166|><|ansi#1B5B303B313B33326D|><|ansi#1B5B313B33376D|>
+To prevent accidental suicide or reroll, these commands
+have been password protected.  You have not yet entered
+your suicide password, so please do so soon using the
+SET SUICIDE command.
+<|ansi#1B5B313B33366D|>Please wait - Validating your name.
+ -<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.045|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.045|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.045|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.045|>\|<|server|><|delay#0.047|>/-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\|<|server|><|delay#0.051|>/-\<|server|><|delay#0.041|>|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.053|>\|/-<|server|><|delay#0.043|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.049|>/-\<|server|><|delay#0.045|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.049|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.053|>\|/<|server|><|delay#0.042|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.049|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.045|>-\|<|server|><|delay#0.047|>/-<|server|><|delay#0.050|>\|/-<|server|><|delay#0.045|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.045|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.052|>\|/<|server|><|delay#0.044|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.048|>\|/-<|server|><|delay#0.046|>\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.050|>|/-\<|server|><|delay#0.049|>|/<|server|><|delay#0.042|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.049|>\|/<|server|><|delay#0.045|>-\|<|server|><|delay#0.048|>/-\|<|server|><|delay#0.046|>/-<|server|><|delay#0.048|>\|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|<|server|><|delay#0.047|>/-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/<|server|><|delay#0.066|>-\|/<|server|><|delay#0.045|>-\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.051|>-\|<|server|><|delay#0.043|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.052|>/-\<|server|><|delay#0.042|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.045|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.049|>|/-<|server|><|delay#0.045|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.049|>|/-<|server|><|delay#0.043|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/<|server|><|delay#0.048|>-\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.045|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.044|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.053|>\|/<|server|><|delay#0.055|>-\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.046|>|/<|server|><|delay#0.048|>-\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.050|>/-\<|server|><|delay#0.044|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.049|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.046|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.050|>\|/<|server|><|delay#0.044|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.045|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.048|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.050|>|/-<|server|><|delay#0.044|>\|/<|server|><|delay#0.048|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.047|>|/<|server|><|delay#0.047|>-\|/<|server|><|delay#0.049|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.046|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.047|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.054|>\|/<|server|><|delay#0.056|>-\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.046|>/-\<|server|><|delay#0.048|>|/-<|server|><|delay#0.047|>\|/<|server|><|delay#0.047|>-\|<|server|><|delay#0.048|>/-\<|server|><|delay#0.047|>|/-<|server|><|delay#0.046|>\|<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Ryan Zander                      <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Human       <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>0               <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   57
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Bard       <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>1             <|an<|server|><|delay#14.339|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Village Entrance
+<|ansi#1B5B303B33366D|>You notice large sign, newbie manual here.
+<|ansi#1B5B303B33326D|>Obvious exits: nMorth, sBouth, wUest, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.160|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Village Entrance
+<|ansi#1B5B303B33366D|>You notice large sign, newbie manual here.
+<|ansi#1B5B303B33326D|>Obvious exits: nMorth, sBouth, wUest, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.161|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Village Entrance
+<|ansi#1B5B303B33366D|>You notice large sign, newbie manual here.
+<|ansi#1B5B303B33326D|>Obvious exits: nMorth, sBouth, wUest, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.114|>
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Village Entrance
+<|ansi#1B5B303B33366D|>You notice large sign, newbie manual here.
+<|ansi#1B5B303B33326D|>Obvious exits: nMorth, sBouth, wUest, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#2.597|>w
+<|server|><|delay#3.256|>
+<|server|><|delay#0.422|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Path
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37;4<|server|><|delay#0.055|>0m    This narrow path is fairly plain, save for the small lanterns hanging from
+the trees around. North of you lies a strangely decorated shop, and a beat-up
+shack labeled "General Store" lies to your south. The path leads east and west
+from here. 
+<|ansi#1B5B303B33326D|>Obvious exits: nMorth, sBouth, eJast, wUest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.873|>w
+<|server|><|delay#0.976|>
+<|server|><|delay#0.970|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37;4<|server|><|delay#0.053|>0m    This narrow road is quite plain save for the various lanterns hanging from
+the trees around, and a large stone stairwell leading downwards. You hear the
+clash of steel below you, and cries of pain and triumph accompanying it. Stone
+buildings lie to your north and west. 
+<|ansi#1B5B303B33326D|>Obvious exits: nMorth, eJast, wUest, dRown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.393|>d
+<|server|><|delay#0.524|>
+<|server|><|delay#0.422|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Arena
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    <|server|><|delay#0.051|>This huge room is has been carved into the earth with crude work- manship.
+The blood-soaked floor is covered in broken, rusted weaponry and some things
+better left unmentioned. A huge iron gate sits in the west wall, and behind it
+you can hear the growling of some unfathomable beast. A large black door is
+set in the northern wall. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large kobold thief<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B30<|server|><|delay#0.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.056|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.912|>i
+<|server|><|delay#2.116|>
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying Nothing!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have no keys.
+<|ansi#1B5B303B33326D|>Wealth: <|ansi#1B5B33366D|>0 copper farthings
+<|ansi#1B5B303B33326D|>Encumbrance: <|ansi#1B5B33366D|>0/2400 - <|ansi#1B5B33376D|>None [0%]<|ansi#1B5B306D|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B30<|client|><|delay#1.516|>l ex
+<|server|><|delay#2.014|>
+<|server|><|delay#0.053|><|ansi#1B5B313B33313B34306D|>You do not see ex here!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.409|>l ryan
+<|server|><|delay#1.182|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their<|server|><|delay#0.054|> shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>[ Ryan Zander ]<|ansi#1B5B303B3337<|server|><|delay#4.483|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.055|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.939|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.044|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.052|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.052|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.055|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.048|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.053|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.053|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.635|>a t
+<|server|><|delay#1.103|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#3.802|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.050|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 1 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.493|>bre
+<|server|><|delay#0.856|>
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.124|>l thief
+<|server|><|delay#0.700|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large kobold thief<|ansi#1B5B303B33376D|>
+The creature before you stands about four feet tall, has small pointy teeth,
+and is garbed in mismatched armour. It carries a short sword, and flicks its
+eyes around nervously as it sneaks about. 
+It appears to be slightly wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#3.299|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.053|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.048|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.050|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.049|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.055|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.054|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.057|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.927|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.042|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.048|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.050|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.054|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.051|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.053|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.963|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.056|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.050|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.052|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.676|>l th
+<|server|><|delay#1.214|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large kobold thief<|ansi#1B5B303B33376D|>
+The creature before you stands about four feet tall, has small pointy teeth,
+and is garbed in mismatched armour. It carries a short sword, and flicks its
+eyes around nervously as it sneaks about. 
+It appears to be unwounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.567|>a t
+<|server|><|delay#1.062|>
+<|server|><|delay#0.067|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#2.558|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.045|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large kobold thief!
+<|<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 1 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.041|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>Your swing at large kobold thief hits, but glances off its armour.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 1 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.054|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|an<|client|><|delay#3.506|>bre
+<|server|><|delay#3.821|>
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.226|>l th
+<|server|><|delay#0.699|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large kobold thief<|ansi#1B5B303B33376D|>
+The creature before you stands about four feet tall, has small pointy teeth,
+and is garbed in mismatched armour. It carries a short sword, and flicks its
+eyes around nervously as it sneaks about. 
+It appears to be moderately wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.326|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.049|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.043|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.043|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.741|>l th
+<|server|><|delay#2.676|>
+<|server|><|delay#0.066|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large kobold thief<|ansi#1B5B303B33376D|>
+The creature before you stands about four feet tall, has small pointy teeth,
+and is garbed in mismatched armour. It carries a short sword, and flicks its
+eyes around nervously as it sneaks about. 
+It appears to be moderately wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.055|>a t
+<|server|><|delay#0.387|>
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#1.775|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 2 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.042|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.050|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 1 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 3 damage!
+<|ansi#1B5B373944|><|ans<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their s<|server|><|delay#0.056|>hortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The large kobold thief stabs you for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 1 damage!
+<|ansi#<|server|><|delay#2.866|> <|server|><|delay#0.109|>r<|client|><|delay#-0.615|>l ryan
+<|server|><|delay#1.735|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>[ Ryan Zander ]<|ansi#1B5B303B33376D|>
+Ryan is a healthy, moderately built Human Bard with short brown hair and dark
+blue eyes.  He moves cautiously, and is quite attractive and pleasant to be
+around.  Ryan appears to be bright and looks fairly knowledgeable.  He is
+slightly wounded.
+<|ansi#1B5B33336D|>
+He is equipped with:
+
+<|ansi#1B5B33326D|>Nothing
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|<|server|><|delay#0.184|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 1 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.048|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>Your swing at large kobold thief hits, but glances off its armour.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373<|client|><|delay#2.112|>l th
+<|server|><|delay#2.593|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large kobold thief<|ansi#1B5B303B33376D|>
+The creature before you stands about four feet tall, has small pointy teeth,
+and is garbed in mismatched armour. It carries a short sword, and flicks its
+eyes around nervously as it sneaks about. 
+It appears to be heavily wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#2.317|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>Your swing at large kobold thief hits, but glance<|server|><|delay#0.058|>s off its armour.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|client|><|delay#0.854|>l th
+<|server|><|delay#2.020|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large kobold thief<|ansi#1B5B303B33376D|>
+The creature before you stands about four feet tall, has small pointy teeth,
+and is garbed in mismatched armour. It carries a short sword, and flicks its
+eyes around nervously as it sneaks about. 
+It appears to be severely wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#2.868|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 3 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.055|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|an<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>Your swing at large kobold thief hits, but glance<|server|><|delay#0.045|>s off its armour.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with th<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 2 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.044|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large kobold thief lunges at you with their shortsword, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|an<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You punch large kobold thief for 3 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.042|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>6 silver drop to the ground.
+14 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The kobold thief falls to the ground with a shrill cry.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 13 experience.
+<|ansi#1B5B373944|><|ansi#1<|server|><|delay#4.943|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A angry giant rat<|ansi#1B5B303B33326D|> creeps into the room fro<|server|><|delay#0.045|>m nowhere.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.045|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.971|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The angry giant rat bites you for 3 damage!
+[<|server|><|delay#0.043|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#3.637|>l ray
+<|server|><|delay#4.144|>
+<|server|><|delay#0.041|><|ansi#1B5B313B33313B34306D|>You do not see ray here!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.501|>l rya
+<|server|><|delay#0.960|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.055|>;37m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>[ Ryan Zander ]<|ansi#1B5B303B33376D|>
+Ryan is a healthy, moderately built Human Bard with short brown hair and dark
+blue eyes.  He moves cautiously, and is quite attractive and pleasant to be
+around.  Ryan appears to be bright and looks fairly knowledgeable.  He is
+slightly wounded.
+<|ansi#1B5B33336D|>
+He is equipped with:
+
+<|ansi#1B5B33326D|>Nothing
+
+<<|server|><|delay#4.757|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.941|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.044|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.971|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The angry giant rat bites you for 5 damage!
+[<|server|><|delay#0.057|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.943|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.043|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.057|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.040|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#4.839|>l rya
+<|server|><|delay#5.334|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.043|>;37m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>[ Ryan Zander ]<|ansi#1B5B303B33376D|>
+Ryan is a healthy, moderately built Human Bard with short brown hair and dark
+blue eyes.  He moves cautiously, and is quite attractive and pleasant to be
+around.  Ryan appears to be bright and looks fairly knowledgeable.  He is
+moderately wounded.
+<|ansi#1B5B33336D|>
+He is equipped with:
+
+<|ansi#1B5B33326D|>Nothing
+<|client|><|delay#4.206|>st
+<|server|><|delay#4.379|>
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Ryan Zander                      <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Human       <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>13              <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   57
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Bard       <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|server|><|delay#0.154|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.933|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#3.840|>rest
+<|server|><|delay#4.124|>
+<|server|><|delay#0.056|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.773|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#2.021|> <|server|><|delay#0.437|>r<|client|><|delay#-1.332|>rest
+<|server|><|delay#0.297|>
+<|server|><|delay#0.055|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#2.149|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.057|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.943|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.039|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.961|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#2.841|>[A<|server|><|delay#1.656|> <|server|><|delay#0.125|> <|server|><|delay#0.329|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.052|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.963|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.057|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.943|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.046|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.043|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.941|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The angry giant rat bites you for 7 damage!
+[<|server|><|delay#0.057|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=22<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.943|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.052|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.967|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#3.258|>l rya
+<|server|><|delay#3.703|>
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>[ Ryan Zander ]<|ansi#1B5B303B33376D|>
+Ryan is a healthy, moderately built Human Bard with short brown hair and dark
+blue eyes.  He moves cautiously, and is quite attractive and pleasant to be
+around.  Ryan appears to be bright and looks fairly knowledgeable.  He is
+moderately wounded.
+<|ansi#1B5B33336D|>
+He is equipped with:
+
+<|ansi#1B5B33326D|>Nothing
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=23<|server|><|delay#1.194|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.052|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.058|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.942|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.939|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=26<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.043|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=27<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.966|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.931|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=28<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.052|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.969|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.940|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=29<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.052|>7m[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.052|>7m[HP=30<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.969|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.045|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.057|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.943|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.050|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.929|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.948|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.973|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.041|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.047|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.952|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.041|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.959|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.056|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.944|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.044|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.049|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.053|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.938|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.048|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.967|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.958|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.047|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.055|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.945|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.046|>7m[HP=32<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.954|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The angry giant rat bites you for 10 damage!
+<|server|><|delay#0.050|>[79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=22<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.961|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=22<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.939|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.051|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=22<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.049|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.953|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.051|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.947|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.955|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.044|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.956|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.057|>7m[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.981|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you, but you dodge <|server|><|delay#0.042|>out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=23<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.904|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.045|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.960|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.969|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.951|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.054|>7m[HP=24<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.946|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.043|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|server|><|delay#4.957|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.042|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#3.294|>l ryan
+<|server|><|delay#3.958|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>[ Ryan Zander ]<|ansi#1B5B303B33376D|>
+Ryan is a healthy, moderately built Human Bard with short brown hair and dark
+blue eyes.  He moves cautiously, and is quite attractive and pleasant to be
+around.  Ryan appears to be bright and looks fairly knowledgeable.  He is
+moderately wounded.
+<|ansi#1B5B33336D|>
+He is equipped with:
+
+<|ansi#1B5B33326D|>Nothing
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=25<|server|><|delay#0.950|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry giant rat lunges at you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.049|>7m[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.895|>u
+<|server|><|delay#2.060|>
+<|server|><|delay#0.891|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37;4<|server|><|delay#0.045|>0m    This narrow road is quite plain save for the various lanterns hanging from
+the trees around, and a large stone stairwell leading downwards. You hear the
+clash of steel below you, and cries of pain and triumph accompanying it. Stone
+buildings lie to your north and west. 
+<|ansi#1B5B303B33326D|>Obvious exits: nJorth, eIast, wVest, dMown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=25<|ansi#1B5B303B33376D|>/MA=10<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.507|>x
+<|server|><|delay#0.596|>
+<|server|><|delay#0.042|>You will exit after a period of silent meditation.
+.<|server|><|delay#0.317|>...<|server|><|delay#1.000|>...<|server|><|delay#1.000|>...<|server|><|delay#1.000|>...<|server|><|delay#1.000|>...<|server|><|delay#1.000|><|ansi#1B5B306D|>
+Your character has been saved. If you have any comments or<|server|><|delay#0.042|> suggestions, please
+leave them in E-mail to Sysop. Thanks.
+
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B306D|>MAJORMUD<|ansi#1B5B313B33306D|>]<|ansi#1B5B306D|>: <|ansi#1B5B303B33373B34306D|><|client|><|delay#28.150|>xx
+<|server|><|delay#28.614|>
+<|server|><|delay#0.054|> 
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Main System Menu (TOP)
+<|ansi#1B5B33366D|>Make your selection (<|ansi#1B5B313B33366D|>M,F,E,A,S,<|ansi#1B5B303B313B33366D|>? for help, or X to exit): <|client|><|delay#0.387|>x
+<|server|><|delay#0.509|>
+<|server|><|delay#0.052|><|ansi#1B5B306D|>
+<|ansi#1B5B313B356D|>You are about to terminate this connection!
+
+<|ansi#1B5B303B313B33366D|>Are you sure (Y/N, or R to re-logon)? <|server|><|delay#0.791|> <|server|><|delay#0.141|>y<|client|><|delay#-0.515|>y
+<|server|><|delay#0.094|>
+<|server|><|delay#0.016|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33326D|>Ok, thanks for calling BBS.
+You were online this session for 25 minutes.
+Hope to see you back again real soon!!
+
+Have a nice day...
+                                    
+                                    
+                                    
+                                    
+          

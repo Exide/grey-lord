@@ -1,0 +1,2 @@
+[2025-07-07 15:42:12] COPY: Copied 1725 files from C:\Users\exide\Code\c-telnet-proxy\data to data\training_data_v2 - Total size: 4218.5MB
+[2025-07-07 15:42:34] PRUNE: Pruned 1512 files (min_size=10.0KB, pattern=*.log) - Space freed: 1.5MB - Final dataset: 214 files, 4217.0MB

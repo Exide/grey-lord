@@ -1,0 +1,879 @@
+<|server|><|delay#0.448|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.001|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.046|><|telnet#FFFB03|><|server|><|delay#0.638|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.046|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 08:36 01-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.045|>Grak
+<|server|><|delay#0.048|>Grak
+<|server|><|delay#0.044|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.046|>password
+<|server|><|delay#0.050|>********<|server|><|delay#0.045|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Grak, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#0.004|>m
+<|server|><|delay#0.009|>m
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#-0.002|>enter
+<|server|><|delay#0.001|>enter
+<|server|><|delay#0.015|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.015|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.015|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|client|><|delay#-0.002|>stat
+<|server|><|delay#0.000|>
+
+stat
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B<|client|><|delay#0.046|>who
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Grak Stonehand                   <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/15   
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Half-Ogre   <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>2534396         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   11
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Warrior    <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|server|><|delay#0.047|>who
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm       -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild    -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|><|server|><|delay#0.048|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B<|server|><|delay#0.048|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B<|client|><|delay#0.047|>a angry orc shaman
+<|server|><|delay#0.048|>a angry orc shaman
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.425|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at angry orc shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.025|>P=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop angry orc shaman for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Angry orc shaman casts harm on you for 17 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.042|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B<|client|><|delay#0.000|>a angry orc shaman
+<|server|><|delay#0.010|>a angry orc shaman
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.354|>l sham
+<|server|><|delay#0.484|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>angry orc shaman<|ansi#1B5B303B33376D|>
+This brutal-looking figure is garbed in a rough brown robe. Glowing red eyes
+peer at you from the depths of its hood, and it waves its clawed hands about
+in mystical patterns. An evil aura emanates from this creature. 
+It appears to be severely wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.108|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop angry orc shaman for 11 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.001|>K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack angry orc shaman for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Angry orc shaman casts harm on you for 20 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi<|server|><|delay#0.057|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B<|client|><|delay#0.045|>a angry orc shaman
+<|server|><|delay#0.058|>a angry orc shaman
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.042|>
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B<|client|><|delay#-0.063|>l sham
+<|server|><|delay#0.626|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>angry orc shaman<|ansi#1B5B303B33376D|>
+This brutal-looking figure is garbed in a rough brown robe. Glowing red eyes
+peer at you from the depths of its hood, and it waves its clawed hands about
+in mystical patterns. An evil aura emanates from this creature. 
+It appears to be very critically wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.672|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 15 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop angry orc shaman for 17 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>5 silver drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc shaman shrieks in agony, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 275 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|an<|server|><|delay#0.000|>
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 20 silver nobles, 3 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>exp
+<|server|><|delay#0.032|>exp
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>2534671 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>18<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>38147 (2572818) [98%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>i
+<|server|><|delay#0.047|>i
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1324 silver nobles, 2030
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boots (Feet), leather belt
+(Waist), greatcloak (Back), visored greathelm (Head), golden battleaxe (Weapon
+Hand)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have th<|client|><|delay#0.046|>drop 15 copper farthing
+<|server|><|delay#0.047|>drop 15 copper farthing
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 15 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.194|>
+<|client|><|delay#0.039|>rest
+<|server|><|delay#0.039|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 20 silver nobles, 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eUast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>i
+<|server|><|delay#0.047|>rest
+You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.046|>i
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1324 silver nobles, 2015
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boots (Feet), leather belt
+(Waist), greatcloak (Back), visored greathelm (Head), golden battleaxe (Weapon
+Hand)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have<|client|><|delay#0.046|>g 20 silver noble
+<|server|><|delay#0.055|>g 20 silver noble
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 20 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.014|>rest
+<|server|><|delay#0.025|>rest
+<|server|><|delay#0.018|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.017|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.111|>look w
+<|server|><|delay#0.013|>w
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|server|><|delay#0.035|>
+<|server|><|delay#0.011|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.052|>
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.025|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.036|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eLast, wWest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>39<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>39<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of curse wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=<|ansi#1B5B313B33316D|>39<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.012|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>39<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.041|>
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>39<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.045|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.029|>
+<|server|><|delay#0.026|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.130|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.038|>
+<|server|><|delay#0.009|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.038|>
+<|server|><|delay#0.024|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wQest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>59<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.013|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eMast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.043|>
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.016|>l e
+<|server|><|delay#0.239|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33376D|>Valerius just disconnected!!!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP<|server|><|delay#0.000|>=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.032|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.153|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Valerius just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1<|server|><|delay#0.000|>;37m74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.032|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>89<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.024|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>89<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eMast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>89<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>94<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.046|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>94<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.021|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>94<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.047|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>94<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.078|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>94<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.030|>
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.059|>
+<|server|><|delay#0.034|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eKast, wPest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>114<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.046|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>114<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.003|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.027|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.162|>
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.078|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.237|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>129<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=144<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.046|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wBest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=144<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=149<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.029|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=149<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.014|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=149<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.026|>
+<|server|><|delay#0.006|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=149<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.009|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=149<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.126|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=149<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=164<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.029|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=164<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.017|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=164<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eAast, wXest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=164<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=169<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=169<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=169<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.057|>
+<|server|><|delay#0.021|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=169<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.447|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.045|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.051|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.017|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.119|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eWast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=184<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=189<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|server|><|delay#0.000|><|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.038|>
+<|server|><|delay#0.038|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.121|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.109|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.115|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.233|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=204<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=219<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.029|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=219<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eRast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=219<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=224<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.029|>
+<|server|><|delay#0.018|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=224<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=224<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=224<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.048|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=224<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.045|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.062|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.027|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.236|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.172|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eNast, wFest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=239<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=244<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.047|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.063|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.152|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.197|>
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.345|>
+<|server|><|delay#0.024|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.324|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=259<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.043|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 18 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.062|>w
+<|server|><|delay#0.063|>w
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: [1<|server|><|delay#0.000|>;35mangry half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eYast, sAouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>a angry half-orc sentry
+<|server|><|delay#0.000|>a angry half-orc sentry
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.250|>look sw
+<|server|><|delay#0.001|>sw
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|<|server|><|delay#0.001|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eYast, sAouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry half-orc sentry swings at you with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash angry half-orc sentry for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=274<|ansi#1B<|server|><|delay#0.058|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eDast, sFouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry half-orc sentry swings at you with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The angry half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack angry half-orc sentry for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B<|server|><|delay#0.001|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>angry half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eDast, sFouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack angry half-orc sentry for 23 damage!
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>2 silver drop to the ground.
+2 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The half-orc sentry shouts for aid, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 125 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376<|server|><|delay#0.057|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 2 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eDast, sFouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>
+<|server|><|delay#0.036|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 2 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: eDast, sFouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.029|>drop 2 copper farthingi
+<|server|><|delay#0.040|>drop 2 copper farthing
+i
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 2 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1344 silver nobles, 2013
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boot<|client|><|delay#0.046|>drop 2 copper farthingrest
+<|server|><|delay#0.058|>drop 2 copper farthing
+rest
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 2 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.486|>sw
+<|server|><|delay#0.500|>sw
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: [1<|server|><|delay#0.000|>;35mnasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wTest, nYortheast, sToutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|client|><|delay#-0.002|>a nasty orc warrior
+<|server|><|delay#0.000|>a nasty orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.032|>look d
+<|server|><|delay#0.375|>d
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B313B33313B34306D|>There are no exits downwards!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=279<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.095|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|client|><|delay#0.250|>look se
+<|server|><|delay#0.703|>se
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>big half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|<|client|><|delay#0.046|>look w
+<|server|><|delay#0.452|>w
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33326D|>Obvious exits: eDast, wTest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=256<|ansi#1B5B303B33376<|server|><|delay#0.454|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|server|><|delay#0.462|>
+<|server|><|delay#0.029|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|server|><|delay#0.030|>
+<|server|><|delay#0.029|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|client|><|delay#0.029|>a nasty orc warrior
+<|server|><|delay#0.031|>a nasty orc warrior
+<|server|><|delay#0.029|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=230<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=230<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty orc warrior swings at you with their sc<|server|><|delay#0.000|>imitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=230<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=230<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts harm on you for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=214<|ansi#1B5B3<|server|><|delay#0.009|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|client|><|delay#-0.011|>a nasty orc warrior
+<|server|><|delay#0.001|>a nasty orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=191<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=191<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.031|>
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|server|><|delay#0.222|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nasty orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.051|>HP=191<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack nasty orc warrior for 17 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=191<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>2 silver drop to the ground.
+17 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc warrior growls in hatred, and collapses.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=191<|ansi#1B5B303B33376D|>]<|server|><|delay#0.031|>
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|client|><|delay#0.047|>a fierce orc shaman
+<|server|><|delay#0.051|>a fierce orc shaman
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=181<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.143|>
+<|server|><|delay#0.040|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|client|><|delay#0.546|>look w
+<|server|><|delay#0.674|>w
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33326D|>Obvious exits: eGast, wQest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=181<|ansi#1B5B303B33376<|server|><|delay#0.749|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|server|><|delay#0.025|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fierce orc shaman for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=181<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc shaman for 14 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=181<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc shaman swipes at you with their iron<|server|><|delay#0.031|>
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|client|><|delay#0.032|>a fierce orc shaman
+<|server|><|delay#0.036|>a fierce orc shaman
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>142<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>142<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.106|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|server|><|delay#0.016|> <|server|><|delay#0.047|> <|server|><|delay#0.105|> <|server|><|delay#0.219|>h<|server|><|delay#0.078|>a<|client|><|delay#-1.324|>l sha
+<|server|><|delay#0.110|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>fierce orc shaman<|ansi#1B5B303B33376D|>
+This brutal-looking figure is garbed in a rough brown robe. Glowing red eyes
+peer at you from the depths of its hood, and it waves its clawed hands about
+in mystical patterns. An evil aura emanates from this creature. 
+It appears to be heavily wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>142<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc shaman for 11 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.001|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>142<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc shaman for 23 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>142<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc shaman swipes at you with their iron-capped staff!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.059|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|client|><|delay#0.045|>a fierce orc shaman
+<|server|><|delay#0.060|>a fierce orc shaman
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>132<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>132<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.496|>l sha
+<|server|><|delay#0.001|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>fierce orc shaman<|ansi#1B5B303B33376D|>
+This brutal-looking figure is garbed in a rough brown robe. Glowing red eyes
+peer at you from the depths of its hood, and it waves its clawed hands about
+in mystical patterns. An evil aura emanates from this creature. 
+It appears to be critically wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>132<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.640|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|server|><|delay#0.094|>
+<|server|><|delay#0.017|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc shaman for 14 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>132<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fierce orc shaman for 17 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>132<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>8 silver drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc shaman shrieks in agony, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 10 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wQest, nWortheast, sUoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|server|><|delay#0.053|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 10 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wQest, nWortheast, sUoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|client|><|delay#0.047|>a fierce orc shaman
+<|server|><|delay#0.054|>a fierce orc shaman
+<|server|><|delay#0.060|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>103<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.247|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 10 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wQest, nWortheast, sUoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fierce orc shaman for 8 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.001|>K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>103<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc shaman for 23 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>103<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts harm on you for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>95<<|server|><|delay#0.055|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 10 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wQest, nWortheast, sUoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|client|><|delay#0.046|>a fierce orc shaman
+<|server|><|delay#0.056|>a fierce orc shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>76<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>76<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.031|> <|server|><|delay#0.078|> <|server|><|delay#0.125|> <|server|><|delay#0.094|>a<|server|><|delay#0.094|>m<|client|><|delay#-1.441|>l sham
+<|server|><|delay#0.187|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>fierce orc shaman<|ansi#1B5B303B33376D|>
+This brutal-looking figure is garbed in a rough brown robe. Glowing red eyes
+peer at you from the depths of its hood, and it waves its clawed hands about
+in mystical patterns. An evil aura emanates from this creature. 
+It appears to be heavily wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>76<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.097|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 10 silver nobles, 17 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wQest, nWortheast, sUoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts harm on you for 17 damage<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>57<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts harm on you for 19 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>36<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts minor healing on itself!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B3

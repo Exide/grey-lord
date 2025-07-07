@@ -1,0 +1,450 @@
+<|server|><|delay#22735.906|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.015|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.016|><|telnet#FFFB03|><|server|><|delay#1.984|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.047|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 09:30 04-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.047|>Cadence
+<|server|><|delay#0.062|>Cadence
+<|server|><|delay#0.048|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.046|>password
+<|server|><|delay#0.046|>********<|server|><|delay#0.047|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Cadence, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail<|client|><|delay#0.046|>m
+<|server|><|delay#0.048|>m
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.046|>enter
+<|server|><|delay#0.047|>enter
+<|server|><|delay#0.046|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.048|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.045|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33326D|>Obvious exits: sOouth, eLast, wIest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>/MA=44<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>stat
+<|server|><|delay#0.049|>
+
+stat
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33326D|>Obvious exits: sOouth, eLast, wIest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>/MA=44<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33326D|>Obvious exits: sOouth, eLast, wIest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33<|client|><|delay#0.047|>exp
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Cadence Fairchild                <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Elf         <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>354488          <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   52
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Bard       <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#0.045|>who
+<|server|><|delay#0.046|>exp
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>354488 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>10<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>0 (321855) [110%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>/MA=44<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.047|>who
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild  -  <|ansi#1B5B33356D|>Lyricist<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>/MA=44<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.049|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33326D|>Obvious exits: sOouth, eLast, wIest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>/MA=44<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>rest
+<|server|><|delay#0.050|>rest
+<|server|><|delay#0.042|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>/MA=44<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#11.083|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.390|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33326D|>Obvious exits: sIouth, eMast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;31<|server|><|delay#0.000|>m21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.013|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.014|>1m21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.049|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Talon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sIouth, eMast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#1.735|> <|server|><|delay#0.203|>n<|client|><|delay#-0.692|>invite t
+<|server|><|delay#0.562|>
+<|server|><|delay#0.025|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>You have invited Talon to follow you.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.032|>par
+<|server|><|delay#0.037|>par
+<|server|><|delay#0.027|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [Invited]
+  Cadence Fairchild              (Bard)       [M: 89%] [H: 23%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Talon sta<|client|><|delay#-0.217|>par
+<|server|><|delay#0.039|>
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon just moved to the front rank in your g<|server|><|delay#0.039|>roup.
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H:  4%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M: 89%] [H: 23%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.031|>/Talon @join
+<|server|><|delay#0.039|>/Talon @join
+<|server|><|delay#0.040|><|ansi#1B5B303B33376D|>--- Telepath Sent to Talon ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.038|>
+<|server|><|delay#0.040|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Talon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sIouth, eMast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Talon started to follow yo<|client|><|delay#0.025|>/Talon @health
+<|server|><|delay#0.034|>/Talon @health
+<|server|><|delay#0.040|><|ansi#1B5B303B33376D|>--- Telepath Sent to Talon ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.030|>/Talon @heal
+<|server|><|delay#0.039|>/Talon @heal
+<|server|><|delay#0.039|><|ansi#1B5B303B33376D|>--- Telepath Sent to Talon ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon just moved to the front rank in your group.
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Talon telepaths: <|ansi#1B5B303B33376D|>{HP=5/116,MA=2/26, Lost}
+<|server|><|delay#0.016|>[79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Talon telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP<|server|><|delay#0.015|>=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.008|>/Talon {HP=27/88,MA=50/56, Resting}
+<|server|><|delay#0.015|>/Talon {HP=27/88,MA=50/56, Resting}
+<|server|><|delay#0.020|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Talon telepaths: <|ansi#1B5B303B33376D|>@heal
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B303B33376D|>--- Telepath Sent to Talon ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B<|server|><|delay#0.022|>
+<|server|><|delay#0.020|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Talon telepaths: <|ansi#1B5B303B33376D|>@wait (HP's too low)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Talon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious <|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.017|>7m27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.168|>l e
+<|server|><|delay#1.443|>
+<|server|><|delay#0.040|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    This is a pathway through some of the largest darkwood trees you have ever
+seen. These giants reach so far up into the sky that the treetops are
+completely obscured by the lower branches, plunging this area into a perpetual
+twilight. The trees are so old and twisted that their roots have fused
+together in a spidery network. Dense thorn<|client|><|delay#0.499|>rest
+<|server|><|delay#0.789|>
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.056|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Talon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sIouth, eMast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.045|>par
+<|server|><|delay#0.055|>par
+<|server|><|delay#0.022|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H:  4%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 89%] [H: 30%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.015|>p<|client|><|delay#-0.047|>par
+<|server|><|delay#0.213|>
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H:  4%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 89%] [H: 30%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=50<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#-0.172|>life
+<|server|><|delay#0.138|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You sing the song of life to your party!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=40<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You are healing faster!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=40<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>sn
+<|server|><|delay#0.044|>sn
+<|server|><|delay#0.060|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.752|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=40<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.363|>rest
+<|server|><|delay#1.641|>
+<|server|><|delay#0.037|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=40<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.639|>par
+<|server|><|delay#0.642|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H:  4%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 71%] [H: 30%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=40<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#3.847|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>30<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.015|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon casts mend on Talon!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[<|server|><|delay#0.015|>1;37m30<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Talon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.020|>7m30<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Talon telepaths: <|ansi#1B5B303B33376D|>@heal
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>30<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.050|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Elder Darkwood Grove, Fork
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Talon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sAouth, eQast, wQest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>30<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#2.027|>par
+<|server|><|delay#2.040|>par
+<|server|><|delay#0.070|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)              [H: 18%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 82%] [H: 34%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>30<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#2.388|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>39<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.170|>par
+<|server|><|delay#0.184|>par
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)              [H: 18%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 82%] [H: 44%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>39<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.969|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eQast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.044|>[HP=<|ansi#1B5B313B33376D|>39<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.994|>par
+<|server|><|delay#2.002|>par
+<|server|><|delay#0.007|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)              [H: 26%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 82%] [H: 44%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>39<|ansi#1B5B303B33376D|>/MA=46<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.646|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>42<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]: (Resting) [7<|server|><|delay#0.053|>9D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=51<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.997|>par
+<|server|><|delay#2.012|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H: 29%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H: 57%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=51<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.176|>par
+<|server|><|delay#1.188|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H: 37%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H: 57%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=51<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#2.820|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=60<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.656|>par
+<|server|><|delay#0.669|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:  7%] [H: 37%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H: 68%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=60<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#1.465|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.021|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 15%] [H: 47%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H: 71%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#1.718|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=72<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.034|>par
+<|server|><|delay#1.048|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 15%] [H: 47%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H: 81%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=72<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.646|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The song of life wears off.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=7<|server|><|delay#0.000|>2<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.928|>stat
+<|server|><|delay#1.929|>stat
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Cadence Fairchild                <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Elf         <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>354488          <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   52
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Bard       <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#0.842|>par
+<|server|><|delay#0.852|>par
+<|server|><|delay#0.052|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 15%] [H: 47%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H: 81%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=72<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#3.921|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=74<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#2.817|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=80<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.037|>par
+<|server|><|delay#0.047|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 23%] [H: 54%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H: 90%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=80<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#2.490|>par
+<|server|><|delay#2.504|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 23%] [H: 54%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H: 90%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=80<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#3.921|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of valour wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.052|>HP=80<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.793|>par
+<|server|><|delay#1.807|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 23%] [H: 59%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H: 90%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=80<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.858|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=86<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.544|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.034|>hide
+<|server|><|delay#0.047|>hide
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.902|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.033|>valr
+<|server|><|delay#0.047|>valr
+<|server|><|delay#0.033|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You sing the song of valour!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You feel confident!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>hide
+<|server|><|delay#0.045|>hide
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.796|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.811|>par
+<|server|><|delay#0.825|>par
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 30%] [H: 61%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.750|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of bless wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.048|>P=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.031|>par
+<|server|><|delay#1.046|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 30%] [H: 66%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.561|>par
+<|server|><|delay#0.576|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 30%] [H: 66%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.902|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.018|>sn
+<|server|><|delay#1.031|>sn
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.920|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.966|>par
+<|server|><|delay#0.972|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 38%] [H: 73%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.790|>par
+<|server|><|delay#1.798|>par
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 38%] [H: 73%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.014|>par
+<|server|><|delay#1.029|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 38%] [H: 78%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#2.131|>par
+<|server|><|delay#2.142|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 46%] [H: 80%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.092|>par
+<|server|><|delay#0.102|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 46%] [H: 85%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.003|>stat
+<|server|><|delay#0.010|>stat
+<|server|><|delay#0.003|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Cadence Fairchild                <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Elf         <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>354488          <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   52
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Bard       <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#1.981|>par
+<|server|><|delay#1.983|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 46%] [H: 85%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#2.429|>par
+<|server|><|delay#2.441|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 53%] [H: 92%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.108|>par
+<|server|><|delay#0.119|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 53%] [H: 92%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.766|>par
+<|server|><|delay#1.770|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 53%] [H: 97%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.708|>par
+<|server|><|delay#1.710|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 61%] [H: 99%] R - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.891|>par
+<|server|><|delay#0.900|>par
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 61%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.593|>par
+<|server|><|delay#1.605|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 61%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.980|>par
+<|server|><|delay#0.992|>par
+<|server|><|delay#0.006|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 69%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.718|>par
+<|server|><|delay#1.724|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 69%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.425|>par
+<|server|><|delay#0.436|>par
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 69%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.295|>par
+<|server|><|delay#0.299|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 76%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.017|>par
+<|server|><|delay#1.030|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 76%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#2.914|>par
+<|server|><|delay#2.918|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 76%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.547|>par
+<|server|><|delay#0.560|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 84%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.185|>par
+<|server|><|delay#0.189|>par
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 84%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#3.004|>par
+<|server|><|delay#3.005|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 84%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Talon telepaths: <|ansi#1B5B303B33376D|>@ok
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|server|><|delay#0.000|>[0;37m/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>par
+<|server|><|delay#0.047|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 92%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.980|>par
+<|server|><|delay#1.997|>par
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 92%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.491|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of valour wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.042|>HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>valr
+<|server|><|delay#0.051|>valr
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You sing the song of valour!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You feel confident!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.032|>hide
+<|server|><|delay#0.035|>hide
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.768|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.577|>par
+<|server|><|delay#0.586|>par
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M: 92%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M: 92%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=52<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.283|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.953|>par
+<|server|><|delay#0.957|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.653|>par
+<|server|><|delay#0.661|>par
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.639|>sn
+<|server|><|delay#0.640|>sn
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.735|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.159|>par
+<|server|><|delay#1.169|>par
+<|server|><|delay#0.052|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.920|>par
+<|server|><|delay#0.927|>par
+<|server|><|delay#0.041|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.640|>par
+<|server|><|delay#0.649|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.406|>par
+<|server|><|delay#0.409|>par
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.187|>par
+<|server|><|delay#1.191|>par
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.913|>par
+<|server|><|delay#0.924|>par
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.616|>par
+<|server|><|delay#0.621|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.343|>par
+<|server|><|delay#0.353|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.094|>par
+<|server|><|delay#0.107|>par
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Talon Wildclaw                 (Ranger)     [M:100%] [H:100%]   - Frontrank
+  Cadence Fairchild              (Bard)       [M:100%] [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>/MA=56<|ansi#1B5B303B33376D|>]:

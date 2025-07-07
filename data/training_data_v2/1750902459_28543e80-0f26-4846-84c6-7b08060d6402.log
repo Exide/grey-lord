@@ -1,0 +1,323 @@
+<|server|><|delay#0.191|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.013|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.002|><|telnet#FFFB03|><|server|><|delay#0.598|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.044|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 18:47 25-JUN-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.046|>Kage
+<|server|><|delay#0.050|>Kage
+<|server|><|delay#0.043|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.010|>password
+<|server|><|delay#0.015|>********<|server|><|delay#0.001|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Kage, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#0.009|>m
+<|server|><|delay#0.015|>m
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.024|>enter
+<|server|><|delay#0.031|>enter
+<|server|><|delay#0.000|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.053|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.042|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eWast, wXest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>stat
+<|server|><|delay#0.052|>
+
+stat
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eWast, wXest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B3<|client|><|delay#0.047|>exp
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Kage Nightshade                  <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/4    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Dark-Elf    <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>1739248         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   44
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Ninja      <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#0.046|>who
+<|server|><|delay#0.046|>exp
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>1739248 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>11<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>0 (435436) [404%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.048|>who
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm        -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild     -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D<|server|><|delay#0.052|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eWast, wXest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Grak has aided you.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>]<|server|><|delay#0.000|>:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing on you, bu<|server|><|delay#0.000|>t failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>Gideon casts major healing on you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>rest
+<|server|><|delay#0.013|>rest
+<|server|><|delay#0.016|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.621|>rest
+<|server|><|delay#0.016|>
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|><|server|><|delay#0.000|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;31<|server|><|delay#0.000|>m16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.053|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.686|>invite j
+<|server|><|delay#0.797|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>You have invited Jinx to follow you.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.026|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)      [Invited]
+  Kage Nightshade                (Ninja)               [H: 16%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Jinx started to follow you.
+<|ansi#1B<|client|><|delay#0.025|>/Jinx @join
+<|server|><|delay#0.027|>/Jinx @join
+<|server|><|delay#0.013|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx just moved to the front rank in y<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Jinx started to follow you.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.015|>[1;31m16<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.009|>/Jinx @health
+<|server|><|delay#0.014|>/Jinx @health
+<|server|><|delay#0.016|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>{HP=7/84}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.016|>P=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.012|>/Jinx @health
+<|server|><|delay#0.016|>/Jinx @health
+<|server|><|delay#0.015|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>{HP=7/84}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.015|>P=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.016|><|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.006|>/Jinx {HP=16/95, Resting}
+<|server|><|delay#0.000|>/Jinx {HP=16/95, Resting}
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@wait (HP's too low)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.052|>
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;31<|server|><|delay#0.000|>m16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.002|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.000|>par
+<|server|><|delay#0.005|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:  8%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 23%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-1.561|>uninvite jinx
+<|server|><|delay#0.051|>
+<|server|><|delay#0.026|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>Jinx has been removed from your followers.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>Grak has invited you to follow him.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.016|>0;37m[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.025|>join Grak
+<|server|><|delay#0.031|>join Grak
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Grak
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.024|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@join
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.031|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>frontrank
+<|server|><|delay#0.054|>frontrank
+<|server|><|delay#0.055|>You have moved to the front ranks of your group.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.054|>
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>join Grak
+<|server|><|delay#0.057|>join Grak
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Grak
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.057|>
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.041|>par
+<|server|><|delay#0.053|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 23%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>/Grak @health
+<|server|><|delay#0.058|>/Grak @health
+<|server|><|delay#0.033|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>/Grak @wait (HP's too low)
+<|server|><|delay#0.043|>/Grak @wait (HP's too low)
+<|client|><|delay#-0.001|>par
+<|server|><|delay#0.011|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)        <|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.004|>/Grak @health
+<|server|><|delay#0.015|>/Grak @health
+<|server|><|delay#0.015|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.004|>rest
+<|server|><|delay#0.005|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>{HP=274/274}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>/Grak @health
+<|server|><|delay#0.000|>rest
+You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.014|>/Grak @health
+<|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.012|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>{HP=274/274}
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.015|>m[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.015|><|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>/Grak {HP=22/95, Resting}
+<|server|><|delay#0.015|>/Grak {HP=22/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Not Sent ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.049|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx just moved to the front rank in your grou<|server|><|delay#0.001|>p.
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.001|><|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.008|>/Jinx {HP=24/95, Resting}
+<|server|><|delay#0.000|>/Jinx {HP=24/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|client|><|delay#-0.008|>/Jinx {HP=24/95, Resting}
+<|server|><|delay#0.000|>/Jinx {HP=24/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Not Sent ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.032|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.016|><|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.001|>/Grak {HP=24/95, Resting}
+<|server|><|delay#0.015|>/Grak {HP=24/95, Resting}
+<|server|><|delay#0.016|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@health
+<|client|><|delay#0.032|>/Grak {HP=24/95, Resting}
+<|server|><|delay#0.045|>/Grak {HP=24/95, Resting}
+<|server|><|delay#0.035|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.042|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.155|>par
+<|server|><|delay#0.166|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 10%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 25%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D<|client|><|delay#0.046|>/Jinx @health
+<|server|><|delay#0.058|>/Jinx @health
+<|server|><|delay#0.035|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>{HP=9/84, Resting}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.013|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.004|>/Jinx @health
+<|server|><|delay#0.016|>/Jinx @health
+<|server|><|delay#0.016|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>{HP=9/84, Resting}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.016|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Valerius just moved to the front rank in your <|server|><|delay#0.000|>group.
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Valerius telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.015|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.047|>/Valerius {HP=24/95, Resting}
+<|server|><|delay#0.048|>/Valerius {HP=24/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Valerius ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.047|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Valerius telepaths: <|ansi#1B5B303B33376D|>@heal<|client|><|delay#-0.001|>/Valerius {HP=24/95, Resting}
+<|server|><|delay#0.000|>/Valerius {HP=24/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Not Sent ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.047|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon just moved to the front rank in your gr<|server|><|delay#0.015|>oup.
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Gideon telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.016|>P=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.005|>/Gideon {HP=24/95, Resting}
+<|server|><|delay#0.001|>/Gideon {HP=24/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Gideon ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Gideon telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest<|client|><|delay#0.008|>/Gideon {HP=24/95, Resting}
+<|server|><|delay#0.016|>/Gideon {HP=24/95, Resting}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Not Sent ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.023|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sYouth, eUast, wJest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts minor healing on Jinx!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.000|>37m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.012|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 27%] R - Frontrank
+  Valerius Creed                 (Witchunter)          [H:100%]   - Frontrank
+  Gideon Lightbringer            (Paladin)    [M: 83%] <|client|><|delay#-0.013|>/Valerius @health
+<|server|><|delay#0.000|>/Valerius @health
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Valerius ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.002|>/Gideon @health
+<|server|><|delay#0.015|>/Gideon @health
+<|server|><|delay#0.016|><|ansi#1B5B303B33376D|>--- Telepath Sent to Gideon ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Valerius telepaths: <|ansi#1B5B303B33376D|>{HP=226/226}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.014|>/Valerius @health
+<|server|><|delay#0.000|>/Valerius @health
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Gideon telepaths: <|ansi#1B5B303B33376D|>{HP=163/163,MA=25/30}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33376D|>--- Telepath Sent to Valerius ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Valerius telepaths: <|ansi#1B5B303B33376D|>{HP=226/226}
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.017|>0;37m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>Gideon casts minor healing on you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the wePst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wJest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#<|client|><|delay#-0.017|>/Grak @wait (HP's too low)bs minotaur
+<|server|><|delay#0.000|>/Grak @wait (HP's too low)
+bs minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Gideon moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Valerius moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Gideon hacks minotaur for 19 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.001|>;37m[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>A shining spark strikes minotaur for 1 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|<|client|><|delay#0.030|>par
+<|server|><|delay#0.041|>par
+<|server|><|delay#0.037|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H: 98%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 27%]   - Frontrank
+  Valerius Creed                 (Witchunter)          [H:100%]   - Frontrank
+  Gideon Lightbringer            (Paladin)    [M: 76%] <|server|><|delay#0.006|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast minor healing at Jinx, but failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Gideon moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.016|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically hack minotaur for 50 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically slash minotaur for 41 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls dead with an agonized bellow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<

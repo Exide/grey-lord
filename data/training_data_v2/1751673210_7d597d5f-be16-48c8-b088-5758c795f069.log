@@ -1,0 +1,162 @@
+<|server|><|delay#769.044|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.005|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.010|><|telnet#FFFB03|><|server|><|delay#2.031|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.041|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 16:53 04-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#1.742|>greylord
+<|server|><|delay#2.584|>
+<|server|><|delay#0.046|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.420|>password
+<|server|><|delay#1.173|><|server|><|delay#0.043|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, GreyLord, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mai<|client|><|delay#0.045|>m
+<|server|><|delay#0.051|>m
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#1.120|>e
+<|server|><|delay#1.239|>
+<|server|><|delay#0.052|><|ansi#1B5B306D|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Healer
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    This small, stark stone chamber is bereft of even the simple
+ornamentation, and its bare walls gleam in the bright light of the torches
+lining its walls. A short, stocky man with a black beard sits behind <|server|><|delay#0.057|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Healer
+<|ansi#1B5B303B33366D|>You notice small sign here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B303B33376D|>healer<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eGast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.903|>e
+<|server|><|delay#1.024|>
+<|server|><|delay#0.469|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37;4<|server|><|delay#0.056|>0m    This narrow road is quite plain save for the various lanterns hanging from
+the trees around, and a large stone stairwell leading downwards. You hear the
+clash of steel below you, and cries of pain and triumph accompanying it. Stone
+buildings lie to your north and west. 
+<|ansi#1B5B303B33326D|>Obvious exits: nOorth, eGast, wSest, dSown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#9.930|>l d
+<|server|><|delay#10.225|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Arena
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    This huge room is has been carved into the earth with crude work- manship.
+The blood-soaked floor is covered in broken, rusted weaponry and some things
+better left unmentioned. A huge iron gate sits in the west wall, and behind it
+you can hear the growling of some unfathomable beast. A large black door is
+set in the northern wall. 
+<|ansi#<|client|><|delay#226.062|>l d
+<|server|><|delay#226.357|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Arena
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    This huge room is has been carved into the earth with crude work- manship.
+The blood-soaked floor is covered in broken, rusted weaponry and some things
+better left unmentioned. A huge iron gate sits in the west wall, and behind it
+you can hear the growling of some unfathomable beast. A large black door is
+set in the northern wall. 
+<|ansi#<|client|><|delay#0.593|>d
+<|server|><|delay#0.735|>
+<|client|><|delay#0.202|>l n
+<|server|><|delay#0.625|>
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Arena
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>  <|server|><|delay#0.045|>  This huge room is has been carved into the earth with crude work- manship.
+The blood-soaked floor is covered in broken, rusted weaponry and some things
+better left unmentioned. A huge iron gate sits in the west wall, and behind it
+you can hear the growling of some unfathomable beast. A large black door is
+set in the northern wall. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large kobold thief<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>thin g<|client|><|delay#1.464|>u
+<|server|><|delay#1.611|>
+<|server|><|delay#0.257|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37;4<|server|><|delay#0.067|>0m    This narrow road is quite plain save for the various lanterns hanging from
+the trees around, and a large stone stairwell leading downwards. You hear the
+clash of steel below you, and cries of pain and triumph accompanying it. Stone
+buildings lie to your north and west. 
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, eLast, wCest, dMown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#63.038|>spell
+<|server|><|delay#63.598|>
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|>You have no spells.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.528|>spells
+<|server|><|delay#1.144|>
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|>You have no spells.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#9.942|>pr
+<|server|><|delay#10.141|>
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Life for this CHAR  163 minutes
+Display Mode:       Verbose
+Statusline:         Full
+Broadcast Channel:  0
+Talking speed:      Slow
+Follow Mode:        Normal
+Attack Interrupts:  Off
+Receive Items:      Enabled
+Warn on Evil:       Yes
+Allow Telepaths:    Yes
+Block Entrance Msg: No
+Allow Gossip:       Yes (3 every 3 seconds)
+Allow Auction:      Yes (3 every 3 seconds)
+Keep some ex<|client|><|delay#2.831|>profile
+<|server|><|delay#3.768|>
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Life for this CHAR  163 minutes
+Display Mode:       Verbose
+Statusline:         Full
+Broadcast Channel:  0
+Talking speed:      Slow
+Follow Mode:        Normal
+Attack Interrupts:  Off
+Receive Items:      Enabled
+Warn on Evil:       Yes
+Allow Telepaths:    Yes
+Block Entrance Msg: No
+Allow Gossip:       Yes (3 every 3 seconds)
+Allow Auction:      Yes (3 every 3 seconds)
+Keep some ex<|client|><|delay#22.307|>help
+<|server|><|delay#22.768|>
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>Type <|ansi#1B5B313B33336D|>HELP <|ansi#1B5B306D|>followed by a topic for help on that topic
+(<|ansi#1B5B313B33366D|>NOTE: <|ansi#1B5B306D|>If you are in the
+Help Sub-menu, there is no need to type <|ansi#1B5B313B33336D|>HELP<|ansi#1B5B306D|>, just the topic will be fine)
+
+<|ansi#1B5B313B33336D|>Tips     <|ansi#1B5B306D|>- A few tips to help you get started.
+<|ansi#1B5B313B33336D|>Commands <|ansi#1B5B306D|>- A list <|server|><|delay#0.000|>laneous comm<|server|><|delay#0.051|>ands
+Hit any key to continue...<|server|><|delay#1.355|><|ansi#1B5B313B33336D|>Set      <|ansi#1B5B306D|>- Various toggleab<|server|><|delay#0.043|>le profile options
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#58.023|>help commands
+<|server|><|delay#59.316|>
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>   <|ansi#1B5B316D|>Movement: <|ansi#1B5B306D|>North, East, South, West, Northeast, Southeast, Southwest,
+             Northwest, Sneak, Hide, Drag <Char Name>, Go <Location>
+
+       <|ansi#1B5B316D|>Info: <|ansi#1B5B306D|>Look, Look <Direction>, Status, Inventory, Bank, Topten, Statline,
+             Help, Search, Health, Brief, Verbose, Map, Profile, Keys, Track <User>
+
+     <|ansi#1B5B316D|>Combat: <|ansi#1B5B30<|server|><|delay#2.521|>(Ie... If you wanted to find out about<|server|><|delay#0.056|> sneak, type help movement)
+          
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#338.763|>experience
+<|server|><|delay#339.694|>
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>0 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>1<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>2850 (2850) [0%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#1.399|>level
+<|server|><|delay#1.842|>
+<|server|><|delay#0.056|><|ansi#1B5B303B33376D|>Your command had no effect.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|client|><|delay#2.714|>st
+<|server|><|delay#2.913|>
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>GreyLord TheBot                  <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    7/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Goblin      <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>0               <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   48
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Ranger     <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|server|><|delay#86.669|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement below you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.051|>41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|server|><|delay#377.605|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement below you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.044|>41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|server|><|delay#887.984|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement below you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.045|>41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|server|><|delay#22.344|>
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B303B33326D|>Obvious exits: nDorth, eIast, wLest, dUown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.369|>
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Narrow Road
+<|ansi#1B5B303B33326D|>Obvious exits: nDorth, eIast, wLest, dUown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:

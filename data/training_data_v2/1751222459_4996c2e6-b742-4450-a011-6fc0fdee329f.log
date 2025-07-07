@@ -1,0 +1,541 @@
+<|server|><|delay#0.784|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.008|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.025|><|telnet#FFFB03|><|server|><|delay#0.001|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.000|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 11:41 29-JUN-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#-0.009|>Kage
+<|server|><|delay#0.000|>Kage
+<|server|><|delay#0.000|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.016|>password
+<|server|><|delay#0.024|>********<|server|><|delay#0.000|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Kage, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#0.046|>m
+<|server|><|delay#0.055|>m
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.047|>enter
+<|server|><|delay#0.055|>enter
+<|server|><|delay#0.000|><|ansi#1B5B306D|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.045|>stat
+<|server|><|delay#0.053|>
+
+stat
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gi<|client|><|delay#0.045|>exp
+<|server|><|delay#0.054|>exp
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>1787483 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>15<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>120369 (1907852) [94%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>i
+<|server|><|delay#0.054|>i
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 4 platinum pieces, 161 gold crowns, 1432 silver nobles, 1747
+copper farthings, black tabi (Feet), silk gloves (Hands), black ninja robes
+(Torso), leather belt (Waist), silk cape (Back), hooded mask (Head), silk
+trousers (Legs), ebony ninjato (Weapon Hand), ninjato
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have the following keys:  copper key, 2 bo<|client|><|delay#0.045|>who
+<|server|><|delay#0.055|>who
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm        -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild     -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|server|><|delay#0.014|>
+<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.003|>hidesn
+<|server|><|delay#0.016|>hide
+sn
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.782|>sn
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.420|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast chant, but failed.
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|server|><|delay#0.001|>[0;37m]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>hide
+<|server|><|delay#0.059|>hide
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.606|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.265|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.017|>hide
+<|server|><|delay#0.031|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide... You don't think you are hidden.
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.027|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.016|>hide
+<|server|><|delay#0.031|>hide
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.579|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of bless wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>hide
+<|server|><|delay#0.005|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.052|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide... You don't think you are hidden.
+<|server|><|delay#0.104|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.010|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.294|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>hide
+<|server|><|delay#0.037|>hide
+<|server|><|delay#0.025|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.694|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.001|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.257|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.009|>hide
+<|server|><|delay#0.001|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.728|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.001|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>hide
+<|server|><|delay#0.008|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.726|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.000|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>hide
+<|server|><|delay#0.000|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak is searching the area.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=1<|server|><|delay#0.001|>23<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>hide
+<|server|><|delay#0.012|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@do rest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP<|server|><|delay#0.000|>=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>rest
+<|server|><|delay#0.000|>rest
+<|server|><|delay#0.000|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nForth, eOast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.028|>/Grak {ok}
+<|server|><|delay#0.041|>/Grak {ok}
+<|server|><|delay#0.002|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.012|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nForth, eOast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.047|>hidesn
+<|server|><|delay#0.061|>hide
+sn
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.001|>sn
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.263|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nForth, eOast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.437|>fol grak
+<|server|><|delay#0.453|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You must be invited first!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast chant, but failed.
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|server|><|delay#0.000|>[0;37m]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.263|>rest
+<|server|><|delay#0.468|>
+<|server|><|delay#0.031|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-3.278|>   
+<|server|><|delay#0.082|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>Grak has invited you to follow him.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.042|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@join
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B3332<|client|><|delay#0.047|>join Grak
+<|server|><|delay#0.051|>join Grak
+<|server|><|delay#0.025|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Grak
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.022|>
+<|server|><|delay#0.024|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ans<|client|><|delay#0.015|>frontrank
+<|server|><|delay#0.023|>frontrank
+<|server|><|delay#0.031|>You have moved to the front ranks of your group.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.054|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>/Grak {HP=123/123}
+<|server|><|delay#0.054|>/Grak {HP=123/123}
+<|server|><|delay#0.038|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.040|>
+<|server|><|delay#0.006|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ans<|client|><|delay#0.000|>/Grak {HP=123/123}
+<|server|><|delay#0.009|>/Grak {HP=123/123}
+<|server|><|delay#0.006|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.008|>
+<|server|><|delay#0.006|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Gideon, Jinx, Valerius<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorth, eJast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.009|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>/Grak @health
+<|server|><|delay#0.039|>/Grak @health
+<|server|><|delay#0.037|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>sn
+<|server|><|delay#0.042|>sn
+<|server|><|delay#0.037|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>{HP=286/286}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.402|>/Grak @health
+<|server|><|delay#0.000|>/Grak @health
+<|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>{HP=286/286}
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.001|>m[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.063|>par
+<|server|><|delay#0.069|>par
+<|server|><|delay#0.056|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.007|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to t he nSorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader nSorth --
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>thin orc shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356<|client|><|delay#-0.005|>bs thin orc shaman
+<|server|><|delay#0.000|>bs thin orc shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.015|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.110|>par
+<|server|><|delay#0.116|>par
+<|server|><|delay#0.041|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Grak.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash thin orc shaman for 62 damage!<|server|><|delay#0.001|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak critically slashes thin orc shaman for 69 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc shaman shrieks in agony, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|<|server|><|delay#0.000|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 1 gold crown, 8 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, nUortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B<|client|><|delay#-0.010|>drop 1 copper farthing
+<|server|><|delay#0.000|>drop 1 copper farthing
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 1 copper farthing.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak dropped some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.015|>37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack fierce orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack fierce orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.001|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc shaman swipes at Grak with their i<|server|><|delay#0.000|>ron-capped staff!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts minor healing on itself!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak hacks fierce orc shaman for 25 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack fierce orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.016|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc shaman swipes at Grak with their i<|server|><|delay#0.000|>ron-capped staff!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts curse on Grak!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak chops fierce orc shaman for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|<|server|><|delay#0.006|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack fierce orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.001|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack fierce orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.031|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.019|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts harm on Grak for 6 damage<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Fierce orc shaman casts minor healing on itself!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak hacks fierce orc shaman for 20 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak picks up some gold crowns.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.001|>HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak dropped some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.098|>37m[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.017|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to th e norVtheast.
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader nUortheast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|><|server|><|delay#0.011|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack half-orc sentry.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack half-orc sentry.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.013|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak slashes half-orc sentry for 20 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak chops half-orc sentry for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack half-orc sentry.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.016|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak slashes half-orc sentry for 13 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak hacks half-orc sentry for 23 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The half-orc sentry shouts for aid, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.007|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to t he nNorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader nNorth --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sNouth, eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to th e easBt.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.001|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eWast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the eaLst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eWast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nNorth, eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the eaLst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.022|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eWast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the eaLst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eWast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to th e easBt.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.002|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eWast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to t he eWast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.004|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eWast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wJest, sVoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to th e souXtheast.
+[79<|server|><|delay#0.001|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sVoutheast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nTorthwest, sBouthwest
+<|ansi#1B5B303B33376D|>The room is diml<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to t he sBouthwest.
+[79<|server|><|delay#0.063|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sBouthwest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wJest, nTortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the weLst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wJest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sNouth, eWast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A half-orc sentry<|ansi#1B5B303B33326D|> strides into the room fr<|server|><|delay#0.000|>om the eWast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to t he sNouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sNouth --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the soLutheast.
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sVoutheast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nTorthwest, sBouthwest
+<|ansi#1B5B303B33376D|>The room is diml<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to t he sBouthwest.
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sBouthwest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wJest, nTortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A thin half-orc sentry<|ansi#1B5B303B33326D|> strides into the ro<|server|><|delay#0.000|>om from the wJest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|a<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to th e wesWt.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.029|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wTest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wTest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak<|ansi#1B5B303B33326D|> just left to  the eaDst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eFast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wTest, nNortheas<|server|><|delay#0.005|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin half-orc sentry.
+<|ansi#1B5B373944|><|server|><|delay#0.000|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin half-orc sentry.
+<|ansi#1B5B373944|><|server|><|delay#0.017|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak hacks thin half-orc sentry for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin half-orc sentry.
+<|ansi#1B5B373944|><|server|><|delay#0.015|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A thin orc shaman<|ansi#1B5B303B33326D|> sidles in from the wTes<|server|><|delay#0.000|>t!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|a<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin half-orc sentry.
+<|ansi#1B5B373944|><|server|><|delay#0.001|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You resisted thin orc shaman's cast of harm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5<|server|><|delay#0.007|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.072|>m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.094|>0;37m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.013|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.005|>0;37m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Thin orc shaman casts harm on Grak for 21 damage!<|server|><|delay#0.001|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak resisted thin orc shaman's cast of curse.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak chops thin orc shaman for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.006|>0;37m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.016|>0;37m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak slashes thin orc shaman for 17 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Grak rips thin orc shaman wide open!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak slashes thin orc shaman for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1<|server|><|delay#0.007|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.001|>0;37m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=109<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.077|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Thin orc shaman casts harm on Grak for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Thin orc shaman casts minor healing on itself!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak hacks thin orc shaman for 13 damag<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=111<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack thin orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.015|>0;37m[HP=111<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Grak swings at thin orc shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.000|>HP=111<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Grak slashes thin orc shaman for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=111<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc shaman shrieks in agony, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=111<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.036|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak dropped some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.067|>37m[HP=111<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.216|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of curse wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.049|>P=113<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=115<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=117<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=119<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A thin half-orc sentry<|ansi#1B5B303B33326D|> strides into the ro<|server|><|delay#0.000|>om from the nNortheast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.000|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The thin half-orc sentry all-out slashes you fo<|server|><|delay#0.000|>r 17 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.000|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.020|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.028|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.000|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.000|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The thin half-orc sentry slashes you for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=100<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The thin half-orc sentry shouts for aid!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.001|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=100<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=100<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.001|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ans<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.001|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.000|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=102<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.000|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The thin half-orc sentry slashes you for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=86<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The thin half-orc sentry shouts for aid!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=86<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their<|server|><|delay#0.043|> scimitar, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=86<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=86<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his <|server|><|delay#0.000|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his <|server|><|delay#0.000|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his <|server|><|delay#0.000|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>56<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>56<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimita<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.002|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>56<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>56<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ans<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>35<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>35<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ans<|server|><|delay#0.003|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar, but you dod<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his <|server|><|delay#0.028|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar, but you dod<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-15<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-15<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The orc warrior all-out slashes you for 16 dama<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with thei<|server|><|delay#0.000|>r scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-76<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-76<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at Grak, but his armour deflects the <|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at Grak, but his <|server|><|delay#0.000|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-86<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-86<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at Grak with their scimitar!
+<|ansi#<|server|><|delay#0.012|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.000|> day.
+<|server|><|delay#0.009|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.788|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.748|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.013|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33376D|>Grak just disconnected!!!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>]:<|server|><|delay#0.282|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.197|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.797|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.010|> day.
+<|server|><|delay#0.205|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.019|> day.
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.223|><|ansi#1B5B373944|><|ansi#1B5B4B|>The angelic sound of a choir floats down through the air<|server|><|delay#0.031|>.
+<|server|><|delay#0.003|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.016|> day.
+<|server|><|delay#0.488|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.634|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.007|> day.
+<|server|><|delay#0.233|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.557|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.346|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.000|> day.
+<|server|><|delay#0.199|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.627|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.050|> day.
+<|server|><|delay#0.809|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.002|> day.
+<|server|><|delay#0.776|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.124|><|ansi#1B5B373944|><|ansi#1B5B4B|>The angelic sound of a choir floats down through the air<|server|><|delay#0.026|>.
+<|server|><|delay#0.812|><|ansi#1B5B373944|><|ansi#1B5B4B|>The angelic sound of a choir floats down through the air<|server|><|delay#0.077|>.
+<|server|><|delay#0.535|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.195|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.000|> day.
+<|server|><|delay#0.457|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.000|> day.
+<|server|><|delay#0.577|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.759|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.067|> day.
+<|server|><|delay#0.734|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.211|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.047|> day.
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|>The angelic sound of a choir floats down through the air<|server|><|delay#0.030|>.
+<|server|><|delay#0.686|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.014|> day.
+<|server|><|delay#0.206|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.001|> day.
+<|server|><|delay#0.124|><|ansi#1B5B373944|><|ansi#1B5B4B|>The large temple bell clangs loudly, echoing the time of<|server|><|delay#0.016|> day.
+<|server|><|delay#0.372|><|ansi#1B5B373944|><|ansi#1B5B4B|>The angelic sound of a choir floats down through the air<|server|><|delay#0.000|>.
+<|server|><|delay#0.774|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.303|><|ansi#1B5B373944|><|ansi#1B5B4B|>The angelic sound of a choir floats down through the air<|server|><|delay#0.000|>.
+<|server|><|delay#0.585|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.608|><|ansi#1B5B373944|><|ansi#1B5B4B|>The smell of incense wafts faintly in the air.
+<|server|><|delay#0.032|><|ansi#1B5B306D|>
+You have been inactive for too long.   Bye!
+             <|server|><|delay#0.000|>                       
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    

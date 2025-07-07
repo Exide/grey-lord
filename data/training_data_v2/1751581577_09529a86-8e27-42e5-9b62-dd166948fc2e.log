@@ -1,0 +1,514 @@
+<|server|><|delay#0.813|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.015|><|telnet#FFFB03|><|server|><|delay#0.008|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.206|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.043|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 15:26 03-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.047|>Elarion
+<|server|><|delay#0.051|>Elarion
+<|server|><|delay#0.042|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.047|>password
+<|server|><|delay#0.052|>********<|server|><|delay#0.065|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Elarion, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail<|client|><|delay#0.038|>m
+<|server|><|delay#0.044|>m
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.047|>enter
+<|server|><|delay#0.052|>enter
+<|server|><|delay#0.027|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.000|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.010|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sAouth, eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-19<|ansi#1B5B303B33376D|>/MA=<|client|><|delay#0.015|>stat
+<|server|><|delay#0.041|>
+
+stat
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sAouth, eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-19<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|client|><|delay#0.045|>exp
+<|server|><|delay#0.092|>exp
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>92944 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>8<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>3551 (96495) [96%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-19<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>who
+<|server|><|delay#0.058|>who
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm        -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild     -  <|ansi#1B5B33356D|>Lyricist<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> <|server|><|delay#0.057|>
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sAouth, eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-19<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin has aided you.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>-19[0;3<|server|><|delay#0.015|>7m/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>Borin casts major healing on you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.108|>m[HP=<|ansi#1B5B313B33316D|>-10<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>Borin casts minor healing on you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.011|>m[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.000|>1m0<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sAouth, eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>0<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.573|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.082|>i
+<|server|><|delay#0.000|>i
+<|server|><|delay#0.107|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 21 gold crowns, 2244 silver nobles, 76 copper farthings, silk
+cape (Back), silk gloves (Hands), sandals (Feet), leather belt (Waist), silk
+robe (Torso), silk trousers (Legs), skullcap (Head), quarterstaff (Two handed)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have the following keys:  black star key.
+<|ansi#1B5B303B33326D|>Wealth: <|ansi#1B5B33366<|client|><|delay#-0.122|>rest
+<|server|><|delay#0.005|>rest
+<|server|><|delay#0.055|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>Borin has invited you to follow him.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.016|>[0;37m[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.047|>join Borin
+<|server|><|delay#0.113|>join Borin
+<|server|><|delay#0.091|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Borin
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.084|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>frontrank
+<|server|><|delay#0.000|>frontrank
+<|server|><|delay#0.027|>You have moved to the front ranks of your group.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.033|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|<|client|><|delay#-0.001|>/Borin {HP=1/57,MA=64/64}
+<|server|><|delay#0.001|>/Borin {HP=1/57,MA=64/64}
+<|server|><|delay#0.029|><|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Borin attempted to cast major healing on you, but failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.051|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>par
+<|server|><|delay#0.065|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The <|server|><|delay#0.080|>following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  6%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M: 91%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)             [H:100%] R - Frontrank
+  Elarion Starwhisper            (Mage)       [M:100%] [H:  1%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303<|client|><|delay#0.006|>/Malakor {HP=1/57,MA=64/64}
+<|server|><|delay#0.039|>/Malakor {HP=1/57,MA=64/64}
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Malakor ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.038|>
+<|server|><|delay#0.059|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>/Faelan {HP=1/57,MA=64/64}
+<|server|><|delay#0.051|>/Faelan {HP=1/57,MA=64/64}
+<|server|><|delay#0.027|><|ansi#1B5B303B33376D|>--- Telepath Sent to Faelan ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.038|>
+<|server|><|delay#0.073|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.043|>/Borin @health
+<|server|><|delay#0.079|>/Borin @health
+<|server|><|delay#0.028|><|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.032|>/Malakor @health
+<|server|><|delay#0.039|>/Malakor @health
+<|server|><|delay#0.091|><|ansi#1B5B303B33376D|>--- Telepath Sent to Malakor ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Borin telepaths: <|ansi#1B5B303B33376D|>{HP=115/115,MA=3/46}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>/Faelan @health
+<|server|><|delay#0.000|>/Faelan @health
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Faelan ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Malakor telepaths: <|ansi#1B5B303B33376D|>{HP=90/90,MA=42/46, Resting}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.049|>/Grak @health
+<|server|><|delay#0.000|>/Grak @health
+<|server|><|delay#0.031|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Faelan telepaths: <|ansi#1B5B303B33376D|>{HP=56/56,MA=36/36, Resting}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>.@heal/Borin @wait (HP's too low)par
+<|server|><|delay#0.066|>.@heal
+/Borin @wait (HP's too low)
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33326D|>You say "@heal"
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>{HP=286/286, Resting}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  6%] [H:100%]   - Frontrank
+  Malakor Vex     <|server|><|delay#0.060|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.032|>/Grak @health
+<|server|><|delay#0.039|>/Grak @health
+<|server|><|delay#0.001|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>rest
+<|server|><|delay#0.068|>rest
+<|server|><|delay#0.012|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.041|>1m1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.090|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#1.111|>par
+<|server|><|delay#1.119|>par
+<|server|><|delay#0.060|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  6%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 91%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Grak telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.021|><|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.046|>/Grak {HP=1/57,MA=64/64, Resting}
+<|server|><|delay#0.094|>/Grak {HP=1/57,MA=64/64, Resting}
+<|server|><|delay#0.039|><|ansi#1B5B303B33376D|>--- Telepath Sent to Grak ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.035|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eEast, wIest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>1<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.658|>par
+<|server|><|delay#0.668|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  6%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 91%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#1.025|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>4<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Kage just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|><|server|><|delay#0.000|>4<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.782|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>5<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.011|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor casts blur on Malakor!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.001|>P=<|ansi#1B5B313B33316D|>5<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>Borin casts major healing on you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>16<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.002|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1<|server|><|delay#0.119|>;37m16<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>16<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.015|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malako<|server|><|delay#0.065|>r, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sSouth, eEast, wLest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>16<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.722|>par
+<|server|><|delay#0.728|>par
+<|server|><|delay#0.056|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  4%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 91%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.984|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of curse wear off!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.001|>P=<|ansi#1B5B313B33376D|>16<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.029|>par
+<|server|><|delay#0.040|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  4%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 91%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.822|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>19<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#-0.013|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  4%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 91%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.949|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>The effects of ethereal shield wear off!
+<|ansi#1B5B373944|>[<|server|><|delay#0.055|>K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>19<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.423|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.001|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor casts ethereal shield on Malakor!
+<|ansi#1B5B373944|><|server|><|delay#0.001|>[K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.007|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.033|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Borin attempted to cast major healing on you, but failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.001|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sGouth, eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.015|>7m20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sGouth, eYast, wVest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#-0.009|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.008|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  8%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 86%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.098|>7m20<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.214|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.031|>par
+<|server|><|delay#0.047|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  8%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 86%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%] R - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.969|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin<|ansi#1B5B303B33326D|> just left to t he eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.064|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eYast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Borin<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eYast, wVest
+<|ansi#<|client|><|delay#0.046|>/Borin @wait (HP's too low)
+<|server|><|delay#0.059|>/Borin @wait (HP's too low)
+<|client|><|delay#-0.014|>rest.@heal
+<|server|><|delay#0.000|>rest
+.@heal
+<|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.065|>;37m[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|server|><|delay#0.047|>[0;37m]: (Resting) <|ansi#1B5B303B33326D|>You say "@heal"
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.015|>7m[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.336|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin<|ansi#1B5B303B33326D|> just left to t he eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eYast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Borin<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorth, eYast, wVest<|client|><|delay#0.039|>rest
+<|server|><|delay#0.045|>rest
+<|server|><|delay#0.001|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.018|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the nYorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.019|>37m[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.013|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.132|>7m[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.107|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin<|ansi#1B5B303B33326D|> just left to t he eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.057|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eYast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Borin<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356<|client|><|delay#-0.125|>/Borin @wait (HP's too low)mmis big half-orc sentry
+<|server|><|delay#0.001|>/Borin @wait (HP's too low)
+<|server|><|delay#0.014|>mmis big half-orc sentry
+<|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor moves to cast lightning bolt upon big half-orc sentry.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin moves to attack big ha<|client|><|delay#-0.012|>par
+<|server|><|delay#0.069|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack big half-orc sentry.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>par
+<|server|><|delay#0.005|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The <|server|><|delay#0.051|>following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  8%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M: 86%] [H:100%]   - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)             [H:100%]   - Frontrank
+  Elarion Starwhisper            (Mage)       [M:100%] [H: 40%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack big half-orc sentry.
+<|ansi#1B5B373944|><|server|><|delay#0.019|>[K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The big half-orc sentry swings at Grak, but his armour deflects <|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the eYast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.067|>7m[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.089|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor fires a lightning bolt at big half-orc se<|server|><|delay#0.001|>ntry for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The half-orc sentry shouts for aid, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 25 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|server|><|delay#0.007|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles, 1 copper farthing here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|<|client|><|delay#-0.015|>drop 3 copper farthingi
+<|server|><|delay#0.000|>drop 3 copper farthing
+i
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 3 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 21 gold crowns, 2244 silver nobles, 73 copper farthings, silk
+cape (Back), silk gloves (Hands), sandals (Feet), leather belt (Waist), silk
+r<|client|><|delay#0.036|>g 3 silver noble
+<|server|><|delay#0.148|>g 3 silver noble
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor dropped some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944<|client|><|delay#0.015|>rest.@heal
+<|server|><|delay#0.029|>rest
+.@heal
+<|server|><|delay#0.001|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.001|><|ansi#1B5B303B33326D|>You say "@heal"
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B3<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.023|>;37m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.016|>7m24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#1.051|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 2 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.001|>0;37m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.021|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Borin attempted to cast protection from evil, but<|server|><|delay#0.015|> failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.007|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M: 13%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M: 89%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.016|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin casts protection from evil on Borin!
+<|ansi#1B5B373944|><|server|><|delay#0.017|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.016|>7m24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wMest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.817|>par
+<|server|><|delay#0.826|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)              [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 89%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>27<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.078|>par
+<|server|><|delay#0.086|>par
+<|server|><|delay#0.056|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)              [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M: 89%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.154|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>28<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.156|>par
+<|server|><|delay#0.161|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M: 10%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M:100%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|><|server|><|delay#0.045|>28<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.340|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|client|><|delay#0.403|>par
+<|server|><|delay#0.407|>par
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M: 10%] [H:100%] R - Frontrank
+  Malakor Vex                    (Warlock)    [M:100%] [H:100%] R - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.837|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin<|ansi#1B5B303B33326D|> just left to  the eaOst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eVast --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Borin<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>lar<|client|><|delay#-0.008|>/Borin @wait (HP's too low)mmis orc warrior
+<|server|><|delay#0.000|>/Borin @wait (HP's too low)
+mmis orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor moves to cast lightning bolt upon orc warrior.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin moves to attack orc wa<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M: 10%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M:100%] [H:100%]   - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H:100%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack orc warrior.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the eVast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor fires a lightning bolt at orc warrior for<|server|><|delay#0.000|> 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin smashes orc warrior for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Faelan casts elemental chaos on orc warrior for 16 damage!
+<|ansi#1B5B373944|><|ans<|server|><|delay#0.000|>ar!
+<|ansi#1B5B373944|>[<|server|><|delay#0.001|>K<|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big half-orc sentry swings at Grak with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B3<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin moves to attack fierce orc shaman.
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.092|>mmis fierce orc shaman
+<|server|><|delay#0.105|>mmis fierce orc shaman
+<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor moves to cast lightning bolt upon fierce o<|server|><|delay#0.732|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin<|ansi#1B5B303B33326D|> just left to th e wesWt.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.001|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wDest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Borin<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eVast, wDest
+<|ansi#1B5B303B33376D|>The room is barely<|client|><|delay#-0.001|>/Borin @wait (HP's too low)
+<|server|><|delay#0.000|>/Borin @wait (HP's too low)
+<|client|><|delay#-0.001|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Borin ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.031|>par
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M: 10%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M: 89%] [H: 94%]   - Frontrank
+  Faelan Gloomwood               (Druid)      [M: 91%] [H: 83%]   - Frontrank
+  Grak Stonehand                 (Warrior)       <|client|><|delay#0.000|>rest
+<|server|><|delay#0.001|>rest
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|>Faelan stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=6<|server|><|delay#0.016|>4<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.034|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eVast, wDest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.004|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|server|><|delay#0.011|><|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=31<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.288|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: ePast, wOest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=32<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>orc warrior<|ansi#1B5B303B33326D|> moves into the room from the e<|server|><|delay#0.000|>Past.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>large orc shaman<|ansi#1B5B303B33326D|> moves into the room from the ePast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: ePast, wOest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1<|client|><|delay#0.009|>mmis orc warrior
+<|server|><|delay#0.016|>mmis orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin moves to attack orc warrior.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]: (Resting) <|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor moves to <|client|><|delay#0.015|>mmis orc warrior
+<|server|><|delay#0.022|>mmis orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Malakor moves to cast lightning bolt upon orc warr<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  8%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M:100%] [H: 96%]   - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H: 85%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack orc warrior.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.009|>m[HP=43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.776|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Borin swings at orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.052|>43<|ansi#1B5B303B33376D|>/MA=64<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You fire a magic missile at orc warrior for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor fires a lightning bolt at orc warrior for 28 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 9 silver nobles, 28 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: ePast, wOest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi<|client|><|delay#0.005|>drop 9 copper farthing.@healmmis large orc shaman
+<|server|><|delay#0.016|>drop 9 copper farthing
+.@heal
+mmis large orc shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak dropped some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 9 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Faelan moves to cast elemental chaos upon large o<|server|><|delay#0.016|>rc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.004|>mmis large orc shaman
+<|server|><|delay#0.015|>mmis large orc shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack large orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ans<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>big half-orc sentry<|ansi#1B5B303B33326D|> moves into the room fr<|server|><|delay#0.000|>om the ePast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>fat half-orc sentry<|ansi#1B5B303B33326D|> moves into the room from the ePast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>fierce orc shaman<|ansi#1B5B303B33326D|> moves into the room from the ePast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.007|>0;37m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.009|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Borin moves to attack big half-orc sentry.
+<|ansi#1B5B373944|><|server|><|delay#0.001|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Malakor, Borin, Faelan, Grak<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc
+shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc shaman<|ansi#1B5B3<|client|><|delay#0.047|>mmis big half-orc sentry
+<|server|><|delay#0.059|>mmis big half-orc sentry
+<|server|><|delay#0.036|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.451|>par
+<|server|><|delay#0.453|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Borin.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Borin Ironhelm                 (Cleric)     [M:  8%] [H:100%]   - Frontrank
+  Malakor Vex                    (Warlock)    [M: 89%] [H: 96%]   - Frontrank
+  Faelan Gloomwood               (Druid)      [M:100%] [H: 85%]   - Frontrank
+  Grak Stonehand                 (Warrior)            <|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack large orc shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.015|>[0;37m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Borin is looking to the ePast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.362|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Malakor fires a lightning bolt at large orc shama<|server|><|delay#0.000|>n for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Faelan casts elemental chaos on large orc shaman for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>/MA=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Borin slam<|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP

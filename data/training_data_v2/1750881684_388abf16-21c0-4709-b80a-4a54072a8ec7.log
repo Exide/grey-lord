@@ -1,0 +1,1382 @@
+<|server|><|delay#0.012|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.000|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.013|><|telnet#FFFB03|><|server|><|delay#0.532|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.046|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 13:01 25-JUN-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.046|>Jinx
+<|server|><|delay#0.048|>Jinx
+<|server|><|delay#0.045|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.047|>password
+<|server|><|delay#0.049|>********<|server|><|delay#0.013|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Jinx, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#0.013|>m
+<|server|><|delay#0.016|>m
+<|server|><|delay#0.013|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.015|>enter
+<|server|><|delay#0.018|>enter
+<|server|><|delay#0.000|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.046|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.043|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth, Entrance
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sKouth, eRast, wAest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33<|client|><|delay#0.047|>stat
+<|server|><|delay#0.051|>
+
+stat
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth, Entrance
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sKouth, eRast, wAest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<<|client|><|delay#0.047|>who
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Jinx Quickpaw                    <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Nekojin     <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>1186168         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   42
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Thief      <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|server|><|delay#0.047|>who
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm        -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild     -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D<|server|><|delay#0.050|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth, Entrance
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sKouth, eRast, wAest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>bash nasty minotaur
+<|server|><|delay#0.051|>bash nasty minotaur
+<|server|><|delay#0.028|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>Kage has invited you to follow him.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.017|>0;37m[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.007|>join Kage
+<|server|><|delay#0.016|>join Kage
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Kage
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.005|>frontrank
+<|server|><|delay#0.015|>frontrank
+<|server|><|delay#0.015|>You have moved to the front ranks of your group.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.021|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 76%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 22%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.094|>/Kage @health
+<|server|><|delay#0.105|>/Kage @health
+<|server|><|delay#0.036|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Kage telepaths: <|ansi#1B5B303B33376D|>{HP=73/95}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.016|>HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.093|>/Kage @health
+<|server|><|delay#0.105|>/Kage @health
+<|server|><|delay#0.035|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Kage telepaths: <|ansi#1B5B303B33376D|>{HP=73/95}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.013|>HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty minotaur swings at Kage with their greataxe, but he dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>19<|ansi#1B<|client|><|delay#0.000|>par
+<|server|><|delay#0.002|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 78%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 25%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 7 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 1 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B<|client|><|delay#-0.002|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 78%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 25%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales nasty minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B3<|server|><|delay#0.015|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth, Entrance
+<|ansi#1B5B303B33366D|>You notice 3 gold crowns here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eDast, wIest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.010|>exp
+<|server|><|delay#0.015|>exp
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some gold crowns.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>1186355 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>11<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>0 (246067) [494%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B<|client|><|delay#-0.006|>g 3 gold crown
+<|server|><|delay#0.001|>g 3 gold crown
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Kage stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|client|><|delay#0.010|>rest
+<|server|><|delay#0.011|>[0;37m[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 3 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|>rest
+You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.080|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth, Entrance
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sXouth, eDast, wIest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.173|>par
+<|server|><|delay#0.182|>par
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 78%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 25%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.204|>par
+<|server|><|delay#0.216|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 78%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 25%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>21<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>23<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>29<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 87%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 34%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>29<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.003|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 87%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 34%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>29<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.029|>par
+<|server|><|delay#0.043|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 93%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 41%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>37<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.018|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 95%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 44%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>37<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.035|>par
+<|server|><|delay#0.045|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 51%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.020|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.033|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 51%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=43<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=45<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=51<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.028|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.027|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 60%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=51<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.009|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 60%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=51<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.002|>par
+<|server|><|delay#0.012|>par
+<|server|><|delay#0.002|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 70%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eCast --
+[0;37<|server|><|delay#0.000|>;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eCast, wSest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>/Kage @wait (HP's too low)par
+<|server|><|delay#0.000|>/Kage @wait (HP's too low)
+par
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 70%]   - Fro<|server|><|delay#0.001|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eCast, wSest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>rest
+<|server|><|delay#0.054|>rest
+<|server|><|delay#0.040|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eCast --
+[0;37<|server|><|delay#0.000|>;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eCast, wSest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>rest
+<|server|><|delay#0.001|>rest
+<|server|><|delay#0.035|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.072|>par
+<|server|><|delay#0.078|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 70%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.015|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 70%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.036|>par
+<|server|><|delay#0.045|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.016|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=73<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eDast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.044|>[HP=73<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the wSest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=73<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.011|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 86%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=73<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the wVest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.004|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 89%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.002|>/Kage @ok
+<|server|><|delay#0.012|>/Kage @ok
+<|client|><|delay#0.001|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.017|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 9<|server|><|delay#0.029|>
+<|server|><|delay#0.019|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eVast, wVest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.014|>sn
+<|server|><|delay#0.028|>sn
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Pa<|server|><|delay#0.001|>rty leader eVast --
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>moaning spirit<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, sSouth, wVest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|a<|client|><|delay#-0.002|>breakbash moaning spirit
+<|server|><|delay#0.001|>break
+bash moaning spirit
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are no longer sneaking.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack moaning spirit.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The moaning spirit reaches for you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.015|>37m[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at moaning spirit!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks moaning spirit for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales moaning spirit for <|client|><|delay#-0.008|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 96%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The moaning spirit touches you with a ghostly h<|server|><|delay#0.006|>and for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at moaning spirit!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks moaning spirit for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B3739<|client|><|delay#-0.016|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 80%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes moaning spirit for 11 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.042|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes moaning spirit for 17 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales moaning spirit for 18 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|server|><|delay#0.015|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, sSouth, wVest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>/Kage @wait (HP's too low)par
+<|server|><|delay#0.001|>/Kage @wait (HP's too low)
+par
+<|server|><|delay#0.016|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 80%]   - Fro<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, sSouth, wVest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.002|>rest
+<|server|><|delay#0.015|>rest
+<|server|><|delay#0.016|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.249|>par
+<|server|><|delay#0.264|>par
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 80%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.031|>par
+<|server|><|delay#0.044|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 83%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sLouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.009|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 90%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the wBest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.001|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.000|>par
+<|server|><|delay#0.006|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 92%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.007|>/Kage @ok
+<|server|><|delay#0.000|>/Kage @ok
+<|client|><|delay#-0.001|>par
+<|server|><|delay#0.007|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:10<|server|><|delay#0.006|>
+<|server|><|delay#0.010|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nDorth, sSouth, wUest
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.048|>sn
+<|server|><|delay#0.053|>sn
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage<|ansi#1B5B303B33326D|> just left to t he nDorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader nDorth --
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>gelatinous cube<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|<|client|><|delay#-0.010|>bs gelatinous cube
+<|server|><|delay#0.000|>bs gelatinous cube
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack gelatinous cube.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash gelatinous cube for 58 damage!<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically slashes gelatinous cube for 42 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales gelatinous cube for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Labyrinth Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nDorth, sSouth, closed door east
+<|ansi#1B5B303B33376D|>The room is barely visible
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.014|>sn
+<|server|><|delay#0.000|>sn
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.017|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|>You see Kage pick the lock on the door to the eBast.<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>You see Kage open the door to the eBast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader eBast --
+[0;37<|server|><|delay#0.000|>;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sSouth, eBast, open door west
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376<|client|><|delay#-0.006|>bash minotaur
+<|server|><|delay#0.000|>bash minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.107|>par
+<|server|><|delay#0.113|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise slashes minotaur for 62 damage!
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You cut minotaur for 39 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The minotaur swings at you with their greataxe!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B<|client|><|delay#0.029|>par
+<|server|><|delay#0.042|>par
+<|server|><|delay#0.034|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The minotaur guts you with his horns for 19 dam<|server|><|delay#0.000|>age!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small minotaur swings at you with their greataxe, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales minotaur for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D<|client|><|delay#0.031|>par
+<|server|><|delay#0.039|>par
+<|server|><|delay#0.038|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 77%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65[<|server|><|delay#0.000|>0;37m]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes minotaur for 5 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5<|client|><|delay#0.030|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67[<|server|><|delay#0.000|>0;37m]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slice minotaur for 27 damage!
+<|ansi#1B5B373944|><|ansi<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 1 gold crown, 2 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sHouth, eNast, open door west
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>g 1 gold crown
+<|server|><|delay#0.000|>g 1 gold crown
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some gold crowns.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 1 gold crown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.001|>m[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack small minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.016|>;37m[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.121|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sHouth, eNast, open door west
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>bash small minotaur
+<|server|><|delay#0.058|>bash small minotaur
+<|server|><|delay#0.035|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.078|>par
+<|server|><|delay#0.089|>par
+<|server|><|delay#0.052|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small minotaur swings at you with their great<|server|><|delay#0.001|>axe!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes small minotaur for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at small minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1<|client|><|delay#0.029|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes small minotaur for 2 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.002|>[K<|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks small minotaur for 45 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks small minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B31<|server|><|delay#0.001|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sHouth, eNast, open door west
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>g 3 silver noble
+<|server|><|delay#0.000|>g 3 silver noble
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 3 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sHouth --
+[0;3<|server|><|delay#0.000|>7;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sHouth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.009|>/Kage @wait (HP's too low)
+<|server|><|delay#0.000|>/Kage @wait (HP's too low)
+<|client|><|delay#0.006|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%]   - Fro<|server|><|delay#0.054|>
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sHouth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>rest
+<|server|><|delay#0.007|>rest
+<|server|><|delay#0.038|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sHouth --
+[0;3<|server|><|delay#0.000|>7;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sHouth, eNast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>rest
+<|server|><|delay#0.001|>rest
+<|server|><|delay#0.000|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A minotaur<|ansi#1B5B303B33326D|> stomps in from the nMorth.
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The minotaur swings at you with their greataxe!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.031|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sHouth, eNast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>bash minotaur
+<|server|><|delay#0.000|>bash minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>par
+<|server|><|delay#0.004|>par
+<|server|><|delay#0.033|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise hacks minotaur for 60 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The minotaur swings at you with their greataxe!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336<|server|><|delay#0.002|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sHouth, eNast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 79%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The minotaur cleaves you for 4 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small minotaur swings at Kage with their greataxe, but he dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|client|><|delay#0.028|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 77%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes minotaur for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.012|>37m[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 11 damage!<|client|><|delay#-0.013|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 65%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at minotaur!
+<|ansi#1B5B373944|><|an<|client|><|delay#-0.007|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 90%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 65%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks minotaur for 44 damage!
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls dead with an agonized bellow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 187 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ans<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nWorth, sJouth, ePast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.012|>g 4 silver noble
+<|server|><|delay#0.000|>g 4 silver noble
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 4 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack small minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.003|>;37m[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nWorth, sJouth, ePast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>bash small minotaur
+<|server|><|delay#0.048|>bash small minotaur
+<|server|><|delay#0.029|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.077|>par
+<|server|><|delay#0.080|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 90%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 65%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nWorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales small minotaur for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes small minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales small min<|client|><|delay#-0.003|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 90%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 65%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales small minotaur for 7 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.001|>[K<|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes small minotaur for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks small minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|<|client|><|delay#0.030|>par
+<|server|><|delay#0.040|>par
+<|server|><|delay#0.038|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 90%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 65%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at small minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes small minotaur for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically impales small minotaur for 43 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks s<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 2 gold crowns, 3 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, sIouth, eAast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.017|>g 2 gold crown
+<|server|><|delay#0.018|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some gold crowns.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|>g 2 gold crown
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 2 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.016|>m[HP=57<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Kage stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57[0;<|client|><|delay#-0.001|>rest
+<|server|><|delay#0.000|>37m]:<|client|><|delay#0.045|>g 2 gold crown
+<|server|><|delay#0.046|>rest
+You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.046|>g 2 gold crown
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 2 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nKorth, sIouth, eAast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>rest
+<|server|><|delay#0.048|>rest
+<|server|><|delay#0.029|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.577|>par
+<|server|><|delay#0.592|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 92%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 67%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nKorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.038|>par
+<|server|><|delay#0.023|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 92%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 67%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eAast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=57<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.015|>par
+<|server|><|delay#0.026|>par
+<|server|><|delay#0.023|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 98%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 75%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sWouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=65<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.029|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 77%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=65<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=71<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.024|>par
+<|server|><|delay#0.028|>par
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 84%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=71<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eDast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=71<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.017|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 84%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=71<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=73<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>/Kage @ok
+<|server|><|delay#0.000|>/Kage @ok
+<|client|><|delay#0.014|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.014|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 9<|server|><|delay#0.000|>
+<|server|><|delay#0.013|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sXouth, eVast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sXouth --
+[0;3<|server|><|delay#0.000|>7;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sXouth, wBest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>bash minotaur
+<|server|><|delay#0.000|>bash minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise hacks minotaur for 66 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The minotaur swings at Kage with their greataxe, but he dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 94%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79[<|server|><|delay#0.000|>0;37m]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|client|><|delay#0.028|>par
+<|server|><|delay#0.041|>par
+<|server|><|delay#0.033|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 94%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes minotaur for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales minotaur for 14 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes minotaur for 3 dama<|server|><|delay#0.000|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nMorth, sXouth, wBest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.009|>g 3 silver noble
+<|server|><|delay#0.009|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>g 3 silver noble
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 3 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>You notice Kage sneaking out to the wBest.
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wBest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eVast, wBest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|client|><|delay#-0.011|>sn
+<|server|><|delay#0.000|>sn
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...You don't think you're sneaking.
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage<|ansi#1B5B303B33326D|> just left to  the weIst.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.006|>[0;37m[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wBest --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eVast, wBest
+<|ansi#1B5B373944<|client|><|delay#-0.011|>bash minotaur
+<|server|><|delay#0.000|>bash minotaur
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.010|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 94%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=79<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The minotaur cleaves you for 20 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 3 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks <|client|><|delay#0.030|>par
+<|server|><|delay#0.040|>par
+<|server|><|delay#0.037|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 70%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The minotaur swings at Kage with their greataxe!<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=59<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|client|><|delay#-0.001|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks minotaur for 49 damage!
+[<|server|><|delay#0.015|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically slashes minotaur for 67 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B3<|client|><|delay#-0.001|>par
+<|server|><|delay#0.013|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks minotaur for 33 damage!
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls dead with an agonized bellow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 187 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ans<|server|><|delay#0.048|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 1 silver noble here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wFest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>g 1 silver noble
+<|server|><|delay#0.000|>g 1 silver noble
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 1 silver noble
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wFest --
+[0;37<|server|><|delay#0.045|>;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: closed door north, sYouth, eWast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>/Kage @wait (HP's too low)par
+<|server|><|delay#0.000|>/Kage @wait (HP's too low)
+par
+<|server|><|delay#0.015|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%]   - Fro<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: closed door north, sYouth, eWast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>rest
+<|server|><|delay#0.062|>rest
+<|server|><|delay#0.031|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader sYouth --
+[0;3<|server|><|delay#0.000|>7;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nEorth, eWast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>rest
+<|server|><|delay#0.000|>rest
+<|server|><|delay#0.000|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.031|>par
+<|server|><|delay#0.032|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.037|>par
+<|server|><|delay#0.045|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 75%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=63<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.014|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 82%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.018|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 82%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A minotaur<|ansi#1B5B303B33326D|> stomps in from the nIorth.
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nIorth, eCast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.003|>bash minotaur
+<|server|><|delay#0.000|>bash minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.013|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 89%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise impales minotaur for 43 damage!
+[<|server|><|delay#0.001|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The minotaur swings at you with their greataxe!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B333<|client|><|delay#0.030|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 91%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 14 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=77<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 3 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks minotaur for 39 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 4<|client|><|delay#0.029|>par
+<|server|><|delay#0.036|>par
+<|server|><|delay#0.039|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 63%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks minotaur for 41 damage!
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls dead with an agonized bellow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 187 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ans<|server|><|delay#0.001|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 5 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorth, eQast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>g 5 silver noble
+<|server|><|delay#0.001|>g 5 silver noble
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 5 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>rest
+<|server|><|delay#0.036|>rest
+<|server|><|delay#0.029|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.032|>par
+<|server|><|delay#0.034|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 63%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.263|>par
+<|server|><|delay#0.265|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 63%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=53<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=55<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.007|>par
+<|server|><|delay#0.013|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.029|>par
+<|server|><|delay#0.044|>par
+<|server|><|delay#0.032|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=67<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.008|>par
+<|server|><|delay#0.007|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 82%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eUast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.043|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.029|>par
+<|server|><|delay#0.041|>par
+<|server|><|delay#0.020|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 82%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=69<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.018|>stat
+<|server|><|delay#0.029|>stat
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Jinx Quickpaw                    <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Nekojin     <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>1188026         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   42
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Thief      <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#0.006|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 89%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eUast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=75<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.015|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 91%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.009|>/Kage @ok
+<|server|><|delay#0.000|>/Kage @ok
+<|client|><|delay#-0.001|>par
+<|server|><|delay#0.008|>par
+<|server|><|delay#0.006|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 9<|server|><|delay#0.000|>
+<|server|><|delay#0.006|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, eUast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.000|>sn
+<|server|><|delay#0.010|>sn
+<|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Pa<|server|><|delay#0.000|>rty leader eUast --
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sVouth, eUast, wCest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5<|client|><|delay#-0.003|>bs minotaur
+<|server|><|delay#0.000|>bs minotaur
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 98%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise hacks minotaur for 56 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash minotaur for 55 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=83<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The minotaur guts you with his horns for 22 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944<|client|><|delay#-0.008|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.039|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 72%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The minotaur cleaves you for 5 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=56<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The nasty minotaur guts you with his horns for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 3 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303<|server|><|delay#0.015|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 4 gold crowns, 4 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sVouth, eUast, wCest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5<|client|><|delay#-0.012|>g 4 gold crown
+<|server|><|delay#0.000|>g 4 gold crown
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 4 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>g 4 silver noble
+<|server|><|delay#0.000|>g 4 silver noble
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 4 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>bash nasty minotaur
+<|server|><|delay#0.000|>bash nasty minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack nasty minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.003|>;37m[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.014|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 47%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You cut nasty minotaur for 33 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.001|>0;37m[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 14 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|ansi#1B<|client|><|delay#-0.004|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 28%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nasty minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|><|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nasty minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at nasty minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ans<|client|><|delay#0.031|>par
+<|server|><|delay#0.040|>par
+<|server|><|delay#0.022|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 28%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The nasty minotaur cleaves Kage for 14 damage!
+<|server|><|delay#0.000|>[79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slice nasty minotaur for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You cut nasty minotaur for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>24<<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 2 gold crowns, 4 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sDouth, eUast, wKest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>g 2 gold crown
+<|server|><|delay#0.032|>g 2 gold crown
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 2 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.015|>g 4 silver noble
+<|server|><|delay#0.016|>g 4 silver noble
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 4 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>/Kage @wait (HP's too low)
+<|server|><|delay#0.032|>/Kage @wait (HP's too low)
+<|client|><|delay#0.015|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 87%]   - Frontrank
+  Jinx Quickpaw                  (Thief)        <|server|><|delay#0.047|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sDouth, eUast, wKest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>rest
+<|server|><|delay#0.049|>rest
+<|server|><|delay#0.030|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Kage stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;37<|server|><|delay#0.014|>m26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|>
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sDouth, eUast, wKest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33326D|>Kage says "@wealth"
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|server|><|delay#0.016|><|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.047|>>Kage {6,496 copper}
+<|server|><|delay#0.053|>>Kage {6,496 copper}
+<|server|><|delay#0.025|><|ansi#1B5B303B33376D|>--- Message Directed to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.037|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sDouth, eUast, wKest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.462|>par
+<|server|><|delay#0.470|>par
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 87%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 30%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sDouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=<|ansi#1B5B313B33376D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>32<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.008|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 87%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 38%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>32<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.028|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 95%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 40%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.012|>par
+<|server|><|delay#0.013|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 95%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 40%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>34<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.011|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 47%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>42<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.019|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 50%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>42<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=48<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.045|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 57%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=48<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.013|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 57%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=48<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=56<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.018|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 66%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=56<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.002|>stat
+<|server|><|delay#0.015|>stat
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Jinx Quickpaw                    <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Nekojin     <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>1188400         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   42
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Thief      <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#-0.012|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 66%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=56<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=62<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.011|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 73%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=62<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=64<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.002|>par
+<|server|><|delay#0.005|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 76%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=64<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.025|>par
+<|server|><|delay#0.028|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 83%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.012|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 83%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eOast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.001|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.012|>par
+<|server|><|delay#0.033|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 92%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.000|>par
+<|server|><|delay#0.010|>par
+<|server|><|delay#0.021|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 92%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.005|>/Kage @ok
+<|server|><|delay#0.000|>/Kage @ok
+<|client|><|delay#0.010|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.014|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:10<|server|><|delay#0.052|>
+<|server|><|delay#0.057|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33326D|>Obvious exits: sCouth, eYast, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.006|>sn
+<|server|><|delay#0.000|>sn
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Pa<|server|><|delay#0.000|>rty leader sCouth --
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nTorth, wNest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>bs minotaur
+<|server|><|delay#0.000|>bs minotaur
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise hacks minotaur for 43 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slice minotaur for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically slash minotaur for 40 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B31<|client|><|delay#-0.010|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.040|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks minotaur for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.002|>m[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks minotaur for 63 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls dead with an agonized bellow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 187 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4<|server|><|delay#0.001|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nDorth, wLest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>g 4 silver noble
+<|server|><|delay#0.000|>g 4 silver noble
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|>You don't see 4 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|> -- Following your Party leader wLest --
+[0;37<|server|><|delay#0.000|>;40m<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty minotaur<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eGast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>bash nasty minotaur
+<|server|><|delay#0.000|>bash nasty minotaur
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.021|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage surprise impales nasty minotaur for 66 damag<|server|><|delay#0.001|>e!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty minotaur swings at Kage with their greataxe, but he dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The large minotaur guts Kage with his horns for 18 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=8<|client|><|delay#0.027|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.025|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 81%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales nasty minotaur for 14 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5<|client|><|delay#-0.012|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 81%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 5 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales nasty minotaur for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks nasty minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|<|client|><|delay#-0.001|>par
+<|server|><|delay#0.004|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 60%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 3 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales nasty minotaur for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nasty minotaur for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls d<|server|><|delay#0.014|>
+<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 3 gold crowns here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eGast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.029|>g 3 gold crown
+<|server|><|delay#0.039|>g 3 gold crown
+<|server|><|delay#0.036|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 3 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>bash large minotaur
+<|server|><|delay#0.041|>bash large minotaur
+<|server|><|delay#0.019|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.140|>par
+<|server|><|delay#0.151|>par
+<|server|><|delay#0.019|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 60%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack large minotaur.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large minotaur swings at Kage with their grea<|server|><|delay#0.047|>taxe, but he dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales large minotaur for 1 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373<|client|><|delay#-0.009|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 60%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|>84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You cut large minotaur for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage hacks large minotaur for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Kage swings at large minotaur!
+<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.026|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 30%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The large minotaur guts Kage with his horns for 1<|server|><|delay#0.000|>8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|an<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33376D|>Kage just disconnected!!!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33346D|>You are no longer following Kage.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|>84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash large minotaur for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The large minotaur cleaves you for 23 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.704|>l min
+<|server|><|delay#0.015|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large minotaur<|ansi#1B5B303B33376D|>
+This hideous, nine foot tall beast has the head and legs of a massive black
+bull, and the body of an incredibly muscled man. He wields a double-bladed
+battleaxe, and grins at you evilly. 
+He appears to be severely wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.451|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large minotaur<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eBast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|>61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You cut large minotaur for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large minotaur swings at you with their greataxe, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.545|>l mino
+<|server|><|delay#0.250|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large minotaur<|ansi#1B5B303B33376D|>
+This hideous, nine foot tall beast has the head and legs of a massive black
+bull, and the body of an incredibly muscled man. He wields a double-bladed
+battleaxe, and grins at you evilly. 
+He appears to be critically wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large minotaur swings at you with their great<|server|><|delay#0.000|>axe, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|>61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large minotaur swings at you with their greataxe, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.378|> <|server|><|delay#0.172|> <|server|><|delay#0.000|>l<|server|><|delay#0.005|> <|client|><|delay#-1.293|>l mino
+<|server|><|delay#0.335|>
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large minotaur<|ansi#1B5B303B33376D|>
+This hideous, nine foot tall beast has the head and legs of a massive black
+bull, and the body of an incredibly muscled man. He wields a double-bladed
+battleaxe, and grins at you evilly. 
+He appears to be critically wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=61<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The large minotaur guts you with his horns for <|server|><|delay#0.000|>31 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>30<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slice large minotaur for 3 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>30<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash large minotaur for 30 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|client|><|delay#-0.329|>l mino
+<|server|><|delay#0.404|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>large minotaur<|ansi#1B5B303B33376D|>
+This hideous, nine foot tall beast has the head and legs of a massive black
+bull, and the body of an incredibly muscled man. He wields a double-bladed
+battleaxe, and grins at you evilly. 
+He appears to be very critically wounded.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>32<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The large minotaur cleaves you for 14 damage!
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You cut large minotaur for 18 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large minotaur!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|><|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slice large minotaur for 27 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>4 gold drop to the ground.
+2 silver drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The minotaur falls dead with an agonized bellow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B333<|server|><|delay#0.000|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Wooden Passage
+<|ansi#1B5B303B33366D|>You notice 4 gold crowns, 2 silver nobles here.
+<|ansi#1B5B303B33326D|>Obvious exits: eYast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.016|>g 4 gold crown
+<|server|><|delay#0.000|>g 4 gold crown
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 4 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>g 2 silver noble
+<|server|><|delay#0.000|>g 2 silver noble
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 2 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>sn
+<|server|><|delay#0.062|>sn
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.017|>rest
+<|server|><|delay#0.000|>rest
+<|server|><|delay#0.046|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Kage just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|><|server|><|delay#0.000|>18<|ansi#1B5B303B33376D|> (Resting) ]:

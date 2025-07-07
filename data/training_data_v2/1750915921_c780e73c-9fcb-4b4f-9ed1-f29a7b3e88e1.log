@@ -1,0 +1,267 @@
+<|server|><|delay#0.087|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.006|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.015|><|telnet#FFFB03|><|server|><|delay#0.172|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.046|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 22:32 25-JUN-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.046|>Jinx
+<|server|><|delay#0.047|>Jinx
+<|server|><|delay#0.046|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.047|>password
+<|server|><|delay#0.048|>********<|server|><|delay#0.045|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Jinx, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#0.048|>m
+<|server|><|delay#0.049|>m
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.047|>enter
+<|server|><|delay#0.048|>enter
+<|server|><|delay#0.001|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.060|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.047|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>stat
+<|server|><|delay#0.061|>
+
+stat
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kag<|client|><|delay#0.030|>exp
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Jinx Quickpaw                    <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/0    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Nekojin     <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>1214024         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   42
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Thief      <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#0.013|>who
+<|server|><|delay#0.014|>exp
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>1214024 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>16<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>295363 (1509387) [80%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|>who
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm        -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild     -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>rest
+<|server|><|delay#0.049|>rest
+<|server|><|delay#0.028|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.232|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>Kage has invited you to follow him.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.015|>0;37m[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.014|>join Kage
+<|server|><|delay#0.016|>join Kage
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Kage
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Kage telepaths: <|ansi#1B5B303B33376D|>@join
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4<|client|><|delay#0.014|>frontrank
+<|server|><|delay#0.015|>frontrank
+<|server|><|delay#0.016|>You have moved to the front ranks of your group.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.048|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.011|>join Kage
+<|server|><|delay#0.012|>join Kage
+<|server|><|delay#0.013|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>You are now following Kage
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>
+<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Kage telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5<|client|><|delay#0.014|>/Kage {HP=14/144}
+<|server|><|delay#0.015|>/Kage {HP=14/144}
+<|server|><|delay#0.032|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.047|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Kage telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5<|client|><|delay#0.046|>/Kage {HP=14/144}
+<|server|><|delay#0.046|>/Kage {HP=14/144}
+<|server|><|delay#0.032|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.047|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.062|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>par
+<|server|><|delay#0.062|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 12%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:  9%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>/Kage @health
+<|server|><|delay#0.047|>/Kage @health
+<|server|><|delay#0.031|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>/Kage @wait (HP's too low)
+<|server|><|delay#0.032|>/Kage @wait (HP's too low)
+<|client|><|delay#0.013|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.044|><|ansi#1B5B303B33376D|>--- Telepath Sent to Kage ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Kage telepaths: <|ansi#1B5B303B33376D|>{HP=15/123, Resting}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D<|server|><|delay#0.000|>
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.025|>/Kage @health
+<|server|><|delay#0.030|>/Kage @health
+<|server|><|delay#0.025|><|ansi#1B5B303B33376D|>--- Telepath Not Sent ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.009|>rest
+<|server|><|delay#0.016|>rest
+<|server|><|delay#0.016|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.044|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.164|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.155|>par
+<|server|><|delay#0.157|>par
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 12%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H:  9%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.048|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.345|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.627|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wDest, nFortheast, sAoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>14<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>17<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.030|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>17<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.010|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.038|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 18%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 18%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.076|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.079|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.047|>par
+<|server|><|delay#0.050|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 18%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 18%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.118|>
+<|server|><|delay#0.052|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.362|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.520|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.046|>par
+<|server|><|delay#0.049|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 23%] R - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 18%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.029|>
+<|server|><|delay#0.029|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nFortheast, sKoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A nomadic tribesman<|ansi#1B5B303B33326D|> walks into the room fr<|server|><|delay#0.003|>om the nFortheast!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A angry roc<|ansi#1B5B303B33326D|> leaps in from the nFortheast!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>35<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic tribesman swipes at Kage with<|server|><|delay#0.000|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic tribesman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>angry roc<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nQortheast, sIoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>3<|client|><|delay#-0.015|>bash nomadic tribesman
+<|server|><|delay#0.000|>bash nomadic tribesman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Kage moves to attack nomadic tribesman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>38<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>38<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 25%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 26%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>38<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.331|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic tribesman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>angry roc<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nQortheast, sIoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>3<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage impales nomadic tribesman for 12 damage!
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>38<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage critically hacks nomadic tribesman for 58 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>38<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Kage slashes nomadic tribesman for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|a<|server|><|delay#0.000|>
+<|server|><|delay#0.007|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic tribesman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>angry roc<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nQortheast, sIoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>2<|client|><|delay#0.000|>par
+<|server|><|delay#0.011|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33366D|>You are following Kage.
+<|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Kage Nightshade                (Ninja)               [H: 17%]   - Frontrank
+  Jinx Quickpaw                  (Thief)               [H: 15%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.156|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Kage<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic tribesman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>angry roc<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wOest, nQortheast, sIoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>2<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic tribesman swipes at you with their sp<|server|><|delay#0.000|>iked club, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic tribesman swipes at you with their spiked club!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>22<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The angry roc claws you for 10 damage!
+<|ansi#1B5
