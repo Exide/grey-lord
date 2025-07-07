@@ -1,0 +1,25 @@
+{
+  "host": "192.168.100.2",
+  "port": 23,
+  "username": "greylord",
+  "password": "password",
+  "agent_type": "dqn",
+  "episodes": 1000,
+  "max_steps": 1000,
+  "save_interval": 100,
+  "log_interval": 10,
+  "model_dir": "models",
+  "tokenizer_name": "distilbert-base-uncased",
+  "max_observations": 4,
+  "observation_window": 1024,
+  "agent_config": {
+    "learning_rate": 0.001,
+    "gamma": 0.99,
+    "epsilon": 1.0,
+    "epsilon_decay": 0.995,
+    "epsilon_min": 0.01,
+    "buffer_size": 10000,
+    "batch_size": 32,
+    "update_frequency": 4
+  }
+} 

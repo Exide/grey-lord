@@ -1,0 +1,49 @@
+<|server|><|delay#0.605|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.051|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.530|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.046|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 21:15 27-JUN-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|server|><|delay#0.016|> <|server|><|delay#0.051|> <|server|><|delay#0.080|> <|server|><|delay#0.141|> <|server|><|delay#0.047|>g<|server|><|delay#0.156|>r<|server|><|delay#0.062|>e<|server|><|delay#0.125|>y<|client|><|delay#-1.885|>greylord
+<|server|><|delay#0.195|>
+<|server|><|delay#0.054|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#-0.550|>password
+<|server|><|delay#0.209|><|server|><|delay#0.056|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, GreyLord, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mai<|client|><|delay#-0.046|>m
+<|server|><|delay#0.133|>
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.342|>e
+<|server|><|delay#0.511|>
+<|server|><|delay#0.000|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.886|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.047|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Village Entrance
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    Welcome to Newhaven! You are standing at the crude wooden gates of the
+village entrance, in the middle of a dusty path. A low wooden palisade
+surrounds the village, to protect against creatures of the night and random
+raiders. You can see small buildings to the north and<|server|><|delay#0.553|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Newhaven, Village Entrance
+<|ansi#1B5B303B33366D|>You notice large sign, newbie manual here.
+<|ansi#1B5B303B33326D|>Obvious exits: nVorth, sAouth, wIest, sRoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=41<|ansi#1B5B303B33376D|>/MA=8<|ansi#1B5B303B33376D|>]:

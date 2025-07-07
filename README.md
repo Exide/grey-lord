@@ -14,6 +14,14 @@ python grey-lord.py --help
 
 ## Commands
 
+**Data Management:**
+```bash
+python grey-lord.py data copy ../telnet-data new_training_data
+```
+```bash
+python grey-lord.py data prune new_training_data --min-size 1MB --pattern *.log
+```
+
 **Model Training:**
 ```bash
 # Basic training with default parameters from config.json
@@ -24,18 +32,6 @@ python grey-lord.py train --model-path models/your-model --epochs 25
 
 # Override configuration parameters
 python grey-lord.py train --epochs 100 --batch-size 16 --learning-rate 1e-4
-```
-
-**Data Management:**
-```bash
-# Prepare raw data from telnet logs
-python grey-lord.py data prepare --source ../telnet-data --target training_data
-
-# Process agent session data into trainable format
-python grey-lord.py data process --session-dir data/agent_sessions
-
-# Export a trained model to GGUF format
-python grey-lord.py data export --model-dir models/your-model --output-file your-model.gguf
 ```
 
 **Analysis & Debugging:**
@@ -151,3 +147,12 @@ Processes binary telnet proxy files with custom tokenization:
 - **Special tokens**: `<|client|>`, `<|server|>`, `<|delay_short|>`, etc.
 - **Byte encoding**: Raw bytes mapped to `byte_0` through `byte_255`
 - **Sequence handling**: Automatic padding and truncation
+
+
+
+
+
+```
+grey-lord data copy ~/Desktop/some_dataset NewData
+grey-lord data prune NewData --size 1MB --pattern *.log
+```

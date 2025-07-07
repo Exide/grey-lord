@@ -1,0 +1,1045 @@
+<|server|><|delay#0.000|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.007|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.017|><|telnet#FFFB03|><|server|><|delay#0.032|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.022|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 08:29 01-JUL-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.048|>Grak
+<|server|><|delay#0.069|>Grak
+<|server|><|delay#0.050|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.037|>password
+<|server|><|delay#0.059|>********<|server|><|delay#0.045|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Grak, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#0.043|>m
+<|server|><|delay#0.111|>m
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#0.040|>enter
+<|server|><|delay#0.047|>enter
+<|server|><|delay#0.067|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.006|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.000|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B<|client|><|delay#-0.071|>stat
+<|server|><|delay#0.000|>
+
+stat
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B<|server|><|delay#0.000|>[32mLives/CP:  <|ansi#1B5B33366D|>    9/15   
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Half-Og<|server|><|delay#0.009|>re   <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>2530441         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   11
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Warrior    <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>18            <|ansi#1B5B33326D|>Stealth:     <|ansi#1B5B33366D|>    0
+<|ansi#1B5B33326D|>Hits: <|ansi#1B5B33366D|>  283/286   <|ansi#1B5B33326D|>Armour Class: <|ansi#1B5B33366D|> 59/18 <|ansi#1B5B33326D|>Thievery:    <|ansi#1B5B33366D|>    0
+                   <|client|><|delay#0.031|>who
+<|server|><|delay#0.053|>who
+<|server|><|delay#0.059|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm       -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild    -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|<|server|><|delay#0.051|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B<|server|><|delay#0.063|>
+<|server|><|delay#0.088|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B<|client|><|delay#0.046|>a thin half-orc sentry
+<|server|><|delay#0.131|>a thin half-orc sentry
+<|server|><|delay#0.069|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at you, but your <|server|><|delay#0.000|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D<|server|><|delay#0.000|>swings at yo<|server|><|delay#0.001|>u with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=28<|server|><|delay#0.000|>itar!
+<|ansi#1B5B373944|><|server|><|delay#0.038|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at thin half-orc sentry!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|a<|server|><|delay#0.013|>
+<|server|><|delay#0.087|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The thin half-orc sentry swings at you, but your <|server|><|delay#0.001|>armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The thin half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The thin half-orc sentry shouts for aid!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<<|server|><|delay#0.001|>rior swings <|server|><|delay#0.000|>at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The orc warrior all-out slashes you for 2 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=281<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B3<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.049|>36mThe fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin h<|server|><|delay#0.048|>alf-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fa<|server|><|delay#0.186|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>thin half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop thin half-orc sentry for 9 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>4 silver drop to the ground.
+5 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The half-orc sentry shouts for aid, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 125 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|<|server|><|delay#0.000|>r scimitar!<|server|><|delay#0.001|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#<|server|><|delay#0.001|>at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|server|><|delay#0.005|>
+<|server|><|delay#0.003|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc
+warrior<|ansi#1B5B306D|><|<|client|><|delay#-0.049|>a orc warrior
+<|server|><|delay#0.011|>a orc warrior
+<|server|><|delay#0.096|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.266|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc
+warrior<|ansi#1B5B306D|><|<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar<|server|><|delay#0.001|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=278<|ansi#1B5B303B333<|server|><|delay#0.000|> with their <|server|><|delay#0.001|>scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you wit<|server|><|delay#0.000|>h their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fierce orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B3<|server|><|delay#0.013|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc
+warrior<|ansi#1B5B306D|><|<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour de<|server|><|delay#0.001|>flects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|a<|server|><|delay#0.002|>D<|ansi#1B5B4B|><|ansi#1B5B303B33366D|>T<|server|><|delay#0.000|>he big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.001|> chop orc wa<|server|><|delay#0.014|>rrior for 19 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You rip orc warrior wide open!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B3739<|server|><|delay#0.011|>
+<|server|><|delay#0.003|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc
+warrior<|ansi#1B5B306D|><|<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc
+warrior<|ansi#1B5B306D|><|<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the wOest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.002|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5<|server|><|delay#0.000|>eir scimitar<|server|><|delay#0.001|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The big orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<<|server|><|delay#0.000|>heir scimita<|server|><|delay#0.003|>r!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash orc warrior for 23 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash orc warrior for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=275<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#<|server|><|delay#0.014|>
+<|server|><|delay#0.062|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 14 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc
+warrior<|ansi#1B5B<|client|><|delay#-0.066|>a large orc warrior
+<|server|><|delay#0.012|>a large orc warrior
+<|server|><|delay#0.161|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.208|>
+<|server|><|delay#0.072|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 14 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc
+warrior<|ansi#1B5B<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large orc warrior for 16 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large orc warrior for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|an<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 14 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc
+warrior<|ansi#1B5B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large orc warrior swings at you with their sc<|server|><|delay#0.001|>imitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ans<|server|><|delay#0.000|>7m]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B<|server|><|delay#0.001|>0<|ansi#1B5B303B33376D|>]:[<|server|><|delay#0.013|>79D<|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You rip large orc warrior wide open!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash large orc warrior for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.065|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 14 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>large orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc
+warrior<|ansi#1B5B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large orc warrior for 8 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>3 silver drop to the ground.
+17 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc warrior growls in hatred, and collapses.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 180 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373<|server|><|delay#0.000|>;37m[HP=280<|server|><|delay#0.001|>[0;37m]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc<|server|><|delay#0.001|>
+<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 17 silver nobles, 46 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B30<|server|><|delay#0.001|>
+<|server|><|delay#0.061|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 17 silver nobles, 46 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B30<|client|><|delay#-0.276|>a fierce orc warrior
+<|server|><|delay#0.001|>a fierce orc warrior
+<|server|><|delay#0.068|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>
+<|server|><|delay#0.106|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 17 silver nobles, 46 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B30<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fierce orc warrior swings at you, but your ar<|server|><|delay#0.000|>mour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The short orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B3337<|server|><|delay#0.000|>swings at yo<|server|><|delay#0.000|>u with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 17 silver nobles, 46 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B30<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their s<|server|><|delay#0.000|>cimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The short orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|an<|server|><|delay#0.004|>tar!
+<|ansi#1B5B373944|><|server|><|delay#0.001|>[K<|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fierce orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1<|server|><|delay#0.015|>
+<|server|><|delay#0.013|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 17 silver nobles, 46 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B30<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 17 silver nob<|server|><|delay#0.049|>les, 46 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fierce orc warrior for 21 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.001|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>5 silver drop to the ground.
+11 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc warrior growls in hatred, and collapses.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 180 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.006|>280<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fierce orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce o<|server|><|delay#0.036|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 22 silver nobles, 57 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|<|client|><|delay#-0.104|>a short orc warrior
+<|server|><|delay#0.001|>a short orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>
+<|server|><|delay#0.133|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 22 silver nobles, 57 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|an<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash short orc warrior for 13 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.001|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop short orc warrior for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The short orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ans<|server|><|delay#0.036|>;37m]:<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33316D|>The fierce orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swing<|server|><|delay#0.001|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 22 silver nobles, 57 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|<|server|><|delay#0.177|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 22 silver nobles, 57 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>short orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|an<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The short orc warrior swings at you with their sc<|server|><|delay#0.001|>imitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The short orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi<|server|><|delay#0.170|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.127|>[0;37m[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B<|server|><|delay#0.001|>
+<|server|><|delay#0.078|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|client|><|delay#0.030|>a nasty orc warrior
+<|server|><|delay#0.031|>a nasty orc warrior
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.064|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|server|><|delay#0.028|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash nasty orc warrior for 6 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.037|>[K<|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash nasty orc warrior for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The nasty orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|<|server|><|delay#0.002|>r!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.013|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B<|server|><|delay#0.015|>
+<|server|><|delay#0.033|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack nasty orc warrior for 7 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash nasty orc warrior for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nasty orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The n<|server|><|delay#0.001|>fat orc warr<|server|><|delay#0.000|>ior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The fat orc warrior all-out slashes you for 3 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|server|><|delay#0.001|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack nasty orc warrior for 8 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nasty orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nasty orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The nasty orc wa<|server|><|delay#0.000|>HP=280[0;37<|server|><|delay#0.000|>m]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small orc warrior s<|server|><|delay#0.001|>
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 62 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty orc warrior swings at you with their sc<|server|><|delay#0.001|>imitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nasty orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1<|server|><|delay#0.000|>heir scimita<|server|><|delay#0.001|>r!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=2<|server|><|delay#0.000|>80<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fierce orc warrior swings at you, <|server|><|delay#0.000|>but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=280<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 33 silver nobles, 64 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B3<|server|><|delay#0.037|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 33 silver nobles, 64 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B3<|client|><|delay#0.047|>a fat orc warrior
+<|server|><|delay#0.179|>a fat orc warrior
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.301|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 33 silver nobles, 64 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B3<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fat orc warrior for 22 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fat orc warrior for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1<|server|><|delay#0.001|>[79D<|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>6mThe small orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944<|server|><|delay#0.042|>
+<|server|><|delay#0.035|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 33 silver nobles, 64 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B3<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fat orc warrior for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fat orc warrior for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fat orc warrior for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>6 silver drop to the gro<|server|><|delay#0.000|>at you, but <|server|><|delay#0.000|>your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The small orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The small orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.016|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 39 silver nobles, 90 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.052|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 39 silver nobles, 90 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B<|client|><|delay#0.048|>a big orc warrior
+<|server|><|delay#0.054|>a big orc warrior
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.239|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 39 silver nobles, 90 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at big orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP<|server|><|delay#0.001|>=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack big orc warrior for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior s<|server|><|delay#0.000|><|ansi#1B5B303B33366D|>The f<|server|><|delay#0.000|>ierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285[<|server|><|delay#0.000|>0;37m]:<|server|><|delay#0.020|>
+<|server|><|delay#0.011|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 39 silver nobles, 90 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.005|>
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 39 silver nobles, 90 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop big orc warrior for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at big orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop big orc warrior for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc war<|server|><|delay#0.001|> orc warrior<|server|><|delay#0.000|> swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx picks up some silver nobles.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.016|>m[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.016|>;37m[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.008|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The big orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ans<|server|><|delay#0.000|>our armour d<|server|><|delay#0.001|>eflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash big orc warrior for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B333<|server|><|delay#0.048|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx picks up some copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc
+warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5<|client|><|delay#0.046|>a small orc warrior
+<|server|><|delay#0.057|>a small orc warrior
+<|server|><|delay#0.035|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.071|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>,
+<|ansi#1B5B313B33356D|>small orc warrior<|ansi#1B5B306D|><|ans<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack small orc warrior for 14 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack small orc warrior for 19 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B<|server|><|delay#0.001|>ar!
+<|ansi#1B5B373944|>[<|server|><|delay#0.003|>K<|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=285<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.043|>
+<|server|><|delay#0.035|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>,
+<|ansi#1B5B313B33356D|>small orc warrior<|ansi#1B5B306D|><|ans<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour de<|server|><|delay#0.001|>flects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.001|>r 9 damage!<|server|><|delay#0.001|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack small orc warrior for 20 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at small orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>,
+<|ansi#1B5B313B33356D|>small orc warrior<|ansi#1B5B306D|><|ans<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>,
+<|ansi#1B5B313B33356D|>small orc warrior<|ansi#1B5B306D|><|ans<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]<|server|><|delay#0.001|>[79D<|ansi#1B5B4B|>[0;3<|server|><|delay#0.001|>7m[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop small orc warrior for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack small orc warrior for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>4 silver drop to the ground.
+27 copper dr<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 27 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5<|client|><|delay#-0.002|>a orc warrior
+<|server|><|delay#0.004|>a orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.133|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 27 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5<|server|><|delay#0.005|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 10 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings a<|server|><|delay#0.042|>
+<|server|><|delay#0.018|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 27 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop orc warrior for 17 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.000|>37m[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop orc warrior for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you,<|server|><|delay#0.014|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 27 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5<|server|><|delay#0.007|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 4 silver nobles, 27 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.001|>7m[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop orc warrior for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>7 silver drop to the ground.
+2 copper drop to the gr<|server|><|delay#0.000|>swings at yo<|server|><|delay#0.000|>u with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 11 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><<|client|><|delay#-0.007|>a fierce orc warrior
+<|server|><|delay#0.000|>a fierce orc warrior
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.150|>
+<|server|><|delay#0.061|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 11 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><<|server|><|delay#0.148|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 11 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar<|server|><|delay#0.001|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|<|server|><|delay#0.045|>
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 11 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fierce orc warrior for 12 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.015|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at fierce orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc warrior for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B30<|server|><|delay#0.015|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 11 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nEortheast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fierce orc warrior for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fierce orc warrior for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fierc<|server|><|delay#0.042|>
+<|server|><|delay#0.033|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 11 silver nobles, 29 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc
+warrior<|ansi#1B5B306D|><<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc warrior for 18 damage!
+[79<|server|><|delay#0.000|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>5 silver drop to the ground.
+29 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc warrior growls in hatred, and collapses.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 180 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 16 silver nobles, 58 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.050|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 16 silver nobles, 58 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B<|client|><|delay#-0.005|>a fat orc warrior
+<|server|><|delay#0.001|>a fat orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.007|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 16 silver nobles, 58 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fat orc warrior for 20 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.015|>K<|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack fat orc warrior for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4<|server|><|delay#0.047|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 16 silver nobles, 58 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour de<|server|><|delay#0.000|>flects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33376D|>Jinx just disconnected!!!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.030|>
+<|server|><|delay#0.032|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 16 silver nobles, 58 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fat orc warrior for 22 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.007|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>8 silver drop to the ground.
+15 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc warrior growls in hatred, and collapses.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 180 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B3739<|server|><|delay#0.030|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 24 silver nobles, 73 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, <|server|><|delay#0.032|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 24 silver nobles, 73 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, <|client|><|delay#0.047|>a orc warrior
+<|server|><|delay#0.056|>a orc warrior
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.090|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 24 silver nobles, 73 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, <|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 97 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|client|><|delay#-0.015|>a fierce orc warrior
+<|server|><|delay#0.000|>a fierce orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.142|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 97 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fierce orc warrior for 9 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at fierce orc warrior!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|server|><|delay#0.037|>
+<|server|><|delay#0.040|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 97 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc warrior for 16 damage!
+[79<|server|><|delay#0.042|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash fierce orc warrior for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop fierce orc warrior for 20 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|<|server|><|delay#0.001|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 97 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 27 silver nobles, 97 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fierce orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their s<|server|><|delay#0.001|>cimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fierce orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 30 silver nobles, 100 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>a orc warrior
+<|server|><|delay#0.032|>a orc warrior
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.034|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 30 silver nobles, 100 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash orc warrior for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warri<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 30 silver nobles, 100 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wFest, nKortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash orc warrior for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop orc warrior for 14 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at yo<|server|><|delay#0.000|>
+<|server|><|delay#0.037|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 30 silver nobles, 100 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack orc warrior for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.001|>37m[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>5 silver drop to the ground.
+27 copper drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc warrior growls in hatred, and collapses.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 180 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><<|server|><|delay#0.000|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 35 silver nobles, 127 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.012|>exp
+<|server|><|delay#0.016|>exp
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>2533086 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>18<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>39732 (2572818) [98%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.003|>i
+<|server|><|delay#0.001|>i
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1277 silver nobles, 2082
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boots (Feet), leather belt
+(Waist), greatcloak (Back), visored greathelm (Head), golden battleaxe (Weapon
+Hand)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have th<|server|><|delay#0.049|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 35 silver nobles, 127 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>drop 35 copper farthing
+<|server|><|delay#0.050|>drop 35 copper farthing
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 35 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.309|>i
+<|server|><|delay#0.318|>i
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1277 silver nobles, 2047
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boots (Feet), leather belt
+(Waist), greatcloak (Back), visored greathelm (Head), golden battleaxe (Weapon
+Hand)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have th<|server|><|delay#0.055|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 35 silver nobles, 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>g 35 silver noble
+<|server|><|delay#0.054|>g 35 silver noble
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 35 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.626|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.754|>
+<|server|><|delay#0.019|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.008|>
+<|server|><|delay#0.009|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.047|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.005|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.391|>look w
+<|server|><|delay#0.644|>w
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#<|client|><|delay#0.265|>look ne
+<|server|><|delay#0.740|>ne
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi<|server|><|delay#0.320|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.413|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest, nJortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.328|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.442|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.823|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.756|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.041|>
+<|server|><|delay#0.034|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.029|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.031|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.088|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wBest, nSortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.156|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.235|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.453|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.430|>
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.534|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.210|>look ne
+<|server|><|delay#0.000|>ne
+<|server|><|delay#0.007|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi<|client|><|delay#0.374|>look w
+<|server|><|delay#0.558|>w
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#<|server|><|delay#0.568|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.784|>
+<|server|><|delay#0.041|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.014|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wHest, nFortheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.007|>ne
+<|server|><|delay#0.000|>ne
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: [1<|server|><|delay#0.045|>;35mhalf-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorthwest, sEouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorthwest, sEouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.048|>a half-orc sentry
+<|server|><|delay#0.049|>a half-orc sentry
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-1.144|>look nw
+<|server|><|delay#0.591|>nw
+<|server|><|delay#0.049|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33326D|>Obvious exits: nForth, sFoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.796|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nQorthwest, sEouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The half-orc sentry swings at you with their scim<|server|><|delay#0.000|>itar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The half-orc sentry swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The half-orc sentry shouts for aid!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B3<|server|><|delay#0.012|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>a half-orc sentry
+<|server|><|delay#0.001|>a half-orc sentry
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.435|>look nw
+<|server|><|delay#0.609|>nw
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33326D|>Obvious exits: nVorth, sLoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.099|>
+<|server|><|delay#0.056|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The half-orc sentry swings at you with their scim<|server|><|delay#0.016|>itar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The half-orc sentry shouts for aid!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi<|server|><|delay#0.016|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373<|client|><|delay#0.046|>a half-orc sentry
+<|server|><|delay#0.048|>a half-orc sentry
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.027|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>half-orc sentry<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373<|client|><|delay#0.500|>look sw
+<|server|><|delay#0.621|>sw
+<|server|><|delay#0.020|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33366D|>You notice 162 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: wDest, nAortheast
+<|ansi#1B5B303B33<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The half-orc sentry swings at you with their scim<|server|><|delay#0.000|>itar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The half-orc sentry swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.047|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles, 5 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|client|><|delay#0.046|>drop 3 copper farthinga fat orc warrior
+<|server|><|delay#0.048|>drop 3 copper farthing
+a fat orc warrior
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 3 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.078|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles, 8 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.004|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armou<|server|><|delay#0.016|>r deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<<|server|><|delay#0.053|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 3 silver nobles, 8 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>fat orc warrior<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nYorthwest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The fat orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The fat orc warrior swings at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4<|server|><|delay#0.001|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 6 silver nobles, 26 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.010|>a orc warrior
+<|server|><|delay#0.001|>a orc warrior
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.157|>
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 6 silver nobles, 26 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash orc warrior for 23 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop orc warrior for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warri<|server|><|delay#0.047|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 6 silver nobles, 26 copper farthings here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>orc warrior<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nYorthwest, sLouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar<|server|><|delay#0.000|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The orc warrior swings at you with their scimitar!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash orc warrior for 24 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=283<|ansi#1B5B303B33376D|>]:<|ansi#1B5B37<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 12 silver nobles, 44 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: nEorthwest, sTouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.001|>i
+<|server|><|delay#0.016|>i
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1312 silver nobles, 2044
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boots (Feet), leather belt
+(Waist), greatcloak (Back), visored greathelm (Head), golden battleaxe (Weapon
+Hand)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have th<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 12 silver nobles, 44 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: nEorthwest, sTouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>drop 9 copper farthing
+<|server|><|delay#0.001|>drop 9 copper farthing
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 9 copper farthings.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.359|>i
+<|server|><|delay#0.368|>i
+<|server|><|delay#0.056|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are carrying 2 platinum pieces, 120 gold crowns, 1312 silver nobles, 2035
+copper farthings, full plate leggings (Legs), plate gauntlets (Hands), iron
+ring (Finger), full plate corselet (Torso), plate boots (Feet), leather belt
+(Waist), greatcloak (Back), visored greathelm (Head), golden battleaxe (Weapon
+Hand)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You have th<|server|><|delay#0.053|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 12 silver nobles, 53 copper farthings here.
+<|ansi#1B5B303B33326D|>Obvious exits: nEorthwest, sTouthwest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>g 12 silver noble
+<|server|><|delay#0.056|>g 12 silver noble
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 12 silver nobles
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.522|>nw
+<|server|><|delay#0.531|>nw
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: [1<|server|><|delay#0.001|>;35msmall orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.010|>a small orc shaman
+<|server|><|delay#0.001|>a small orc shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.187|>look n
+<|server|><|delay#0.029|>n
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>    The walls of this narrow passage are cracked and crumbling, and threaten
+to cave-in at any moment. The reddish streaks in the walls are quite
+pronounced, and darken in colour the deeper the tunnels get. 
+<|ansi#1B5B303B33326D|>Obvious exits: sLouth, eJast, wJest
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5<|server|><|delay#0.026|>
+<|server|><|delay#0.051|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>small orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You chop small orc shaman for 21 damage!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at small orc shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33316D|>The small orc shaman swipes at you, but your armour deflects the blow!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><<|server|><|delay#0.043|>
+<|server|><|delay#0.034|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>small orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at small orc shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash small orc shaman for 25 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash small orc shaman for 18 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=286<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Small orc shaman casts<|server|><|delay#0.016|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>small orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.007|>a small orc shaman
+<|server|><|delay#0.000|>a small orc shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.134|>
+<|server|><|delay#0.054|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>small orc shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash small orc shaman for 21 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|>[K<|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>1 gold drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The orc shaman shrieks in agony, and falls dead!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 275 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B3<|server|><|delay#0.010|>
+<|server|><|delay#0.007|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 1 gold crown here.
+<|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.009|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Crumbling Tunnel
+<|ansi#1B5B303B33366D|>You notice 1 gold crown here.
+<|ansi#1B5B303B33326D|>Obvious exits: nLorth, sAoutheast
+<|ansi#1B5B303B33376D|>The room is dimly lit
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.045|>drop 1 copper farthing
+<|server|><|delay#0.054|>drop 1 copper farthing
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You dropped 1 copper farthing.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=276<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=281<|ansi#1B5B303B33376D|>]:

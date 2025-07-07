@@ -1,0 +1,1524 @@
+<|server|><|delay#0.500|><|telnet#FFFB03|><|telnet#FFFB01|><|telnet#FFFB00|><|telnet#FFFD00|><|server|><|delay#0.001|>Auto-sensing...
+    <|ansi#1B5B366E|>    [!<|server|><|delay#0.016|><|telnet#FFFB03|><|server|><|delay#0.107|><|ansi#1B5B306D|>
+
+            <|ansi#1B5B313B353B33356D|>WELCOME!
+
+<|ansi#1B5B303B313B33326D|>BBS (#12345678<|server|><|delay#0.047|>)
+Running Worldgroup by GALACTICOMM
+ONLINE 38400 BAUD AT 21:52 25-JUN-25
+<|ansi#1B5B303B313B33326D|>
+If you already have a User-ID on this
+system, type it in and press ENTER.
+Otherwise type "<|ansi#1B5B33366D|>new<|ansi#1B5B33326D|>": <|client|><|delay#0.047|>Kage
+<|server|><|delay#0.063|>Kage
+<|server|><|delay#0.001|><|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Enter your password: <|client|><|delay#0.000|>password
+<|server|><|delay#0.001|>********<|server|><|delay#0.045|><|ansi#1B5B306D|>
+
+<|ansi#1B5B313B33336D|>Greetings, Kage, glad to see you back again.
+<|ansi#1B5B303B33306D|>Fantasy awaits you in majorMUD v1.11p-WG3NT!
+<|ansi#1B5B306D|>
+<|ansi#1B5B313B33326D|>Please select one of the following:
+
+<|ansi#1B5B313B33366D|><|ansi#1B5B303B313B33366D|>   M <|ansi#1B5B33336D|>... MajorMUD
+<|ansi#1B5B303B313B33366D|>   F <|ansi#1B5B33336D|>... Forums (Public Message Bases)
+<|ansi#1B5B303B313B33366D|>   E <|ansi#1B5B33336D|>... Electronic Mail
+ <|client|><|delay#-0.001|>m
+<|server|><|delay#0.000|>m
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B306D|><|ansi#1B5B324A|>
+ <|ansi#1B5B316D|>M A J O R  M U D <|ansi#1B5B33336D|>v1.11p-WG3NT (Dec 30 2005 14:20:26)
+<|ansi#1B5B306D|>{Realm Of Legends}
+<|ansi#1B5B313B33356D|>*ANSI RECOMMENDED*
+
+<|ansi#1B5B33306D|>[<|ansi#1B5B33376D|>E<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Enter the Realm
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>H<|ansi#1B5B33306D|>] . <|ansi#1B5B306D|>Help
+<|ansi#1B5B313B33306D|>[<|ansi#1B5B33376D|>A<|ansi#1B5B33306D|<|client|><|delay#-0.001|>enter
+<|server|><|delay#0.002|>enter
+<|server|><|delay#0.001|><|ansi#1B5B313B33376D|>
+Last time you were on, you disconnected while playing.
+The gods have punished you appropriately.
+<|ansi#1B5B306D|>(N)onstop, (Q)uit, or (C)ontinue?<|server|><|delay#0.003|><|ansi#1B5B324A|><|ansi#1B5B313B33306D|>=-=-=-=-=-=-=-=-=-=-<|server|><|delay#0.043|>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+<|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>8<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>stat
+<|server|><|delay#0.000|>
+
+stat
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>8<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>8<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.025|>exp
+<|server|><|delay#0.025|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B306D|><|ansi#1B5B33326D|>Name: <|ansi#1B5B33366D|>Kage Nightshade                  <|ansi#1B5B33326D|>Lives/CP:  <|ansi#1B5B33366D|>    9/1    
+<|ansi#1B5B33326D|>Race: <|ansi#1B5B33366D|>Dark-Elf    <|ansi#1B5B33326D|>Exp: <|ansi#1B5B33366D|>1751108         <|ansi#1B5B33326D|>Perception:  <|ansi#1B5B33366D|>   44
+<|ansi#1B5B33326D|>Class: <|ansi#1B5B33366D|>Ninja      <|ansi#1B5B33326D|>Level: <|ansi#1B5B33<|client|><|delay#0.030|>who
+<|server|><|delay#0.031|>exp
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B303B33326D|>Exp: <|ansi#1B5B33366D|>1751108 <|ansi#1B5B33326D|>Level: <|ansi#1B5B33366D|>15<|ansi#1B5B33326D|> Exp needed for next level: <|ansi#1B5B33366D|>156744 (1907852) [92%]
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>8<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.048|>who
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>         Current Adventurers
+<|ansi#1B5B313B33306D|>         ===================
+
+<|ansi#1B5B306D|><|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Borin Ironhelm        -  <|ansi#1B5B33356D|>Venerator<|ansi#1B5B33326D|>  <|ansi#1B5B33376D|> 
+<|ansi#1B5B313B33376D|>    Good <|ansi#1B5B303B33326D|>Cadence Fairchild     -  <|ansi#1B5B33356D|>Jester<|ansi#1B5B33326D|>  <|ansi#1B5B33376D<|client|><|delay#0.045|>rest
+<|server|><|delay#0.052|>rest
+<|server|><|delay#0.025|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>8<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.295|>.yo
+<|server|><|delay#0.023|>
+<|server|><|delay#0.025|><|ansi#1B5B303B33326D|>You say "yo"
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>8<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>10<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing on you, bu<|server|><|delay#0.016|>t failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>10<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing on you, bu<|server|><|delay#0.000|>t failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>10<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.030|>
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>10<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast protection from evil, bu<|server|><|delay#0.014|>t failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>10<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx just entered the Realm.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|><|server|><|delay#0.000|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33326D|>Jinx says "yo"
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16[0;3<|server|><|delay#0.016|>7m (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts protection from evil on Gideon!
+[7<|server|><|delay#0.000|>9D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing at Jinx, b<|server|><|delay#0.016|>ut failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.030|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>16<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>18<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing at Jinx, b<|server|><|delay#0.015|>ut failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Your vision returns to normal.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eNast, wHest, nDorthwest, sVouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing at Jinx, b<|server|><|delay#0.015|>ut failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.000|>31m24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eNast, wHest, nDorthwest, sVouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.000|>31m24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.044|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eNast, wHest, nDorthwest, sVouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>24<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts minor healing on Jinx!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.014|>37m[HP=<|ansi#1B5B313B33316D|>26<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.013|>31m26<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>32<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eJast, wRest, nYorthwest, sRouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>32<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eJast, wRest, nYorthwest, sRouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>32<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>38<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.031|>
+<|server|><|delay#0.026|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wHest, nXorthwest, sJouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wHest, nXorthwest, sJouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Gideon attempted to cast major healing at Jinx, b<|server|><|delay#0.015|>ut failed.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.000|>37m46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wHest, nXorthwest, sJouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts minor healing on Jinx!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.000|>37m[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.015|>37m46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wHest, nXorthwest, sJouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts minor healing on Jinx!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.015|>37m[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.000|>37m46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eWast, wHest, nXorthwest, sJouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>48<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts minor healing on Jinx!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.011|>37m[HP=<|ansi#1B5B313B33376D|>48<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;37<|server|><|delay#0.015|>m48<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|>
+<|server|><|delay#0.042|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthwest, sEouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>48<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.000|>37m48<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.014|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthwest, sEouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.011|>
+<|server|><|delay#0.003|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthwest, sEouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.156|>invite j
+<|server|><|delay#0.625|>
+<|server|><|delay#0.026|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33346D|>You have invited Jinx to follow you.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.031|>par
+<|server|><|delay#0.036|>par
+<|server|><|delay#0.009|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)      [Invited]
+  Kage Nightshade                (Ninja)               [H: 43%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B<|client|><|delay#0.000|>/Jinx @join
+<|server|><|delay#0.006|>/Jinx @join
+<|client|><|delay#-0.302|>par
+<|server|><|delay#0.001|>
+<|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;3<|server|><|delay#0.055|>7m60<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx just moved to the front rank in your group.
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:  9%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 48%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1<|server|><|delay#0.053|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthwest, sEouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.007|>/Jinx @health
+<|server|><|delay#0.000|>/Jinx @health
+<|server|><|delay#0.000|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>{HP=13/144}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.015|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.007|>/Jinx @health
+<|server|><|delay#0.016|>/Jinx @health
+<|server|><|delay#0.015|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>{HP=13/144}
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.015|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.015|><|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.007|>/Jinx {HP=60/123, Resting}
+<|server|><|delay#0.016|>/Jinx {HP=60/123, Resting}
+<|server|><|delay#0.016|><|ansi#1B5B303B33376D|>--- Telepath Sent to Jinx ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@health
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthw<|client|><|delay#-0.009|>/Jinx {HP=60/123, Resting}
+<|server|><|delay#0.000|>/Jinx {HP=60/123, Resting}
+<|server|><|delay#0.054|><|ansi#1B5B303B33376D|>--- Telepath Not Sent ---
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.055|>
+<|server|><|delay#0.055|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthwest, sEouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;37<|server|><|delay#0.016|>m60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.732|>
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eFast, wBest, nJorthwest, sEouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.047|>par
+<|server|><|delay#0.048|>par
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=62<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 11%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 50%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=62<|ansi#1B5B303B33376D|> (Resting)<|client|><|delay#0.015|>par
+<|server|><|delay#0.026|>par
+<|server|><|delay#0.019|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 11%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 50%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=62<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.020|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 17%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 55%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.039|>par
+<|server|><|delay#0.045|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 19%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 56%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.019|>par
+<|server|><|delay#0.028|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 25%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 61%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.010|>par
+<|server|><|delay#0.014|>par
+
+<|server|><|delay#0.011|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 25%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 61%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.027|>par
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 34%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 68%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.010|>par
+<|server|><|delay#0.016|>par
+
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 34%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 68%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.011|>par
+<|server|><|delay#0.012|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 40%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 73%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A nomadic shaman<|ansi#1B5B303B33326D|> walks into the room from <|server|><|delay#0.000|>the nTorthwest!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A nomadic shaman<|ansi#1B5B303B33326D|> walks into the room from the sBouthwest!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A small nomadic shaman<|ansi#1B5B303B33326D|> walks into the room from the<|server|><|delay#0.000|>
+<|server|><|delay#0.014|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic<|client|><|delay#-0.001|>a nomadic shaman
+<|server|><|delay#0.001|>a nomadic shaman
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Valerius moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|<|client|><|delay#-0.016|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 28%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 74%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.016|>;37m[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B313B33346D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon casts chant!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Gideon moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|>[0;37m[HP=92<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.000|>92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically hack nomadic shaman for 34 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash nomadic shaman for 4 d<|client|><|delay#0.029|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 28%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 62%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.001|>;37m[HP=77<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|server|><|delay#0.043|>77<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically impale nomadic shaman for 49 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=77<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale nomadic shaman for <|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eJast, wQest, nXorthwest, sTouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#<|client|><|delay#-0.001|>a nomadic shaman
+<|server|><|delay#0.015|>a nomadic shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Gideon moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Valerius moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.000|>;37m[HP=68<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.078|>par
+<|server|><|delay#0.080|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 20%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 55%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack nomadic shaman.
+<|ansi#1B5B3<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0<|server|><|delay#0.016|>;37m[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Gideon slashes nomadic shaman for 13 damage!
+[7<|server|><|delay#0.005|>9D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Gideon hacks nomadic shaman for 21 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack nomadic shaman for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1<|server|><|delay#0.000|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>small nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eJast, wQest, nXorthwest, sTouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.020|>a small nomadic shaman
+<|server|><|delay#0.021|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Valerius moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|>a small nomadic shaman
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Gideon moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|server|><|delay#0.016|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.004|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 13%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 55%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|server|><|delay#0.016|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Valerius swings at small nomadic shaman!
+<|ansi#1B5B373944|>[<|server|><|delay#0.000|>K<|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at small nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx slices small nomadic shaman for 27 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D<|client|><|delay#-0.012|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 13%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 55%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Grak moves to attack small nomadic shaman.
+<|ansi#1B5B373944|><|server|><|delay#0.016|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Valerius impales small nomadic shaman for 60 dama<|server|><|delay#0.000|>ge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic tribesman stares you down, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 73 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Off*
+<|an<|server|><|delay#0.012|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eJast, wQest, nXorthwest, sTouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>rest
+<|server|><|delay#0.016|>rest
+<|server|><|delay#0.016|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Gideon stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) <|server|><|delay#0.125|>
+<|server|><|delay#0.048|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eJast, wQest, nXorthwest, sTouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.025|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 15%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 56%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.011|>par
+<|server|><|delay#0.000|>par
+
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 15%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 56%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=70<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.036|>par
+<|server|><|delay#0.046|>par
+<|server|><|delay#0.006|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 21%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 61%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.009|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 23%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 63%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=78<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.008|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 29%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 68%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.030|>
+<|client|><|delay#0.000|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, Valerius, Jinx, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eHast, wQest, nMorthwest, sWouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.017|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 38%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 74%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.004|>par
+<|server|><|delay#0.001|>par
+
+<|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 38%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 74%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=98<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.015|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 44%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 79%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=98<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=100<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.004|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 46%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 81%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=100<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.008|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 52%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 86%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.016|>par
+
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 52%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 86%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=108<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=114<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.014|>par
+<|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 61%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 92%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=114<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.012|>par
+<|server|><|delay#0.000|>par
+
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 61%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 92%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=114<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|client|><|delay#0.046|>par
+<|server|><|delay#0.047|>par
+
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 61%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 92%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=114<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.017|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 69%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 99%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>sn
+<|server|><|delay#0.045|>sn
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.330|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>sw
+<|server|><|delay#0.000|>sw
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wQest, nE<|server|><|delay#0.001|>ortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room from the nEortheast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.044|>w
+<|server|><|delay#0.045|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@wait (HP's too low)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|>w
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.027|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.531|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the wQest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eLast, wQest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room fr<|client|><|delay#-0.005|>bs nomadic shaman
+<|server|><|delay#0.000|>bs nomadic shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise impale nomadic shaman for 76 damage!<|server|><|delay#0.004|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic shaman swipes at you with their oaken staff, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic shaman swipes at you with their oaken staff, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B30<|server|><|delay#0.000|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eLast, wQest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 69%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 99%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|a<|server|><|delay#0.047|>
+<|server|><|delay#0.046|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eLast, wQest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.048|>rest
+<|server|><|delay#0.061|>rest
+<|server|><|delay#0.033|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.374|>par
+<|server|><|delay#0.380|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 69%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 99%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.404|>par
+<|server|><|delay#0.405|>par
+
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 69%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 99%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.011|>par
+<|server|><|delay#0.014|>par
+<|server|><|delay#0.012|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 77%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.011|>par
+<|server|><|delay#0.000|>par
+
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 77%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.026|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.026|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 84%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|>
+<|client|><|delay#0.012|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.030|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eDast, wVest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw      <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.023|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.027|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 92%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 92%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@ok
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|server|><|delay#0.004|>[0;37m (Resting) ]:<|client|><|delay#-0.002|>par
+<|server|><|delay#0.010|>par
+<|server|><|delay#0.003|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 98%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>sn
+<|server|><|delay#0.011|>sn
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: sPouth, e<|server|><|delay#0.031|>Bast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room from the eBast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.017|>s
+<|server|><|delay#0.000|>s
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nAorth, e<|server|><|delay#0.008|>Bast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>n
+<|server|><|delay#0.001|>n
+<|server|><|delay#0.008|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: sPouth, e<|server|><|delay#0.000|>Bast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.012|>e
+<|server|><|delay#0.001|>e
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B33316D|>You make a sound as you enter the room!
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eBast, wOest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>sn
+<|server|><|delay#0.000|>sn
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.016|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wOest, nB<|server|><|delay#0.000|>ortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>ne
+<|server|><|delay#0.000|>ne
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, V<|server|><|delay#0.000|>alerius, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eBast, wOest, nPorthwest, sOouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>nw
+<|server|><|delay#0.001|>nw
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: sOoutheas<|server|><|delay#0.001|>t
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.026|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>se
+<|server|><|delay#0.000|>se
+<|server|><|delay#0.026|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Grak, V<|server|><|delay#0.000|>alerius, Gideon<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eBast, wOest, nPorthwest, sOouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eBast, wO<|server|><|delay#0.000|>est
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>w
+<|server|><|delay#0.001|>w
+<|server|><|delay#0.055|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eBast, nP<|server|><|delay#0.000|>orthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.009|>nw
+<|server|><|delay#0.000|>nw
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nPorthwest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.010|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nPorthwest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nPorthwest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi<|client|><|delay#-0.006|>bs fierce nomadic shaman
+<|server|><|delay#0.001|>bs fierce nomadic shaman
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.037|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash fierce nomadic shaman for 68 d<|server|><|delay#0.039|>amage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise slices fierce nomadic shaman for 76 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic tribesman stares you down, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B3<|server|><|delay#0.000|>
+<|server|><|delay#0.040|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic huntsman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nBortheast, sOoutheast, sOouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|<|client|><|delay#0.031|>a nomadic huntsman
+<|server|><|delay#0.039|>a nomadic huntsman
+<|server|><|delay#0.038|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack nomadic huntsman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|client|><|delay#0.006|>par
+<|server|><|delay#0.006|>[0;37m[HP=113<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|>par
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 91%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic huntsman swipes at Jinx with their sp<|server|><|delay#0.000|>iked club, but she dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The nomadic huntsman swipes at Jinx with their spiked club, but she dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The nomadic huntsman slashes Jinx for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi<|client|><|delay#-0.001|>par
+<|server|><|delay#0.012|>par
+<|server|><|delay#0.003|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 91%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 91%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack nomadic huntsman for 9 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.000|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic huntsman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack nomadic huntsman for 4 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=113<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale<|server|><|delay#0.000|>
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33366D|>You notice 5 gold crowns here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nBortheast, sOoutheast, sOouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>g 5 gold crown
+<|server|><|delay#0.000|>g 5 gold crown
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 5 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.046|>a large nomadic shaman
+<|server|><|delay#0.055|>a large nomadic shaman
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack large nomadic shaman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.095|>par
+<|server|><|delay#0.103|>par
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 91%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 82%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The large nomadic shaman casts black curse on you<|server|><|delay#0.000|>!
+A black curse is upon you!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash large nomadic shaman for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash large nomadic shaman for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1<|client|><|delay#0.015|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.032|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 93%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 83%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=103<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The large nomadic shaman bludgeons you for 11 d<|server|><|delay#0.000|>amage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The large nomadic shaman swipes at you with their oaken staff, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B<|client|><|delay#0.015|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 93%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 74%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale large nomadic shaman for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically slash la<|client|><|delay#0.026|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 93%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 66%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=82<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large nomadic shaman for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale large nomadic s<|client|><|delay#0.030|>par
+<|server|><|delay#0.038|>par
+<|server|><|delay#0.040|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 93%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 66%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large nomadic shaman for 3 damage!
+[79<|server|><|delay#0.001|>D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large nomadic shaman for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|client|><|delay#-0.007|>rest
+<|server|><|delay#0.000|>rest
+<|server|><|delay#0.016|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82[0;<|server|><|delay#0.016|>37m (Resting) ]:<|client|><|delay#-0.002|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 93%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 66%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.009|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 95%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 68%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=84<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.011|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.012|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 73%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.007|>par
+
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 73%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=90<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B3<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Your vision returns to normal.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.047|>P=90<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.059|>
+<|server|><|delay#0.035|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nBortheast, sNoutheast, sTouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=92<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.623|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=98<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.003|>par
+<|server|><|delay#0.012|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 79%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=98<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.014|>par
+<|server|><|delay#0.030|>par
+
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 79%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=98<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=104<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.017|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 84%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=104<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.009|>par
+<|server|><|delay#0.001|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 86%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=106<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.005|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 91%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.015|>par
+
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 91%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=114<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.031|>sn
+<|server|><|delay#0.045|>sn
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.020|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 97%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>sw
+<|server|><|delay#0.001|>sw
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eFast, nA<|server|><|delay#0.040|>ortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.007|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wHest
+[<|server|><|delay#0.009|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eFast, nA<|server|><|delay#0.000|>ortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.014|>ne
+<|server|><|delay#0.000|>ne
+<|server|><|delay#0.034|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nAortheas<|server|><|delay#0.000|>t, sBoutheast, sKouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>ne
+<|server|><|delay#0.001|>ne
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.767|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: sDouth, n<|server|><|delay#0.042|>Aortheast, sKouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>s
+<|server|><|delay#0.000|>s
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sDouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.042|>m[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sDouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sDouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B333<|client|><|delay#-0.004|>bs big nomadic tribesman
+<|server|><|delay#0.001|>bs big nomadic tribesman
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.004|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 97%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash big nomadic tribesman for 61 d<|server|><|delay#0.000|>amage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise slices big nomadic tribesman for 77 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic tribesman stares you down, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B3<|server|><|delay#0.005|>
+<|server|><|delay#0.026|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33366D|>You notice 1 gold crown here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic tribesman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nJorth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B<|client|><|delay#0.030|>g 1 gold crown
+<|server|><|delay#0.036|>g 1 gold crown
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 1 gold crown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>a nomadic tribesman
+<|server|><|delay#0.000|>a nomadic tribesman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.110|>par
+<|server|><|delay#0.119|>par
+<|server|><|delay#0.038|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 94%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 97%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack nomadic tribesman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.017|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic tribesman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[<|server|><|delay#0.048|>HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale nomadic tribesman for 5 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic tribesman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic tribesman<|client|><|delay#0.014|>par
+<|server|><|delay#0.019|>par
+<|server|><|delay#0.010|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 94%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 97%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash nomadic tribesman for 10 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale nomadic tribesman for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash nomadic tribesman for 7 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|an<|server|><|delay#0.000|>
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nJorth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.009|>a big nomadic shaman
+<|server|><|delay#0.000|>a big nomadic shaman
+<|server|><|delay#0.047|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack big nomadic shaman.
+<|ansi#1B5B373944|>[<|server|><|delay#0.015|>K<|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.001|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 94%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 97%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash big nomadic shaman for 8 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.000|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale big nomadic shaman for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at big nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=120<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|client|><|delay#-0.009|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.038|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 96%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 99%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big nomadic shaman swipes at Jinx with their <|server|><|delay#0.009|>oaken staff!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big nomadic shaman swipes at Jinx with their oaken staff, but she dodges!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale big nomadic shaman for 16 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|<|client|><|delay#-0.012|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 96%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 99%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.002|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big nomadic shaman swipes at you with their o<|server|><|delay#0.001|>aken staff, but you dodge!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=122<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The big nomadic shaman bludgeons you for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at big nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|a<|client|><|delay#-0.012|>rest
+<|server|><|delay#0.000|>rest
+<|server|><|delay#0.050|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109[0<|server|><|delay#0.015|>;37m (Resting) ]:<|client|><|delay#0.171|>par
+<|server|><|delay#0.173|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 96%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 88%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.186|>par
+<|server|><|delay#0.195|>par
+
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 96%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 88%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=111<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=117<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.011|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.011|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 95%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=117<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.045|>par
+<|server|><|delay#0.052|>par
+
+<|server|><|delay#0.009|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 95%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=117<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You are blind.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>hide
+<|server|><|delay#0.004|>hide
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to hide...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.013|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Your vision returns to normal.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nIorth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.047|>par
+<|server|><|delay#0.052|>par
+<|server|><|delay#0.042|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.010|>par
+
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here<|client|><|delay#0.096|>sn
+<|server|><|delay#0.109|>sn
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.016|>n
+<|server|><|delay#0.000|>n
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: sXouth, n<|server|><|delay#0.000|>Wortheast, sDouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>ne
+<|server|><|delay#0.000|>ne
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nIorth, s<|server|><|delay#0.000|>Eoutheast, sDouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.003|>se
+<|server|><|delay#0.000|>se
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wDest, nE<|server|><|delay#0.041|>orthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.005|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eKast
+[<|server|><|delay#0.000|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.015|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.393|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wDest, nE<|server|><|delay#0.001|>orthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>nw
+<|server|><|delay#0.000|>nw
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nCorth, s<|server|><|delay#0.000|>Southeast, sDouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>You notice Jinx sneak in from the sSoutheast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.007|>n
+<|server|><|delay#0.000|>n
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nCorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.040|>m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nCorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi<|client|><|delay#-0.005|>bs nomadic shaman
+<|server|><|delay#0.000|>bs nomadic shaman
+<|server|><|delay#0.027|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.014|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.049|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise impale nomadic shaman for 59 damage!<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise cuts nomadic shaman for 90 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic tribesman stares you down, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic shaman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wOest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack <|client|><|delay#-0.015|>a nomadic shaman
+<|server|><|delay#0.001|>a nomadic shaman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.041|>par
+<|server|><|delay#0.037|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B37394<|client|><|delay#0.030|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.001|>P=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B37394<|client|><|delay#0.023|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373<|client|><|delay#0.026|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.026|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[H<|server|><|delay#0.000|>P=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>Jinx swings at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at nomadic shaman!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically slash nomadic shaman for 44 dam<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sPouth, eYast, wOest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>sn
+<|server|><|delay#0.000|>sn
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@wait (blinded)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.004|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.007|>par
+<|server|><|delay#0.012|>par
+<|server|><|delay#0.011|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+
+<|server|><|delay#0.040|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious e<|client|><|delay#0.014|>par
+<|server|><|delay#0.023|>par
+
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious e<|client|><|delay#0.015|>par
+<|server|><|delay#0.026|>par
+
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious e<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@ok
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|server|><|delay#0.001|>[0;37m]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wEest
+[<|server|><|delay#0.001|>79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.030|>w
+<|server|><|delay#0.034|>w
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: sQouth, e<|server|><|delay#0.000|>Dast, wEest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, s<|server|><|delay#0.003|>Qouth, eDast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>s
+<|server|><|delay#0.001|>s
+<|server|><|delay#0.048|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.732|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, w<|server|><|delay#0.000|>Eest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eDast, nQ<|server|><|delay#0.000|>orthwest, sOouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>sw
+<|server|><|delay#0.000|>sw
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, s<|server|><|delay#0.044|>Qouth, eDast, nMortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33366D|>You notice obsidian obeli<|server|><|delay#0.000|>sk here.
+<|ansi#1B5B303B33326D|>Obvious exits: wEest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.007|>w
+<|server|><|delay#0.000|>w
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, s<|server|><|delay#0.000|>Qouth, eDast, nMortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.012|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.052|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.011|>s
+<|server|><|delay#0.000|>s
+<|server|><|delay#0.003|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sQouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.003|>m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty nomadic huntsman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nNorth, eDast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.014|>bs nasty nomadic huntsman
+<|server|><|delay#0.000|>bs nasty nomadic huntsman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise impale nasty nomadic huntsman for 80<|server|><|delay#0.045|> damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise cuts nasty nomadic huntsman for 94 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic hunter looks at you evilly, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5<|server|><|delay#0.001|>
+<|server|><|delay#0.025|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33366D|>You notice 1 gold crown here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: nNorth, eDast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.015|>g 1 gold crown
+<|server|><|delay#0.030|>g 1 gold crown
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 1 gold crown
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>sn
+<|server|><|delay#0.046|>sn
+<|server|><|delay#0.032|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.003|>n
+<|server|><|delay#0.000|>n
+<|server|><|delay#0.017|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nNorth, s<|server|><|delay#0.044|>Qouth, eDast, nMortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>You notice Jinx sneak in from the sQouth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>n
+<|server|><|delay#0.000|>n
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nNorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nNorth.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>big grey wolf<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large grey wolf<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi<|client|><|delay#-0.004|>bs big grey wolf
+<|server|><|delay#0.000|>bs big grey wolf
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack big grey wolf.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;<|server|><|delay#0.015|>37m[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.012|>par
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.022|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise hack big grey wolf for 70 damage!
+<|server|><|delay#0.007|>[79D<|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big grey wolf snaps at you, but you dodge out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big grey wolf snaps at you, but you dodge out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>large grey wolf<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sQouth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.010|>a large grey wolf
+<|server|><|delay#0.000|>a large grey wolf
+<|server|><|delay#0.053|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack large grey wolf.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>par
+<|server|><|delay#0.043|>par
+<|server|><|delay#0.051|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 95%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large grey wolf!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP<|server|><|delay#0.000|>=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You slash large grey wolf for 6 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at large grey wolf!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack large grey wolf for 9 damage<|client|><|delay#-0.016|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 95%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 73%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=91<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale large grey wolf for 15 damage!
+<|ansi#1B5B373944|><|server|><|delay#0.041|>[K<|ansi#1B5B303B33376D|>[HP=91<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You critically hack large grey wolf for 61 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=91<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B373944|><|ansi#1B5B4B|>The grey wolf growls savagely, then dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=91<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>Y<|server|><|delay#0.001|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sFouth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.003|>rest
+<|server|><|delay#0.000|>rest
+<|server|><|delay#0.000|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93[0;<|server|><|delay#0.044|>37m (Resting) ]:<|server|><|delay#0.040|>
+<|server|><|delay#0.038|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sFouth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.035|>par
+<|server|><|delay#0.026|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 97%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 75%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.109|>par
+<|server|><|delay#0.112|>par
+
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 97%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 75%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=93<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=99<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.007|>par
+<|server|><|delay#0.012|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 80%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=99<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.020|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.032|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 82%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=101<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=107<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.018|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.033|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 86%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=107<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.006|>par
+<|server|><|delay#0.015|>par
+
+<|server|><|delay#0.013|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 86%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=107<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=109<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.708|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=115<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.027|>par
+<|server|><|delay#0.030|>par
+<|server|><|delay#0.028|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 93%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=115<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.016|>par
+<|server|><|delay#0.016|>
+<|server|><|delay#0.016|>par
+<|server|><|delay#0.031|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sAouth
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=115<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw             <|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.037|>sn
+<|server|><|delay#0.046|>sn
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.031|>s
+<|server|><|delay#0.045|>s
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.577|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: nYorth, s<|server|><|delay#0.012|>Aouth, eYast, nNortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>ne
+<|server|><|delay#0.005|>ne
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, nN<|server|><|delay#0.003|>orthwest, sCouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.013|>nw
+<|server|><|delay#0.001|>nw
+<|server|><|delay#0.002|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eYast, sQ<|server|><|delay#0.001|>outheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.044|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 98%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.032|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.640|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wMest, nN<|server|><|delay#0.000|>ortheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=121<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.014|>ne
+<|server|><|delay#0.000|>ne
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the nDortheast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nasty nomadic huntsman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sJouth, eQast, sNouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>bs nasty nomadic huntsman
+<|server|><|delay#0.000|>bs nasty nomadic huntsman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.124|>par
+<|server|><|delay#0.133|>par
+<|server|><|delay#0.053|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise impale nasty nomadic huntsman for 76<|server|><|delay#0.003|> damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise slices nasty nomadic huntsman for 80 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic hunter looks at you evilly, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1<|server|><|delay#0.000|>
+<|server|><|delay#0.015|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33366D|>You notice 5 gold crowns here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: sJouth, eQast, sNouthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.004|>g 5 gold crown
+<|server|><|delay#0.016|>g 5 gold crown
+<|server|><|delay#0.016|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 5 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.004|>sn
+<|server|><|delay#0.016|>sn
+<|server|><|delay#0.050|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eQast, wC<|server|><|delay#0.000|>est
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room from the wCest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: eQast, wC<|server|><|delay#0.000|>est
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room from the wCest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>e
+<|server|><|delay#0.000|>e
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33326D|>Obvious exits: wCest, sQ<|server|><|delay#0.000|>outheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room from the wCest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>se
+<|server|><|delay#0.000|>se
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the sQoutheast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[<|server|><|delay#0.000|>0;37m[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>nomadic huntsman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eQast, wCest, nDortheast, nUorthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.003|>bs nomadic huntsman
+<|server|><|delay#0.000|>bs nomadic huntsman
+<|server|><|delay#0.043|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.004|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash nomadic huntsman for 59 damage<|server|><|delay#0.043|>!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise slashes nomadic huntsman for 84 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic hunter looks at you evilly, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><<|server|><|delay#0.038|>
+<|server|><|delay#0.023|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Torchlit Cavern
+<|ansi#1B5B303B33366D|>You notice 2 gold crowns here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: eQast, wCest, nDortheast, nUorthwest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.015|>g 2 gold crown
+<|server|><|delay#0.022|>g 2 gold crown
+<|server|><|delay#0.007|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 2 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.010|>sn
+<|server|><|delay#0.019|>sn
+<|server|><|delay#0.054|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.555|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.039|>e
+<|server|><|delay#0.047|>e
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.727|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33326D|>Obvious exits: eQast, wCest<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx<|ansi#1B5B303B33326D|> walks into the room from the wCest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.008|>e
+<|server|><|delay#0.001|>e
+<|server|><|delay#0.037|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B33316D|>You make a sound as you enter the room!
+<|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.047|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33326D|>Obvious exits: eQast, wCest
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.012|>sn
+<|server|><|delay#0.000|>sn
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Attempting to sneak...
+<|server|><|delay#0.544|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.033|>e
+<|server|><|delay#0.046|>e
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>Sneaking...
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eQast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|><|server|><|delay#0.000|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33356D|>You hear movement to the eQast.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>roc<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nasty nomadic huntsman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D<|client|><|delay#-0.015|>bs nasty nomadic huntsman
+<|server|><|delay#0.000|>bs nasty nomadic huntsman
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.017|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.029|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H:100%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You surprise slash nasty nomadic huntsman for 62 <|server|><|delay#0.000|>damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>Jinx surprise slashes nasty nomadic huntsman for 64 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=123<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The roc bites you for 11 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303<|client|><|delay#-0.016|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 97%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 91%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.001|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale nasty nomadic huntsman for 16 damage!<|server|><|delay#0.000|>
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>2 gold drop to the ground.
+<|ansi#1B5B373944|><|ansi#1B5B4B|>The nomadic hunter looks at you evilly, and dies.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|>You gain 177 experience.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=112<|ansi#1B5B303B33376D|>]:<|ansi#1B5B3<|server|><|delay#0.000|>
+<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33366D|>You notice 2 gold crowns here.
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>roc<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wHest, nMortheast, sJoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.002|>g 2 gold crown
+<|server|><|delay#0.000|>g 2 gold crown
+<|server|><|delay#0.046|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33373B34306D|>You picked up 2 gold crowns
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.016|>a roc
+<|server|><|delay#0.001|>a roc
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.000|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.024|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 78%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.016|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack roc.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|server|><|delay#0.015|>[0;37m]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You impale roc for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP<|server|><|delay#0.000|>=96<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at roc!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack roc for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack roc for 3 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|<|client|><|delay#0.030|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.031|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 78%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=96<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The roc bites you for 15 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.000|>7m[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at roc!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You swing at roc!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi<|client|><|delay#-0.002|>par
+<|server|><|delay#0.003|>par
+<|server|><|delay#0.010|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 65%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=81<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The roc claws you for 12 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;3<|server|><|delay#0.050|>7m[HP=69<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The roc bites you for 25 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>You hack roc f<|client|><|delay#-0.001|>par
+<|server|><|delay#0.010|>par
+<|server|><|delay#0.005|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 35%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The roc claws Jinx for 18 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|>[0;37<|server|><|delay#0.000|>m[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|>The roc claws Jinx for 8 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>You s<|server|><|delay#0.000|>
+<|server|><|delay#0.026|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wHest, nMortheast, sJoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.006|>par
+<|server|><|delay#0.000|>par
+<|server|><|delay#0.003|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 81%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 35%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|>]:<|client|><|delay#0.009|>rest
+<|server|><|delay#0.015|>rest
+<|server|><|delay#0.024|>You are now resting.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@wait (HP's too low)
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.001|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|>Jinx stops to rest.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;37<|server|><|delay#0.016|>m44<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.169|>
+<|server|><|delay#0.050|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wHest, nMortheast, sJoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.155|>par
+<|server|><|delay#0.171|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 81%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 35%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>44<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.014|>par
+<|server|><|delay#0.029|>par
+<|server|><|delay#0.030|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 84%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 37%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>46<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>52<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.011|>par
+<|server|><|delay#0.015|>par
+<|server|><|delay#0.014|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 90%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 42%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>52<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.013|>par
+<|server|><|delay#0.000|>par
+
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 90%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 42%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>52<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|a<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>54<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B33326D|>Jinx telepaths: <|ansi#1B5B303B33376D|>@ok
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=[1;<|server|><|delay#0.042|>37m60<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.005|>par
+<|server|><|delay#0.000|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 98%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 48%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.015|>par
+<|server|><|delay#0.026|>par
+
+<|server|><|delay#0.020|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 98%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 48%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|a<|client|><|delay#0.094|>par
+<|server|><|delay#0.099|>par
+
+<|server|><|delay#0.043|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H: 98%] R - Frontrank
+  Kage Nightshade                (Ninja)               [H: 48%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>60<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|a<|server|><|delay#0.161|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=66<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.033|>par
+<|server|><|delay#0.046|>par
+<|server|><|delay#0.004|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 55%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.017|>par
+<|server|><|delay#0.031|>par
+
+<|server|><|delay#0.032|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 55%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=68<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Als<|server|><|delay#0.301|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=74<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.039|>par
+<|server|><|delay#0.045|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 60%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=74<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.032|>par
+<|server|><|delay#0.046|>par
+<|server|><|delay#0.047|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 61%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=76<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.030|>par
+<|server|><|delay#0.031|>par
+<|server|><|delay#0.035|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 66%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|> (Resting) ]:<|client|><|delay#0.008|>par
+<|server|><|delay#0.015|>par
+
+<|server|><|delay#0.015|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 66%] R - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=82<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Als<|server|><|delay#0.619|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|> (Resting) ]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A big roc<|ansi#1B5B303B33326D|> leaps in from the nLortheast!
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33336D|>A nomadic tribesman<|ansi#1B5B303B33326D|> walks into the room from the nLortheast!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=88<|ansi#1B5B303B33376D|> (Resting) ]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33366D|>The big roc claws at you, but you dodge out of the way!
+<|ansi#1B5B373944|><|ansi#1B5B4B<|server|><|delay#0.000|>
+<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33366D|>Rocky Trail
+<|ansi#1B5B303B33356D|>Also here: <|ansi#1B5B313B33356D|>Jinx<|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>big roc<|ansi#1B5B306D|><|ansi#1B5B313B33356D|>, <|ansi#1B5B313B33356D|>nomadic tribesman<|ansi#1B5B306D|><|ansi#1B5B303B33356D|>.
+<|ansi#1B5B306D|><|ansi#1B5B303B33326D|>Obvious exits: wTest, nKortheast, sXoutheast
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<<|client|><|delay#0.001|>a nomadic tribesman
+<|server|><|delay#0.016|>a nomadic tribesman
+<|server|><|delay#0.017|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>*Combat Engaged*
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33336D|>Jinx moves to attack nomadic tribesman.
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|client|><|delay#-0.001|>par
+<|server|><|delay#0.013|>par
+<|server|><|delay#0.002|><|ansi#1B5B303B33373B34306D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>The following people are in your travel party:
+  Jinx Quickpaw                  (Thief)               [H:100%]   - Frontrank
+  Kage Nightshade                (Ninja)               [H: 32%]   - Frontrank
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33376D|>40<|ansi#1B5B303B33376D|>]:<|server|><|delay#0.000|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The big roc claws you for 13 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|server|><|delay#0.039|>[0;37m[HP=<|ansi#1B5B313B33316D|>27<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B316D|><|ansi#1B5B33316D|>The big roc claws you for 20 damage!
+<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>7<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B313B33316D|><|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1B5B303B33376D|>[HP=<|ansi#1B5B313B33316D|>7<|ansi#1B5B303B33376D|>]:<|ansi#1B5B373944|><|ansi#1B5B4B|><|ansi#1

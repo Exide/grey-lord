@@ -1,35 +1,11 @@
 #!/usr/bin/env python3
-"""
-Grey Lord - MajorMUD AI
-
-Unified command-line interface for all operations:
-
-USAGE:
-Simply call with your preferred python binary:
-  python grey-lord.py [command]
-
-COMMANDS:
-- AI agent telnet client with trained model
-- Model training and management
-- Analysis, debugging, and optimization tools
-- Data preparation and management
-
-EXAMPLES:
-    python grey-lord.py agent --config agent_config.json
-    python grey-lord.py train --epochs 50 --batch-size 32
-    python grey-lord.py analyze --training-dir models/your-model
-    python grey-lord.py debug vocab
-    python grey-lord.py optimize batch-size
-    python grey-lord.py data prepare --source ../telnet-data
-"""
-
 import argparse
 import sys
-import subprocess
 import logging
 from pathlib import Path
 import json
 from datetime import datetime
+from data.api import copy_data_files, prune_data_files
 
 
 def setup_logging():
@@ -136,10 +112,10 @@ def handle_analyze_command(args):
                 
                 print(f"\n📊 Using existing analysis plots: {analysis_plots_file}")
                 
-                if args.output != "analysis_report.png":
+                if hasattr(args, 'output') and args.output != "analysis_report.png":
                     output_path = args.output
                     if not output_path.endswith(('.png', '.pdf', '.svg')):
-                        output_path = f"{output_path}.{args.format}"
+                        output_path = f"{output_path}.png"
                     
                     import shutil
                     shutil.copy2(analysis_plots_file, output_path)
@@ -195,10 +171,10 @@ def handle_analyze_command(args):
                 json.dump(analysis_results, f, indent=2)
             print(f"📄 Analysis results saved to: {analysis_results_file}")
             
-            if args.output != "analysis_report.png":
+            if hasattr(args, 'output') and args.output != "analysis_report.png":
                 output_path = args.output
                 if not output_path.endswith(('.png', '.pdf', '.svg')):
-                    output_path = f"{output_path}.{args.format}"
+                    output_path = f"{output_path}.png"
                 
                 import shutil
                 shutil.copy2(plots_output_path, output_path)
@@ -339,7 +315,7 @@ def handle_optimize_command(args):
         print(f"   Activations: {memory_breakdown['activation_memory_mb']:.0f}MB")
         print(f"   Total parameters: {memory_breakdown['total_params']:,}")
         
-        print(f"\n⚙️  COMMAND TO USE:")
+        print(f"\n⚙️  RECOMMENDED TRAINING COMMAND:")
         print(f"   python grey-lord.py train --batch-size {args.batch_size} --context-window {max_context_window}")
         
         if args.show_alternatives:
@@ -363,34 +339,63 @@ def handle_optimize_command(args):
 
 def handle_data_command(args):
     """Unified data processing command."""
-    if args.data_sub_command == "process":
-        from training.process_agent_data import process_sessions
-        print("🔄 DATA: Processing agent sessions...")
-        print(f"Input session dir: {args.session_dir}")
-        print(f"Output data dir: {args.output_dir}")
-        process_sessions(args.session_dir, args.output_dir)
-        print("✅ DATA: Processing complete.")
-    elif args.data_sub_command == "prepare":
-        print("🔄 DATA: Preparing raw data...")
-        print(f"Source dir: {args.source_dir}")
-        print(f"Output dir: {args.output_dir}")
-        print("This feature is not yet implemented.")
-    elif args.data_sub_command == "augment":
-        print("🔄 DATA: Augmenting existing data...")
-        print(f"Dataset dir: {args.dataset_dir}")
-        print("This feature is not yet implemented.")
-    elif args.data_sub_command == "export":
-        from training.export_model import export_model_to_gguf
-        print("🔄 DATA: Exporting a trained model to GGUF format...")
-        export_model_to_gguf(args.model_dir, args.output_file, args.llama_cpp_dir)
-        print("✅ DATA: Export complete.")
+    match args.data_sub_command:
+        case "process":
+            try:
+                from training.process_agent_data import process_sessions
+                process_sessions(args.session_dir, args.output_dir)
+            except Exception as e:
+                print(f"❌ Data processing failed: {e}")
+                sys.exit(1)
+        case "export":
+            try:
+                from training.export_model import export_model_to_gguf
+                export_model_to_gguf(args.model_dir, args.output_file, args.llama_cpp_dir)
+            except Exception as e:
+                print(f"❌ Model export failed: {e}")
+                sys.exit(1)
+        case "copy":
+            try:
+                copy_data_files(args.source_dir, args.dataset_name)
+            except Exception as e:
+                print(f"❌ Data copy failed: {e}")
+                sys.exit(1)
+        case "prune":
+            try:
+                prune_data_files(args.dataset_name, args.min_size, getattr(args, 'pattern', None))
+            except Exception as e:
+                print(f"❌ Data prune failed: {e}")
+                sys.exit(1)
+        case _:
+            print(f"❌ Unknown data command: {args.data_sub_command}")
+            sys.exit(1)
+
+
+class GreyLordArgParser(argparse.ArgumentParser):
+    """Custom ArgumentParser to make things a little prettier."""
+
+    usage_prefix = "📝"
+
+    def format_usage(self):
+        usage = super().format_usage().strip()
+        return f"{self.usage_prefix} {usage}"
+
+    def format_help(self):
+        help_text = super().format_help()
+        help_text = help_text.replace("usage:", f"{self.usage_prefix} usage:")
+        return f"{help_text}\n"
+
+    def error(self, message):
+        sys.stdout.write(f"{self.format_usage()}\n")
+        sys.stderr.write(f"\n❌ {message}\n\n")
+        self.exit(2)
 
 
 def create_parser() -> argparse.ArgumentParser:
-    """Create the main argument parser for the application."""
+    """Create the main argument parser for the application with branded output."""
     # Load config to provide defaults for arguments
     try:
-        from training.config_utils import load_config
+        from training.config import load_config
         config = load_config()
         training_config = config.get("training", {})
         data_config = config.get("data", {})
@@ -398,179 +403,80 @@ def create_parser() -> argparse.ArgumentParser:
         training_config = {}
         data_config = {}
 
-    parser = argparse.ArgumentParser(
-        description="Grey Lord - AI for MajorMUD",
-        formatter_class=argparse.RawTextHelpFormatter
-    )
+    parser = GreyLordArgParser()
     subparsers = parser.add_subparsers(dest='command', required=True, help='Available commands')
 
-    # Training Parser
-    train_parser = subparsers.add_parser(
-        "train",
-        help="Train or continue training a model"
-    )
-    train_parser.add_argument(
-        "--epochs",
-        type=int,
-        default=training_config.get("default_epochs", 10),
-        help="Number of training epochs"
-    )
-    train_parser.add_argument(
-        "--batch-size",
-        type=int,
-        default=training_config.get("default_batch_size", 4),
-        help="Training batch size"
-    )
-    train_parser.add_argument(
-        "--learning-rate",
-        type=float,
-        default=training_config.get("default_lr", 5e-5),
-        help="Learning rate"
-    )
-    train_parser.add_argument(
-        "--context-window",
-        type=int,
-        default=training_config.get("default_max_seq_len", 512),
-        help="Context window length (in tokens)"
-    )
-    train_parser.add_argument(
-        "--data-dir",
-        type=str,
-        default=data_config.get("default_data_dir", "./data"),
-        help="Directory containing training data"
-    )
-    train_parser.add_argument(
-        "--file-glob",
-        type=str,
-        default=data_config.get("default_file_glob", "*"),
-        help="Glob pattern to match training files"
-    )
-    train_parser.add_argument(
-        "--model-path",
-        type=str,
-        default=None,
-        help="Path to existing model to continue training from"
-    )
-    train_parser.add_argument(
-        "--save-path",
-        type=str,
-        default=None,
-        help="Directory to save the trained model"
-    )
-    train_parser.add_argument(
-        "--val-split",
-        type=float,
-        default=training_config.get("default_val_split", 0.2),
-        help="Fraction of data to use for validation"
-    )
-    train_parser.add_argument(
-        "--patience",
-        type=int,
-        default=training_config.get("default_patience", 5),
-        help="Number of epochs to wait for improvement before early stopping"
-    )
-    train_parser.add_argument(
-        "--cpu",
-        action="store_true",
-        help="Force CPU training even if CUDA is available"
-    )
+    create_train_parser(subparsers, training_config)
+    create_analyze_parser(subparsers)
+    create_debug_parser(subparsers)
+    create_optimize_parser(subparsers)
+    create_data_parser(subparsers)
 
-    # Analysis Parser
-    analyze_parser = subparsers.add_parser(
-        "analyze",
-        help="Analyze model performance or data"
-    )
+    return parser
+
+def create_train_parser(subparsers, config):
+    train_parser = subparsers.add_parser("train", help="Train or continue training a model")
+    train_parser.add_argument("--dataset", type=str, default="./data", help="Name of the dataset to train on")
+    train_parser.add_argument("--epochs", type=int, default=config.get("training.default_epochs", 10), help="Number of training epochs")
+    train_parser.add_argument("--batch-size", type=int, default=config.get("default_batch_size", 4), help="Training batch size")
+    train_parser.add_argument("--learning-rate", type=float, default=config.get("default_lr", 5e-5), help="Learning rate")
+    train_parser.add_argument("--context-window", type=int, default=config.get("default_max_seq_len", 512), help="Context window length (in tokens)")
+    train_parser.add_argument("--model-path", type=str, default=None, help="Path to existing model to continue training from")
+    train_parser.add_argument("--save-path", type=str, default=None, help="Directory to save the trained model")
+    train_parser.add_argument("--val-split", type=float, default=config.get("default_val_split", 0.2), help="Fraction of data to use for validation")
+    train_parser.add_argument("--patience", type=int, default=config.get("default_patience", 5), help="Number of epochs to wait for improvement before early stopping")
+    train_parser.add_argument("--cpu", action="store_true", help="Force CPU training even if CUDA is available")
+
+
+def create_analyze_parser(subparsers):
+    analyze_parser = subparsers.add_parser("analyze", help="Analyze model performance or data")
     analyze_subparsers = analyze_parser.add_subparsers(dest='analyze_type', required=True)
+
+    # Analyze Training
     analyze_training_parser = analyze_subparsers.add_parser('training', help='Analyze training history')
-    analyze_training_parser.add_argument("--model-dir", type=str, required=True)
+    analyze_training_parser.add_argument("--model-dir", type=str, required=True, help="Directory containing training_history.json")
+    analyze_training_parser.add_argument("--output", type=str, default="analysis_report.png", help="Output file for analysis plots")
+
+    # Analyze Data
     analyze_data_parser = analyze_subparsers.add_parser('data', help='Analyze data directory')
-    analyze_data_parser.add_argument("--data-dir", type=str, required=True)
+    analyze_data_parser.add_argument("--data-dir", type=str, required=True, help="Directory containing training data files")
 
-    # Data Parser
-    data_parser = subparsers.add_parser(
-        "data",
-        help="Manage data (prepare, process, augment, etc.)"
-    )
-    data_subparsers = data_parser.add_subparsers(dest='data_sub_command', required=True)
 
-    # Data - Process
-    process_parser = data_subparsers.add_parser(
-        "process",
-        help="Process raw agent session data into trainable formats"
-    )
-    process_parser.add_argument(
-        "--session-dir",
-        type=str,
-        default="data/agent_sessions",
-        help="Directory with raw .jsonl session files"
-    )
-    process_parser.add_argument(
-        "--output-dir",
-        type=str,
-        default="data/processed_agent_data",
-        help="Directory to save processed data files"
-    )
-
-    # Data - Prepare
-    prepare_parser = data_subparsers.add_parser(
-        "prepare",
-        help="Prepare and filter training data files"
-    )
-    prepare_parser.add_argument("--source", type=str, required=True,
-                                help="Source directory containing raw files")
-    prepare_parser.add_argument("--target", type=str, default="training_data",
-                                help="Target directory for prepared data")
-    prepare_parser.add_argument("--min-size-kb", type=int, default=1,
-                                help="Minimum file size in KB")
-    prepare_parser.add_argument("--move", action="store_true",
-                                help="Move files instead of copying")
-
-    # Data - Export
-    export_parser = data_subparsers.add_parser(
-        "export",
-        help="Export a trained model to the possessed-telnet-client binary format"
-    )
-    export_parser.add_argument(
-        "--model-dir",
-        type=str,
-        required=True,
-        help="Directory of the trained model to export"
-    )
-    export_parser.add_argument(
-        "--output-file",
-        type=str,
-        required=True,
-        help="Path to the output .gguf file"
-    )
-    export_parser.add_argument(
-        "--llama-cpp-dir",
-        type=str,
-        default="../possessed-telnet-client/src/third_party/llama.cpp",
-        help="Path to the llama.cpp repository"
-    )
-
-    # Debug Parser
-    debug_parser = subparsers.add_parser(
-        "debug",
-        help="Debug parts of the system (vocabulary, model, sequences)"
-    )
+def create_debug_parser(subparsers):
+    debug_parser = subparsers.add_parser("debug", help="Debug parts of the system (vocabulary, model, sequences)")
     debug_subparsers = debug_parser.add_subparsers(dest='debug_type', required=True)
+
+    # Debug Vocab
     debug_vocab_parser = debug_subparsers.add_parser('vocab', help='Debug vocabulary and tokenization')
     debug_vocab_parser.add_argument("--vocab-path", type=str, default="data", help="Path to vocabulary files (vocab.json, merges.txt)")
+
+    # Debug Model
     debug_model_parser = debug_subparsers.add_parser('model', help='Debug a trained model')
     debug_model_parser.add_argument("--model-dir", type=str, required=True, help="Directory of the model to debug")
-    debug_sequences_parser = debug_subparsers.add_parser('sequences', help='Debug long sequences for potential CUDA errors')
 
-    # Optimize Parser
-    optimize_parser = subparsers.add_parser(
-        "optimize",
-        help="Find optimal training parameters for your hardware"
-    )
-    optimize_parser.add_argument("--memory-gb", type=float, default=10.0, help="Available GPU memory in GB to use for optimization")
+    # Debug Sequences
+    debug_subparsers.add_parser('sequences', help='Debug long sequences for potential CUDA errors')
+
+
+def create_optimize_parser(subparsers):
+    optimize_parser = subparsers.add_parser("optimize", help="Find optimal training parameters for your hardware")
+    optimize_parser.add_argument("--memory-gb", type=float, default=10.0, help="Available GPU memory in GB")
     optimize_parser.add_argument("--batch-size", type=int, default=4, help="Target batch size to optimize for")
     optimize_parser.add_argument("--show-alternatives", action="store_true", help="Show alternative batch sizes and context windows")
 
-    return parser
+
+def create_data_parser(subparsers):
+    data_parser = subparsers.add_parser("data", help="Manage data (process, copy, prune, export)")
+    data_subparsers = data_parser.add_subparsers(dest='data_sub_command', required=True)
+
+    copy_parser = data_subparsers.add_parser("copy", help="Copy files from source directory to data/ with flattened structure")
+    copy_parser.add_argument("source_dir", type=str, help="Source directory (supports ~, globs, and various path formats)")
+    copy_parser.add_argument("dataset_name", type=str, help="Name of the dataset to create (e.g., 'new_training_data')")
+
+    prune_parser = data_subparsers.add_parser("prune", help="Remove files from dataset based on size and/or pattern criteria")
+    prune_parser.add_argument("dataset_name", type=str, help="Name of dataset to use (e.g., 'new_training_data')")
+    prune_parser.add_argument("--min-size", type=str, default="1", help="Minimum file size (e.g., '1024', '10KB', '5MB', '1GB')")
+    prune_parser.add_argument("--pattern", type=str, help="Keep only files matching this pattern (e.g., '*.log', '*session*')")
 
 
 def main() -> int:
@@ -581,11 +487,9 @@ def main() -> int:
     parser = create_parser()
     args = parser.parse_args()
     
-    logging.info(f"Executing command: {args.command}")
-    
     if args.command == 'train':
         # Lazy import to avoid heavy dependencies for simple commands
-        from training.train import train_model
+        from training.trainer import train_model
         return train_model(args)
     elif args.command == 'analyze':
         return handle_analyze_command(args)
