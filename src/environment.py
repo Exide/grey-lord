@@ -6,7 +6,6 @@ import numpy
 import queue
 import re
 import socket
-import state
 import telnet
 import threading
 import time
@@ -64,8 +63,6 @@ class BBSEnvironment(gymnasium.Env):
         self.render_buffer = queue.Queue()
         self.agent_buffer = queue.Queue()
 
-        self.world_state = state.SharedWorldState()
-
         self.action_map = action_map
         self.action_space = gymnasium.spaces.Discrete(len(action_map))
 
@@ -119,8 +116,6 @@ class BBSEnvironment(gymnasium.Env):
             logger.warning(f'Invalid action ID: {action}')
             return step_response(-1.0)
 
-        state_before = self.world_state.get_observation()
-
         try:
             msg = f'{command}\r\n'.encode(STREAM_ENCODING)
             self._send_message(msg)
@@ -140,13 +135,8 @@ class BBSEnvironment(gymnasium.Env):
         observation = self._to_observation(data)
         self.observations.append(observation)
             
-        state_after = self.world_state.get_observation()
-
-        # todo: implement world state parsing from the data
         reward = self._calculate_reward(data)
         
-        logger.debug(f'State before: {state_before}')
-        logger.debug(f'State after: {state_after}')
         logger.debug(f'Reward: {reward}')
 
         return step_response(reward)
