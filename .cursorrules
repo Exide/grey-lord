@@ -23,3 +23,11 @@
 - The model should be able to read the game data directly with only the directionality, delay, Telnet, and ANSI tokenized.
 
 - We want to use an Actor/Critic model to train the model as we go.
+
+- The agent must develop its own temporal reasoning capabilities rather than relying on external attribution systems.
+
+- No "cheating" by providing pre-calculated/pre-parsed information about the game state
+
+- The agent receives raw server data and must learn timing patterns through its neural networks
+
+- The agent develops internal temporal models through memory mechanisms (LSTM/Transformer attention)
