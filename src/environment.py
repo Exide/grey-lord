@@ -25,7 +25,7 @@ class BBSEnvironment(gymnasium.Env):
     # 'ansi': Returns a string representing the environment's state, typically used for text-based environments.
     metadata = {'render_modes': ['ansi']}
 
-    def __init__(self, host, port, username, password, action_map, tokenizer, max_observations=4, observation_window=1024):
+    def __init__(self, host, port, username, password, action_map, tokenizer, max_observations=4, observation_window=512):
         super().__init__()
 
         self.socket = None
