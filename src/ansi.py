@@ -49,8 +49,6 @@ class AnsiParser:
 
 
     def parse(self, data: bytes) -> bytes:
-        data: bytes = self._handle_ansi_verification(data)
-
         def tokenize(path) -> bytes:
             full_match = path.group(0)      # The entire match including \x1b[ and ending char
             parameters = path.group(1)      # Parameters part (e.g., "31" or "1;32" or "?25")
@@ -67,7 +65,7 @@ class AnsiParser:
         return REGEX_PATTERN.sub(tokenize, data)
 
 
-    def _handle_ansi_verification(self, data: bytes) -> bytes:
+    def handle_ansi_verification(self, data: bytes) -> bytes:
         # check for a DSR request
         dsr_position = data.find(DEVICE_STATUS_REPORT)
         if dsr_position < 0: return data
