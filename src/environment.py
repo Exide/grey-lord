@@ -2,6 +2,7 @@ import ansi
 import collections
 import gymnasium
 import logging
+import majormud
 import numpy
 import queue
 import re
@@ -17,27 +18,6 @@ SOCKET_READ_TIMEOUT_SECONDS = 0.1 # 100ms
 SOCKET_CLOSE_TIMEOUT_SECONDS = 1.0 # 1s
 SOCKET_BUFFER_SIZE = 1024
 STREAM_ENCODING = 'ascii'
-
-# [HP=100]:                     -> matches: HP=100, MA=None, status=None
-# [HP=100/MA=100]:              -> matches: HP=100, MA=100,  status=None
-# [HP=-1/MA=0]:                 -> matches: HP=-1,  MA=0,    status=None
-# [HP=100]: (Resting)           -> matches: HP=100, MA=None, status=Resting
-# [HP=100/MA=100]: (Resting)    -> matches: HP=100, MA=100,  status=Resting
-# [HP=100/MA=100]: (Meditating) -> matches: HP=100, MA=100,  status=Meditating
-MAJORMUD_PROMPT_PATTERN = re.compile(rb'\[HP=(-?\d+)(?:\/MA=(\d+))?\]:\s*(?:\(([^)]+)\))?')
-
-# todo: make sure these min/max values are correct
-MAJORMUD_WOUNDEDNESS_MAP = {
-    #     min, max, description
-    0: {  100, 100, 'unwounded' },
-    1: {   75,  99, 'slightly' },
-    2: {   50,  74, 'moderately' },
-    3: {   25,  49, 'heavily' },
-    4: {   21,  30, 'severely' },
-    5: {   11,  20, 'critically' },
-    6: {    1,  10, 'very_critically' },
-    7: { -100,   0, 'mortally' }
-}
 
 
 class BBSEnvironment(gymnasium.Env):
@@ -290,7 +270,7 @@ class BBSEnvironment(gymnasium.Env):
             full_match = match.group(0)
             return f'{full_match}\r\n'.encode(STREAM_ENCODING)
 
-        return MAJORMUD_PROMPT_PATTERN.sub(add_newline, data)
+        return majormud.PROMPT_PATTERN.sub(add_newline, data)
 
 
     def _get_queued_data(self) -> bytes:
@@ -303,9 +283,6 @@ class BBSEnvironment(gymnasium.Env):
             except queue.Empty:
                 break
 
-        if data:
-            logger.debug(f'Data found in the agent buffer ({len(data)} bytes): {utils.to_byte_string(data)}')
-
         return data
 
 
@@ -317,7 +294,8 @@ class BBSEnvironment(gymnasium.Env):
 
 
     def _login(self, data: bytes) -> bool:
-        if MAJORMUD_PROMPT_PATTERN.search(data):
+        # if majormud.PROMPT_PATTERN.search(data):
+        if b'[HP=' in data:
             logger.info('Login complete')
             return True
         
