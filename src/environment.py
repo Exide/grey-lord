@@ -49,6 +49,7 @@ class BBSEnvironment(gymnasium.Env):
         super().__init__()
 
         self.socket = None
+        self.socket_lock = threading.Lock()
         self.reader_thread = None
         self.reader_thread_stop_event = threading.Event()
         self.login_complete_event = threading.Event()
@@ -178,9 +179,10 @@ class BBSEnvironment(gymnasium.Env):
 
         logger.info(f'Connecting to {self.host}:{self.port}')
         try:
-            self.socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            self.socket.connect((self.host, self.port))
-            self.socket.settimeout(SOCKET_READ_TIMEOUT_SECONDS)
+            with self.socket_lock:
+                self.socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                self.socket.connect((self.host, self.port))
+                self.socket.settimeout(SOCKET_READ_TIMEOUT_SECONDS)
 
             logger.info('Connection established')
 
@@ -196,8 +198,10 @@ class BBSEnvironment(gymnasium.Env):
     def _disconnect(self):
         if not self._is_connected(): return
 
-        self.socket.close()
-        self.socket = None
+        with self.socket_lock:
+            self.socket.close()
+            self.socket = None
+
         logger.info('Connection closed')
 
 
@@ -206,12 +210,13 @@ class BBSEnvironment(gymnasium.Env):
         login_timeout_counter = 0
         max_login_timeout = 300  # read_timeout_seconds / login_timeout_seconds (0.1 / 30 = 300)
 
-        telnet_parser = telnet.TelnetParser(self.socket)
-        ansi_parser = ansi.AnsiParser(self.socket)
+        telnet_parser = telnet.TelnetParser(self.socket, self.socket_lock)
+        ansi_parser = ansi.AnsiParser(self.socket, self.socket_lock)
 
         while not stop_event.is_set() and self._is_connected():
             try:
-                data = self.socket.recv(SOCKET_BUFFER_SIZE)
+                with self.socket_lock:
+                    data = self.socket.recv(SOCKET_BUFFER_SIZE)
                 if not data:
                     logger.info('Connection closed by the server')
                     break
@@ -308,7 +313,10 @@ class BBSEnvironment(gymnasium.Env):
 
 
     def _send_message(self, message: bytes):
-        self.socket.send(message)
+        if not self._is_connected(): raise ConnectionError('Cannot send message, connection closed')
+
+        with self.socket_lock:
+            self.socket.send(message)
         logger.debug(f'Data sent ({len(message)}): {utils.to_byte_string(message)}')
         logger.info(f'Command sent: {message}')
         self.last_message_sent = message
@@ -327,10 +335,14 @@ class BBSEnvironment(gymnasium.Env):
             (b'Enter the Realm', 'e')
         ]
 
-        for prompt, command in prompts:
-            if prompt in data.decode(STREAM_ENCODING, errors='ignore').encode(STREAM_ENCODING):
-                self._send_message(f'{command}\r\n'.encode(STREAM_ENCODING))
-                break
+        try:
+            for prompt, command in prompts:
+                if prompt in data.decode(STREAM_ENCODING, errors='ignore').encode(STREAM_ENCODING):
+                    self._send_message(f'{command}\r\n'.encode(STREAM_ENCODING))
+                    break
+        except ConnectionError:
+            # do nothing, we return False by default
+            pass
         
         return False
 

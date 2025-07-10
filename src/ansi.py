@@ -44,12 +44,14 @@ REGEX_PATTERN = re.compile(rb'\x1b\[([\x30-\x3F]*?)([\x20-\x2F]*?)([\x40-\x7E])'
 
 class AnsiParser:
 
-    def __init__(self, sock):
+    def __init__(self, sock, lock):
         self.socket = sock
+        self.socket_lock = lock
 
 
-    def parse(self, data: bytes) -> bytes:
-        data: bytes = self._handle_ansi_verification(data)
+    def update_socket(self, sock, lock):
+        self.socket = sock
+        self.socket_lock = lock
 
 
     def tokenize(self, data: bytes) -> bytes:
@@ -76,7 +78,8 @@ class AnsiParser:
         logger.debug(f'ANSI Device Status Report received: {utils.to_byte_string(DEVICE_STATUS_REPORT)}')
 
         # send our CSR response
-        self.socket.send(CURSOR_POSITION_REPORT)
+        with self.socket_lock:
+            self.socket.send(CURSOR_POSITION_REPORT)
         logger.debug(f'ANSI Cursor Position Report sent (row 1, col 1): {utils.to_byte_string(CURSOR_POSITION_REPORT)}')
 
         # remove the sequence from the stream

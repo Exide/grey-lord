@@ -19,8 +19,9 @@ SGA    = b'\x03' # 3 (Suppress Go Ahead)
 
 class TelnetParser:
 
-    def __init__(self, sock):
+    def __init__(self, sock, lock):
         self.socket = sock
+        self.socket_lock = lock
 
     def parse(self, data: bytes) -> bytes:
         iac_index = data.find(IAC)
@@ -66,5 +67,6 @@ class TelnetParser:
 
     def send_command(self, command: bytes, option: bytes):
         msg = IAC + command + option
-        self.socket.send(msg)
+        with self.socket_lock:
+            self.socket.send(msg)
         logger.debug(f'Telnet command sent ({len(msg)} bytes): {utils.to_byte_string(msg)}')
