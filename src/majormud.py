@@ -65,3 +65,31 @@ WOUNDEDNESS_MAP = {
     6: {    1,  10, 'very_critically' },
     7: { -100,   0, 'mortally' }
 }
+
+
+def reward_for_experience(data: bytes, scalar=0.1):
+    """Reward based on experience earned"""
+    match = re.search(rb'You gain (\d+) experience.', data)
+    return int(match.group(1)) * scalar if match else 0.0
+
+
+def reward_for_taking_damage(data: bytes, scalar=0.05):
+    """Reward based on damage taken"""
+    match = re.search(rb'(.+) (.+) you for (\d+) damage!', data)
+    return int(match.group(3)) * scalar if match else 0.0
+
+
+def reward_for_dropping(data: bytes, scalar=50.0):
+    # todo: this should only match on our character's name
+    match = re.search(rb'(.+) drops to the ground!', data)
+    return scalar if match else 0.0
+
+
+def reward_for_dying(data: bytes, scalar=100.0):
+    match = re.search(rb'You have been killed!', data)
+    return scalar if match else 0.0
+
+
+def reward_for_invalid_command(data: bytes, scalar=0.5):
+    match = re.search(rb'Your command had no effect.', data)
+    return scalar if match else 0.0
