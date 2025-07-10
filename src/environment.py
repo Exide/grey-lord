@@ -148,14 +148,7 @@ class BBSEnvironment(gymnasium.Env):
         if mode != 'ansi':
             raise NotImplementedError('Only ANSI mode is supported')
 
-        data: bytes = b''
-
-        while not self.render_buffer.empty():
-            try:
-                data += self.render_buffer.get_nowait()
-            except queue.Empty:
-                break
-
+        data: bytes = self._drain_buffer(self.render_buffer)
         if not data: return
 
         border = '-' * 80
@@ -299,14 +292,7 @@ class BBSEnvironment(gymnasium.Env):
 
 
     def _get_queued_data(self) -> bytes:
-        data: bytes = b''
-
-        while not self.agent_buffer.empty():
-            try:
-                buffer: bytes = self.agent_buffer.get_nowait()
-                data += buffer
-            except queue.Empty:
-                break
+        data: bytes = self._drain_buffer(self.agent_buffer)
 
         if data:
             logger.debug(f'Data found in the agent buffer ({len(data)} bytes): {utils.to_byte_string(data)}')
@@ -417,3 +403,13 @@ class BBSEnvironment(gymnasium.Env):
         match = re.search(rb'Your command had no effect.', data)
         return scalar if match else 0.0
 
+
+    @staticmethod
+    def _drain_buffer(buffer: queue.Queue) -> bytes:
+        output = b''
+        while not buffer.empty():
+            try:
+                output += buffer.get_nowait()
+            except queue.Empty:
+                break
+        return output
