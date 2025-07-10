@@ -88,6 +88,20 @@ class BBSEnvironment(gymnasium.Env):
         def step_response(step_reward, terminated=False, truncated=False):
             return self._get_state(), step_reward, terminated, truncated, {}
 
+        is_reader_thread_healthy = self.reader_thread and self.reader_thread.is_alive()
+        if not is_reader_thread_healthy:
+            logger.warning('Reader thread is not healthy, attempting recovery')
+            
+            try:
+                success = self._recover_connection()
+                if not success:
+                    logger.error('Failed to recover connection')
+                    return step_response(-100.0, terminated=True)
+                logger.info('Connection recovered successfully')
+            except Exception as e:
+                logger.exception('Error during connection recovery', exc_info=e)
+                return step_response(-100.0, terminated=True)
+
         if not self.login_complete_event.is_set():
             logger.warning('Cannot step, login not complete')
             return step_response(-1.0)
@@ -180,6 +194,44 @@ class BBSEnvironment(gymnasium.Env):
         logger.info('Connection closed')
 
 
+    def _recover_connection(self):
+        logger.info('Starting connection recovery...')
+        
+        # get rid of the current reader thread
+        if self.reader_thread and self.reader_thread.is_alive():
+            logger.info('Stopping current reader thread...')
+            self.reader_thread_stop_event.set()
+            self.reader_thread.join(timeout=2.0)
+            if self.reader_thread.is_alive():
+                logger.warning('Reader thread did not stop within timeout')
+        
+        # reset everything
+        self._disconnect()
+        self._drain_buffer(self.render_buffer)
+        self._drain_buffer(self.agent_buffer)
+        self.last_message_sent = None
+        self.login_complete_event.clear()
+        
+        try:
+            self._connect()
+        except Exception as e:
+            logger.exception('Failed to reconnect during recovery', exc_info=e)
+            return False
+        
+        # start a new reader thread
+        self.reader_thread_stop_event.clear()
+        self.reader_thread = threading.Thread(target=self._handle_reader_thread, daemon=True, args=(self.reader_thread_stop_event,))
+        self.reader_thread.start()
+        
+        # wait for login to complete
+        if not self.login_complete_event.wait(timeout=30.0):  # 30s
+            logger.error('Login timed out during recovery')
+            return False
+        
+        logger.info('Connection recovery completed successfully')
+        return True
+
+
     def _handle_reader_thread(self, stop_event: threading.Event):
         is_logged_in = False
         login_timeout_counter = 0
@@ -194,7 +246,7 @@ class BBSEnvironment(gymnasium.Env):
                     data = self.socket.recv(SOCKET_BUFFER_SIZE)
                 if not data:
                     logger.info('Connection closed by the server')
-                    break
+                    return
 
                 data = ansi_parser.handle_ansi_verification(data)
 
@@ -223,12 +275,12 @@ class BBSEnvironment(gymnasium.Env):
                     login_timeout_counter += 1
                     if login_timeout_counter >= max_login_timeout:
                         logger.error('Login timed out')
-                        break
+                        return
                 continue
 
             except Exception as e:
                 logger.exception(f'Error while reading from the socket', exc_info=e)
-                break
+                return
 
 
     def _remove_echo(self, data: bytes) -> bytes:
