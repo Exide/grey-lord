@@ -122,10 +122,7 @@ class BBSEnvironment(gymnasium.Env):
         time.sleep(0.1) # 100ms
         
         data: bytes = self._get_queued_data()
-        if not data:
-            # todo: this might be too noisy
-            logger.warning('No server response received within timeout')
-            return step_response(0.0) # neutral reward
+        if not data: return step_response(0.0) # neutral reward
 
         observation = self._to_observation(data)
         self.observations.append(observation)
