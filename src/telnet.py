@@ -23,6 +23,10 @@ class TelnetParser:
         self.socket = sock
         self.socket_lock = lock
 
+    def update_socket(self, sock, lock):
+        self.socket = sock
+        self.socket_lock = lock
+
     def parse(self, data: bytes) -> bytes:
         iac_index = data.find(IAC)
         if iac_index < 0: return data
@@ -63,7 +67,6 @@ class TelnetParser:
         data = before + token + after
 
         return data
-
 
     def send_command(self, command: bytes, option: bytes):
         msg = IAC + command + option
