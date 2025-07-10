@@ -368,7 +368,7 @@ class BBSEnvironment(gymnasium.Env):
 
 
     def _to_observation(self, data: bytes):
-        token_ids = self.tokenizer.encode(data.decode(STREAM_ENCODING), add_special_tokens=True)
+        token_ids = self.tokenizer.encode(data)
         padded_tokens = token_ids[:self.observation_window]
         padding_length = self.observation_window - len(padded_tokens)
         padded_tokens.extend([self.tokenizer.pad_token_id] * padding_length)

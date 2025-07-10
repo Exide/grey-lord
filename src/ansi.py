@@ -5,7 +5,7 @@ import utils
 
 logger = logging.getLogger(__name__)
 
-SELECT_GRAPHIC_RENDITION = {
+SGR_TO_TOKEN_MAP = {
     0: '<|ANSI#RESET|>',
     1: '<|ANSI#BOLD|>',
     4: '<|ANSI#UNDERLINE|>',
@@ -29,6 +29,8 @@ SELECT_GRAPHIC_RENDITION = {
 }
 
 # CURSOR_POSITION_REPORT = '<|ANSI#CPR_row_column|>'
+
+POTENTIAL_TOKENS = SGR_TO_TOKEN_MAP.values()
 
 DEVICE_STATUS_REPORT: bytes = b'\x1b\x5b\x36\x6e'              # ESC[6n
 CURSOR_POSITION_REPORT: bytes = b'\x1b\x5b\x31\x3b\x31\x52'    # ESC[1;1R (row 1, column 1)
@@ -95,7 +97,7 @@ class AnsiParser:
     @staticmethod
     def tokenize_select_graphic_rendition(data: bytes, codes: bytes) -> str:
         if not codes:
-            return SELECT_GRAPHIC_RENDITION.get(0, '')
+            return SGR_TO_TOKEN_MAP.get(0, '')
 
         parts = codes.split(b';')
         tokens = []
@@ -105,7 +107,7 @@ class AnsiParser:
                 continue
 
             code = int(part)
-            token = SELECT_GRAPHIC_RENDITION.get(code, '')
+            token = SGR_TO_TOKEN_MAP.get(code, '')
             if not token:
                 logger.warning(f'Unknown ANSI code: {code}')
                 continue

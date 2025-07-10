@@ -2,7 +2,7 @@ from environment import BBSEnvironment
 import logging
 from majormud import ACTIONS_BY_ID, ACTIONS_BY_COMMAND
 import os
-from transformers import AutoTokenizer
+from tokenizer import GreyLordTokenizer
 
 
 log_level = os.getenv('LOG_LEVEL', 'INFO').upper()
@@ -21,7 +21,7 @@ def main():
     pretty_commands = ', '.join(list(ACTIONS_BY_ID.values()))
     logging.info(f'Available commands: {pretty_commands}')
 
-    tokenizer = AutoTokenizer.from_pretrained('distilbert-base-uncased')
+    tokenizer = GreyLordTokenizer()
     env = BBSEnvironment(HOST, PORT, USERNAME, PASSWORD, action_map=ACTIONS_BY_ID, tokenizer=tokenizer)
     env.reset()
 

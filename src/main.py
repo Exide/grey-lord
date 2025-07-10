@@ -7,11 +7,11 @@ import time
 from datetime import datetime
 
 import numpy as np
-from transformers import AutoTokenizer
 
 from agent import create_agent
 from environment import BBSEnvironment
 from majormud import ACTIONS_BY_ID
+from tokenizer import GreyLordTokenizer
 
 
 # Default configuration
@@ -26,7 +26,6 @@ DEFAULT_CONFIG = {
     "save_interval": 100,
     "log_interval": 10,
     "model_dir": "models",
-    "tokenizer_name": "distilbert-base-uncased",
     "max_observations": 4,
     "observation_window": 512,
     "agent_config": {
@@ -78,7 +77,7 @@ def save_config(config, config_path):
 
 def create_environment(config):
     """Create and return the BBS environment."""
-    tokenizer = AutoTokenizer.from_pretrained(config['tokenizer_name'])
+    tokenizer = GreyLordTokenizer()
     
     env = BBSEnvironment(
         host=config['host'],
@@ -101,12 +100,19 @@ def train_agent(config, resume_from=None):
     # Create environment
     env = create_environment(config)
     
-    # Create agent
+    # Get vocab size from the tokenizer
+    tokenizer = GreyLordTokenizer()
+    vocab_size = tokenizer.get_vocab_size()
+    
+    # Create agent with tokenizer vocab size
+    agent_config = config['agent_config'].copy()
+    agent_config['vocab_size'] = vocab_size
+    
     agent = create_agent(
         config['agent_type'],
         action_size=len(ACTIONS_BY_ID),
         observation_shape=(config['max_observations'], config['observation_window']),
-        **config['agent_config']
+        **agent_config
     )
     
     # Load existing model if resuming
@@ -181,12 +187,19 @@ def evaluate_agent(config, model_path, episodes=10):
     # Create environment
     env = create_environment(config)
     
-    # Create agent
+    # Get vocab size from the tokenizer
+    tokenizer = GreyLordTokenizer()
+    vocab_size = tokenizer.get_vocab_size()
+    
+    # Create agent with tokenizer vocab size
+    agent_config = config['agent_config'].copy()
+    agent_config['vocab_size'] = vocab_size
+    
     agent = create_agent(
         config['agent_type'],
         action_size=len(ACTIONS_BY_ID),
         observation_shape=(config['max_observations'], config['observation_window']),
-        **config['agent_config']
+        **agent_config
     )
     
     # Load model
@@ -242,11 +255,19 @@ def interactive_mode(config, model_path=None):
     # Create agent if model provided
     agent = None
     if model_path:
+        # Get vocab size from the tokenizer
+        tokenizer = GreyLordTokenizer()
+        vocab_size = tokenizer.get_vocab_size()
+        
+        # Create agent with tokenizer vocab size
+        agent_config = config['agent_config'].copy()
+        agent_config['vocab_size'] = vocab_size
+        
         agent = create_agent(
             config['agent_type'],
             action_size=len(ACTIONS_BY_ID),
             observation_shape=(config['max_observations'], config['observation_window']),
-            **config['agent_config']
+            **agent_config
         )
         agent.load(model_path)
         if hasattr(agent, 'epsilon'):

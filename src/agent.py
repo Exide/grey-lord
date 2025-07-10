@@ -48,7 +48,7 @@ class TemporalDQN(nn.Module):
     Designed for agent-driven temporal learning without external attribution.
     """
     
-    def __init__(self, observation_shape, action_size, embed_size=128, lstm_hidden=256, num_heads=4):
+    def __init__(self, observation_shape, action_size, embed_size=128, lstm_hidden=256, num_heads=4, vocab_size=501):
         super(TemporalDQN, self).__init__()
         
         # observation_shape: (max_observations, observation_window)
@@ -56,10 +56,11 @@ class TemporalDQN(nn.Module):
         self.action_size = action_size
         self.embed_size = embed_size
         self.lstm_hidden = lstm_hidden
+        self.vocab_size = vocab_size
         
-        # Token embedding layer - convert token IDs to dense vectors
-        # Assuming vocab_size around 50000 for tokenizer (will be set dynamically)
-        self.token_embedding = nn.Embedding(50000, embed_size, padding_idx=0)
+        # Token embedding layer - convert token IDs to dense vectors  
+        # Use PAD token (500) as padding_idx for GreyLordTokenizer
+        self.token_embedding = nn.Embedding(vocab_size, embed_size, padding_idx=500)
         
         # Sequence encoding layers
         self.sequence_encoder = nn.Linear(self.observation_window * embed_size, embed_size)
@@ -98,7 +99,7 @@ class TemporalDQN(nn.Module):
         self.next_token_predictor = nn.Sequential(
             nn.Linear(lstm_hidden, lstm_hidden // 2),
             nn.ReLU(),
-            nn.Linear(lstm_hidden // 2, 50000)  # Predict next token
+            nn.Linear(lstm_hidden // 2, vocab_size)  # Predict next token
         )
         
         # Amygdala head - survival expert for immediate threats
@@ -387,12 +388,8 @@ class TemporalDQNAgent(BBSAgent):
         
         # Neural networks
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self.q_network = TemporalDQN(observation_shape, action_size).to(self.device)
-        self.target_network = TemporalDQN(observation_shape, action_size).to(self.device)
-        
-        # Update vocab size with actual tokenizer size
-        self.q_network.update_vocab_size(vocab_size)
-        self.target_network.update_vocab_size(vocab_size)
+        self.q_network = TemporalDQN(observation_shape, action_size, vocab_size=vocab_size).to(self.device)
+        self.target_network = TemporalDQN(observation_shape, action_size, vocab_size=vocab_size).to(self.device)
         
         self.optimizer = optim.Adam(self.q_network.parameters(), lr=learning_rate)
         

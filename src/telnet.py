@@ -16,6 +16,22 @@ BINARY = b'\x00' # 0
 ECHO   = b'\x01' # 1
 SGA    = b'\x03' # 3 (Suppress Go Ahead)
 
+POTENTIAL_TOKENS = [
+    '<|TELNET#UNKNOWN|>',
+    '<|TELNET#WILL_BINARY|>',
+    '<|TELNET#WONT_BINARY|>',
+    '<|TELNET#DO_BINARY|>',
+    '<|TELNET#DONT_BINARY|>',
+    '<|TELNET#WILL_ECHO|>',
+    '<|TELNET#WONT_ECHO|>',
+    '<|TELNET#DO_ECHO|>',
+    '<|TELNET#DONT_ECHO|>',
+    '<|TELNET#WILL_SGA|>',
+    '<|TELNET#WONT_SGA|>',
+    '<|TELNET#DO_SGA|>',
+    '<|TELNET#DONT_SGA|>'
+]
+
 
 class TelnetParser:
 
