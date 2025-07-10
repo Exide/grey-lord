@@ -1,25 +1,10 @@
+# PyTorch with CUDA 12.4 support
+--index-url https://download.pytorch.org/whl/cu124
+
 # Core ML dependencies
 torch~=2.7.1
-transformers~=4.53.1
-tokenizers~=0.21.2
-stable-baselines3~=2.6.0
-#gymnasium~=1.2.0 # not supported by stable-baseline3=2.6.0
 gymnasium<1.2.0,>=0.29.1
 
-# Data processing and utilities
+# Data processing and utilities  
 numpy~=2.3.1
-sentencepiece~=0.2.0
-protobuf~=6.31.1
-
-# Analysis and visualization
-matplotlib~=3.10.3
-
-# Colorama for cross-platform colored output
-colorama~=0.4.6
-
-# Testing
-pytest~=8.4.1
-keyboard~=0.13.5
-
-# Agent dependencies
-telnetlib3~=2.0.4
+psutil~=5.9.0
