@@ -221,6 +221,8 @@ class BBSEnvironment(gymnasium.Env):
                     logger.info('Connection closed by the server')
                     break
 
+                data = ansi_parser.handle_ansi_verification(data)
+
                 self.render_buffer.put_nowait(data)
                 self.render()
 

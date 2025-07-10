@@ -71,7 +71,7 @@ class AnsiParser:
         return REGEX_PATTERN.sub(create_token, data)
 
 
-    def _handle_ansi_verification(self, data: bytes) -> bytes:
+    def handle_ansi_verification(self, data: bytes) -> bytes:
         # check for a DSR request
         dsr_position = data.find(DEVICE_STATUS_REPORT)
         if dsr_position < 0: return data
