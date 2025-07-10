@@ -39,12 +39,7 @@ def main():
             logging.debug(f'State shape: {state.shape}')
             logging.debug(f'Info: {info}')
 
-        except KeyboardInterrupt:
-            logging.debug('Caught a KeyboardInterrupt')
-            raise
-
-        except EOFError:
-            logging.debug('Caught an EOFError')
+        except KeyboardInterrupt or EOFError:
             raise KeyboardInterrupt
 
         except Exception as e:
