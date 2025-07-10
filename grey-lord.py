@@ -2,7 +2,7 @@
 import argparse
 import sys
 import logging
-from pathlib import Path
+import time
 from data.api import copy_data_files, prune_data_files
 
 
@@ -77,6 +77,75 @@ def handle_data_command(args):
             sys.exit(1)
 
 
+def handle_monitor_command(args):
+    """Handle the monitor command for real-time system monitoring."""
+    print("🖥️  Grey Lord System Monitor")
+    print("   Press Ctrl+C to stop\n")
+    
+    # Check if PyTorch is available
+    try:
+        import torch
+        torch_available = torch.cuda.is_available()
+        if torch_available:
+            gpu_name = torch.cuda.get_device_name(0)
+            print(f"🎮 GPU: {gpu_name}")
+        else:
+            print("🎮 GPU: PyTorch available but no CUDA detected")
+    except ImportError:
+        torch_available = False
+        print("🎮 GPU: PyTorch not available")
+    
+    # Check system memory
+    try:
+        import psutil
+        ram_total = psutil.virtual_memory().total / (1024**3)
+        print(f"💾 System RAM: {ram_total:.1f}GB total")
+        psutil_available = True
+    except ImportError:
+        psutil_available = False
+        print("💾 System RAM: psutil not available")
+    
+    print("\n" + "="*60)
+    
+    # Monitoring loop
+    try:
+        while True:
+            timestamp = time.strftime("%H:%M:%S")
+            status_line = f"[{timestamp}]"
+            
+            # GPU Memory monitoring
+            if torch_available:
+                allocated = torch.cuda.memory_allocated() / (1024**3)
+                cached = torch.cuda.memory_reserved() / (1024**3)
+                max_allocated = torch.cuda.max_memory_allocated() / (1024**3)
+                
+                status_line += f" VRAM: {allocated:.1f}GB/{cached:.1f}GB (Peak: {max_allocated:.1f}GB)"
+            
+            # System Memory monitoring
+            if psutil_available:
+                memory = psutil.virtual_memory()
+                ram_used = memory.used / (1024**3)
+                ram_percent = memory.percent
+                
+                status_line += f" | RAM: {ram_used:.1f}GB ({ram_percent:.1f}%)"
+                
+                # CPU usage
+                cpu_percent = psutil.cpu_percent(interval=None)
+                status_line += f" | CPU: {cpu_percent:.1f}%"
+            
+            # Clear line and print status
+            print(f"\r{status_line:<80}", end="", flush=True)
+            
+            time.sleep(args.interval)
+            
+    except KeyboardInterrupt:
+        print(f"\n\n✨ Monitoring stopped")
+        return 0
+    except Exception as e:
+        print(f"\n\n❌ Monitor error: {e}")
+        return 1
+
+
 class GreyLordArgParser(argparse.ArgumentParser):
     """Custom ArgumentParser to make things a little prettier."""
 
@@ -104,6 +173,7 @@ def create_parser() -> argparse.ArgumentParser:
 
     create_help_parser(subparsers)
     create_data_parser(subparsers)
+    create_monitor_parser(subparsers)
 
     return parser
 
@@ -128,6 +198,12 @@ def create_data_parser(subparsers):
     prune_parser.add_argument("--pattern", type=str, help="Keep only files matching this pattern (e.g., '*.log', '*session*')")
 
 
+def create_monitor_parser(subparsers):
+    """Create the monitor subcommand parser."""
+    monitor_parser = subparsers.add_parser("monitor", help="Real-time system monitoring (VRAM, RAM, CPU)")
+    monitor_parser.add_argument("--interval", type=float, default=1.0, help="Update interval in seconds (default: 1.0)")
+
+
 def main() -> int:
     """Main entry point for the application."""
     setup_logging()
@@ -140,6 +216,8 @@ def main() -> int:
         return handle_help_command(args)
     elif args.command == 'data':
         return handle_data_command(args)
+    elif args.command == 'monitor':
+        return handle_monitor_command(args)
     
     return 0
 
