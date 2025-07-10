@@ -313,7 +313,8 @@ class BBSEnvironment(gymnasium.Env):
 
 
     def _login(self, data: bytes) -> bool:
-        if MAJORMUD_PROMPT_PATTERN.search(data):
+        # if MAJORMUD_PROMPT_PATTERN.search(data):
+        if b'[HP=' in data:
             logger.info('Login complete')
             return True
         
