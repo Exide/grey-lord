@@ -57,7 +57,7 @@ class TelnetParser:
                 self.send_command(WONT, option)
 
         # replace the telnet sequence with its token
-        token = b'<|telnet#' + command + option + b'|>'
+        token = b'<|TELNET#' + command + option + b'|>'
         before = data[0:iac_index]
         after = data[option_index:]
         data = before + token + after
