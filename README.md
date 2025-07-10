@@ -34,6 +34,17 @@ grey-lord/
 ├── artifacts/       # Things created along the way
 ```
 
+## Design Decisions
+
+### Reader Thread Architecture
+The environment uses a dedicated reader thread for socket communication rather than synchronous I/O in the main thread. This prevents blocking the agent's decision loop while ensuring continuous data collection from the real-time, multiplayer BBS server.
+
+**Benefits:**
+- **Non-blocking actions**: Agent steps don't wait for network responses
+- **Real-time state capture**: Server events and other players' actions are buffered continuously
+- **Robust recovery**: Connection issues can be handled without halting training
+- **Temporal fidelity**: Maintains accurate timing relationships critical for RL temporal reasoning
+
 ## Notes
 
 ### Pre-tokenization
