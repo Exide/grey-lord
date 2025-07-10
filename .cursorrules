@@ -22,7 +22,7 @@
 
 - The model should be able to read the game data directly with only the directionality, delay, Telnet, and ANSI tokenized.
 
-- We want to use an Actor/Critic model to train the model as we go.
+- We use on-policy, policy optimization RL process (PPO) which uses an Actor/Critic model to train the model as we go.
 
 - The agent must develop its own temporal reasoning capabilities rather than relying on external attribution systems.
 
