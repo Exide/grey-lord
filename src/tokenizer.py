@@ -21,7 +21,7 @@ class GreyLordTokenizer:
     def __init__(self):
         self.token_to_id: Dict[str, int] = {}
         self.id_to_token: Dict[int, str] = {}
-        self.vocab_size: int = 0
+        self._vocab_size: int = 0
         self._build_vocabulary()
         
     def _build_vocabulary(self):
@@ -61,10 +61,10 @@ class GreyLordTokenizer:
             self.id_to_token[token_id] = token
 
         # Calculate vocab size based on highest token ID
-        self.vocab_size = max(self.id_to_token.keys()) + 1
+        self._vocab_size = max(self.id_to_token.keys()) + 1
         
-        logger.info(f'GreyLord tokenizer initialized with {self.vocab_size} tokens')
-        logger.info('Token ranges: ', ', '.join([
+        logger.info(f'GreyLord tokenizer initialized with {self._vocab_size} tokens')
+        logger.info('Token ranges: ' + ', '.join([
                 'Bytes(0-255)',
                 f'Telnet({telnet_start_id}-{telnet_stop_id})',
                 f'ANSI({ansi_start_id}-{ansi_stop_id})',
@@ -127,7 +127,7 @@ class GreyLordTokenizer:
         
     def get_vocab_size(self) -> int:
         """Get the total vocabulary size"""
-        return self.vocab_size
+        return self._vocab_size
         
     def get_token_id(self, token: str) -> Optional[int]:
         """Get token ID for a specific token"""
@@ -151,7 +151,7 @@ class GreyLordTokenizer:
     @property
     def vocab_size(self) -> int:
         """Get vocabulary size (compatibility with transformers API)"""
-        return self.get_vocab_size()
+        return self._vocab_size
         
     def get_byte_token_id(self, byte_value: int) -> int:
         """Get token ID for a specific byte value (0-255)"""
@@ -213,7 +213,7 @@ class GreyLordTokenizer:
         
         vocab_data = {
             'token_to_id': self.token_to_id,
-            'vocab_size': self.vocab_size,
+            'vocab_size': self._vocab_size,
             'token_ranges': self.get_token_ranges()
         }
         
@@ -233,7 +233,11 @@ class GreyLordTokenizer:
         tokenizer = cls.__new__(cls)
         tokenizer.token_to_id = vocab_data['token_to_id']
         tokenizer.id_to_token = {int(k): v for k, v in vocab_data['token_to_id'].items()}
-        tokenizer.vocab_size = vocab_data['vocab_size']
+        tokenizer._vocab_size = vocab_data['vocab_size']
         
         logger.info(f'Vocabulary loaded from {filepath}')
-        return tokenizer 
+        return tokenizer
+
+    @vocab_size.setter
+    def vocab_size(self, value):
+        self._vocab_size = value
