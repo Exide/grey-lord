@@ -44,3 +44,26 @@ Currently we're using a custom tokenizer based on [distilbert-base-uncased](http
 - **Special tokens**: `<|client|>`, `<|server|>`, `<|delay_short|>`, etc.
 - **Byte encoding**: Raw bytes mapped to `byte_0` through `byte_255`
 - **Sequence handling**: Automatic padding and truncation
+
+## Neural Network Tuning Notes
+
+### Layer Architecture
+- **Rule of thumb**: Start with 3-4 layers for most problems. Add more if the problem is very complex, reduce if you're overfitting.
+- **Layer sizing**: Common pattern is to start wide and narrow down (e.g., 256 → 128 → 64 → action_size)
+- **Auxiliary heads**: Use 2-layer structure for more learning capacity: `Linear(hidden, hidden//2) → ReLU → Linear(hidden//2, output)`
+
+### Auxiliary Heads
+**Think of heads as specialized experts - each becomes highly skilled in one domain:**
+
+**Currently Implemented:**
+- **Reward Predictor**: Self-supervised learning of state-reward correlations
+- **Next Token Predictor**: Self-supervised learning of game language patterns and dynamics
+- **Amygdala Head**: Survival expert - immediate threats, health status, escape routes (uses reward-based heuristics)
+
+**Future Implementation:**
+- **Cerebrum Head**: Strategic expert - long-term goals, resource management, planning
+- **Cartographer Head**: Navigation expert - spatial relationships, pathfinding, landmarks
+- **PvP Head**: Combat expert - player threats, combat tactics, team coordination
+- **Economic Head**: Wealth expert - market prices, resource valuation, opportunities
+- **Quest Head**: Mission expert - quest objectives, completion requirements, reward evaluation
+- **Quartermaster Head**: Equipment expert - optimal gear selection, inventory management, level-appropriate upgrades

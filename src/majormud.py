@@ -1,3 +1,6 @@
+import re
+
+
 ACTIONS_BY_ID = {
     0: 'help',
     # Navigation
@@ -41,3 +44,24 @@ ACTIONS_BY_ID = {
 
 # Reverse mapping for easy lookup
 ACTIONS_BY_COMMAND = {v: k for k, v in ACTIONS_BY_ID.items()}
+
+# [HP=100]:                     -> matches: HP=100, MA=None, status=None
+# [HP=100/MA=100]:              -> matches: HP=100, MA=100,  status=None
+# [HP=-1/MA=0]:                 -> matches: HP=-1,  MA=0,    status=None
+# [HP=100]: (Resting)           -> matches: HP=100, MA=None, status=Resting
+# [HP=100/MA=100]: (Resting)    -> matches: HP=100, MA=100,  status=Resting
+# [HP=100/MA=100]: (Meditating) -> matches: HP=100, MA=100,  status=Meditating
+PROMPT_PATTERN = re.compile(rb'\[HP=(-?\d+)(?:\/MA=(\d+))?\]:\s*(?:\(([^)]+)\))?')
+
+# todo: make sure these min/max values are correct
+WOUNDEDNESS_MAP = {
+    #     min, max, description
+    0: {  100, 100, 'unwounded' },
+    1: {   75,  99, 'slightly' },
+    2: {   50,  74, 'moderately' },
+    3: {   25,  49, 'heavily' },
+    4: {   21,  30, 'severely' },
+    5: {   11,  20, 'critically' },
+    6: {    1,  10, 'very_critically' },
+    7: { -100,   0, 'mortally' }
+}

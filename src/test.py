@@ -26,29 +26,35 @@ def main():
     env.reset()
 
     terminated = False
-    while not terminated:
-        try:
-            command = input().strip()
-            action_id = ACTIONS_BY_COMMAND[command]
-            logging.info(f'Action ID: {action_id}')
+    try:
+        while not terminated:
+            try:
+                command = input("").strip()
+                    
+                if command not in ACTIONS_BY_COMMAND:
+                    logging.error(f"Unknown command: {command}")
+                    continue
+                    
+                action_id = ACTIONS_BY_COMMAND[command]
+                logging.info(f'Action ID: {action_id}')
 
-            state, reward, terminated, truncated, info = env.step(action_id)
+                state, reward, terminated, truncated, info = env.step(action_id)
 
-            logging.info(f'Reward: {reward}')
-            logging.debug(f'Terminated: {terminated}, Truncated: {truncated}')
-            logging.debug(f'State shape: {state.shape}')
-            logging.debug(f'Info: {info}')
+                logging.info(f'Reward: {reward}')
+                logging.debug(f'Terminated: {terminated}, Truncated: {truncated}')
+                logging.debug(f'State shape: {state.shape}')
+                logging.debug(f'Info: {info}')
 
-        except KeyboardInterrupt or EOFError:
-            raise KeyboardInterrupt
+            except KeyboardInterrupt or EOFError:
+                raise KeyboardInterrupt
 
-        except Exception as e:
-            logging.exception(f'Error encountered during this step.', exc_info=e)
-            break
+            except Exception as e:
+                logging.exception(f'Error encountered during this step.', exc_info=e)
+                break
 
-        finally:
-            logging.info('Shutting down the environment.')
-            env.close()
+    finally:
+        logging.info('Shutting down the environment.')
+        env.close()
 
 
 if __name__ == '__main__':

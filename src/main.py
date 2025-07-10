@@ -28,7 +28,7 @@ DEFAULT_CONFIG = {
     "model_dir": "models",
     "tokenizer_name": "distilbert-base-uncased",
     "max_observations": 4,
-    "observation_window": 1024,
+    "observation_window": 512,
     "agent_config": {
         "learning_rate": 0.001,
         "gamma": 0.99,
