@@ -81,22 +81,20 @@ def reward_for_experience(data: bytes, scalar=1):
     return int(match.group(1)) * scalar if match else 0.0
 
 
-def reward_for_hitting_mob(data: bytes, scalar=0.01):
-    """Reward based on hitting a mob"""
+def reward_for_damage_done(data: bytes, scalar=0.01):
+    """Reward based on damage done in combat"""
     match = re.search(rb'You (.+) (.+) for (\d+) damage!', data)
-    return int(match.group(1)) * scalar if match else 0.0
+    return int(match.group(3)) * scalar if match else 0.0
 
 
 def reward_for_dodging_attacks(data: bytes, scalar=0.01):
-    """Reward based on dodging attacks"""
-    match = re.search(rb'The (.+) (.) at you, but you dodge out of the way!', data)
-    return int(match.group(1)) * scalar if match else 0.0
+    match = re.search(rb'The (.+) (.+) at you, but you dodge out of the way!', data)
+    return scalar if match else 0.0
 
 
 def reward_for_avoiding_attacks(data: bytes, scalar=0.01):
-    """Reward based on avoiding attacks"""
     match = re.search(rb'The (.+) (.+) at you with its (.+)!', data)
-    return int(match.group(1)) * scalar if match else 0.0
+    return scalar if match else 0.0
 
 
 def reward_for_taking_damage(data: bytes, scalar=0.05):

@@ -391,7 +391,7 @@ class BBSEnvironment(gymnasium.Env):
         # positive rewards
         reward += majormud.reward_for_reaching_level(data)
         reward += majormud.reward_for_experience(data)
-        reward += majormud.reward_for_hitting_mob(data)
+        reward += majormud.reward_for_damage_done(data)
         reward += majormud.reward_for_dodging_attacks(data)
         reward += majormud.reward_for_avoiding_attacks(data)
 
