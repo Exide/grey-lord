@@ -32,6 +32,8 @@ ACTIONS_BY_ID = {
     209: 'equip',
     210: 'unequip',
     211: 'read',
+    212: 'rest',
+    213: 'meditate',
     # Combat
     # This is to simplify combat for the initial training.
     # This will be removed once we support compound actions.
@@ -39,7 +41,8 @@ ACTIONS_BY_ID = {
     251: 'attack giant rat',
     252: 'attack acid slime',
     253: 'attack orc rogue',
-    254: 'attack cave bear'
+    254: 'attack carrion beast',
+    255: 'attack cave bear'
 }
 
 # Reverse mapping for easy lookup
@@ -67,9 +70,32 @@ WOUNDEDNESS_MAP = {
 }
 
 
-def reward_for_experience(data: bytes, scalar=0.1):
+def reward_for_reaching_level(data: bytes, scalar=100.0):
+    match = re.search(rb'Exp needed for next level: 0 ', data)
+    return scalar if match else 0.0
+
+
+def reward_for_experience(data: bytes, scalar=1):
     """Reward based on experience earned"""
     match = re.search(rb'You gain (\d+) experience.', data)
+    return int(match.group(1)) * scalar if match else 0.0
+
+
+def reward_for_hitting_mob(data: bytes, scalar=0.01):
+    """Reward based on hitting a mob"""
+    match = re.search(rb'You (.+) (.+) for (\d+) damage!', data)
+    return int(match.group(1)) * scalar if match else 0.0
+
+
+def reward_for_dodging_attacks(data: bytes, scalar=0.01):
+    """Reward based on dodging attacks"""
+    match = re.search(rb'The (.+) (.) at you, but you dodge out of the way!', data)
+    return int(match.group(1)) * scalar if match else 0.0
+
+
+def reward_for_avoiding_attacks(data: bytes, scalar=0.01):
+    """Reward based on avoiding attacks"""
+    match = re.search(rb'The (.+) (.+) at you with its (.+)!', data)
     return int(match.group(1)) * scalar if match else 0.0
 
 
