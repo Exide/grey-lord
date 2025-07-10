@@ -1,5 +1,5 @@
-# PyTorch with CUDA 12.4 support
---index-url https://download.pytorch.org/whl/cu124
+# PyTorch with CUDA 12.8 support
+--extra-index-url https://download.pytorch.org/whl/cu128
 
 # Core ML dependencies
 torch~=2.7.1
