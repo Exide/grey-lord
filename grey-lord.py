@@ -59,6 +59,10 @@ def handle_help_command(args):
 
 def handle_data_command(args):
     """Unified data processing command."""
+    if args.data_sub_command is None:
+        print(f"❌ No sub command specified", file=sys.stderr)
+        return handle_help_command(args)
+    
     match args.data_sub_command:
         case "copy":
             try:
@@ -169,7 +173,7 @@ class GreyLordArgParser(argparse.ArgumentParser):
 def create_parser() -> argparse.ArgumentParser:
     """Create the main argument parser for the application with branded output."""
     parser = GreyLordArgParser()
-    subparsers = parser.add_subparsers(dest='command', required=True, help='Available commands')
+    subparsers = parser.add_subparsers(dest='command', required=False, help='Available commands')
 
     create_help_parser(subparsers)
     create_data_parser(subparsers)
@@ -186,7 +190,7 @@ def create_help_parser(subparsers):
 def create_data_parser(subparsers):
     """Create the data subcommand parser."""
     data_parser = subparsers.add_parser("data", help="Manage data (copy, prune)")
-    data_subparsers = data_parser.add_subparsers(dest='data_sub_command', required=True)
+    data_subparsers = data_parser.add_subparsers(dest='data_sub_command', required=False)
 
     copy_parser = data_subparsers.add_parser("copy", help="Copy files from source directory to data/ with flattened structure")
     copy_parser.add_argument("source_dir", type=str, help="Source directory (supports ~, globs, and various path formats)")
@@ -211,6 +215,11 @@ def main() -> int:
     
     parser = create_parser()
     args = parser.parse_args()
+    
+    if args.command is None:
+        print("❌ No command specified", file=sys.stderr)
+        parser.print_help()
+        return 1
     
     if args.command == 'help':
         return handle_help_command(args)
