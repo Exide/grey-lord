@@ -4,6 +4,7 @@
 # Core ML dependencies
 torch~=2.7.1
 gymnasium<1.2.0,>=0.29.1
+transformers~=4.53.1
 
 # Data processing and utilities  
 numpy~=2.3.1

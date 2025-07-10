@@ -7,177 +7,125 @@ sys.path.append(os.path.dirname(__file__))
 from tokenizer import GreyLordTokenizer
 
 
-def test_token_ranges():
-    """Test that token ranges are correctly organized"""
-    print("=== Testing Token Ranges ===")
-    
-    tokenizer = GreyLordTokenizer()
-    ranges = tokenizer.get_token_ranges()
-    print(f"Token ranges: {ranges}")
-    
-    # Verify BYTE_0 through BYTE_255 are token IDs 0-255
-    for i in range(256):
-        byte_token = f'<|BYTE_{i}|>'
-        token_id = tokenizer.get_token_id(byte_token)
-        assert token_id == i, f"BYTE_{i} should have token ID {i}, got {token_id}"
-    print("✓ Byte tokens correctly mapped to IDs 0-255")
-    
-    # Verify Telnet tokens start at 300
-    telnet_tokens = ['<|TELNET#UNKNOWN|>', '<|TELNET#WILL_BINARY|>', '<|TELNET#DO_ECHO|>']
-    for token in telnet_tokens:
-        token_id = tokenizer.get_token_id(token)
-        assert token_id >= 300, f"Telnet token {token} should have ID >= 300, got {token_id}"
-    print("✓ Telnet tokens start at 300")
-    
-    # Verify ANSI tokens start at 400
-    ansi_tokens = ['<|ANSI#RESET|>', '<|ANSI#BOLD|>', '<|ANSI#FG_RED|>']
-    for token in ansi_tokens:
-        token_id = tokenizer.get_token_id(token)
-        assert token_id >= 400, f"ANSI token {token} should have ID >= 400, got {token_id}"
-    print("✓ ANSI tokens start at 400")
-    
-    # Verify special tokens start at 500
-    special_tokens = ['<|PAD|>']
-    for token in special_tokens:
-        token_id = tokenizer.get_token_id(token)
-        assert token_id >= 500, f"Special token {token} should have ID >= 500, got {token_id}"
-    print("✓ Special tokens start at 500")
-
-
-def test_basic_functionality():
-    """Test basic encode/decode functionality"""
-    print("\n=== Testing Basic Functionality ===")
+def test_english_tokenization():
+    """Test that English text is tokenized efficiently"""
+    print("=== Testing English Tokenization ===")
     
     tokenizer = GreyLordTokenizer()
     print(f"Vocabulary size: {tokenizer.get_vocab_size()}")
     
-    # Test raw bytes
-    test_data = b"Hello World!"
-    print(f"Original data: {test_data}")
+    # Test English sentences
+    test_sentences = [
+        "Hello world!",
+        "The kobold thief lunges at you with their shortsword, but you dodge!",
+        "The kobold thief stabs you for 5 damage!",
+        "You gain 13 experience."
+    ]
     
-    encoded = tokenizer.encode(test_data)
-    print(f"Encoded: {encoded}")
-    
-    # Verify that regular bytes are encoded as their byte values (0-255)
-    for i, byte_val in enumerate(test_data):
-        assert encoded[i] == byte_val, f"Byte {byte_val} should encode to {byte_val}, got {encoded[i]}"
-    
-    decoded = tokenizer.decode(encoded)
-    print(f"Decoded: {decoded}")
-    
-    assert test_data == decoded, f"Round-trip failed: {test_data} != {decoded}"
-    print("✓ Basic round-trip test passed")
-    
-
-def test_byte_token_mapping():
-    """Test that byte tokens map directly to byte values"""
-    print("\n=== Testing Byte Token Mapping ===")
-    
-    tokenizer = GreyLordTokenizer()
-    
-    # Test that get_byte_token_id works correctly
-    for i in range(256):
-        token_id = tokenizer.get_byte_token_id(i)
-        assert token_id == i, f"get_byte_token_id({i}) should return {i}, got {token_id}"
-    
-    # Test that encoding single bytes gives their byte value as token ID
-    test_bytes = [0, 1, 65, 127, 128, 255]  # A, DEL, high bit set, max
-    for byte_val in test_bytes:
-        single_byte = bytes([byte_val])
-        encoded = tokenizer.encode(single_byte)
-        assert len(encoded) == 1, f"Single byte should encode to single token"
-        assert encoded[0] == byte_val, f"Byte {byte_val} should encode to token {byte_val}, got {encoded[0]}"
-    
-    print("✓ Byte token mapping test passed")
-
-
-def test_ansi_tokens():
-    """Test ANSI token handling"""
-    print("\n=== Testing ANSI Tokens ===")
-    
-    tokenizer = GreyLordTokenizer()
-    
-    # Test ANSI tokens
-    ansi_tokens = ['<|ANSI#RESET|>', '<|ANSI#BOLD|>', '<|ANSI#FG_RED|>']
-    for token in ansi_tokens:
-        token_id = tokenizer.get_token_id(token)
-        print(f"Token '{token}' -> ID: {token_id}")
-        assert token_id is not None, f"ANSI token {token} not found"
-        assert token_id >= 400, f"ANSI token {token} should have ID >= 400"
+    for sentence in test_sentences:
+        print(f"\nTesting: '{sentence}'")
+        tokens = tokenizer.encode(sentence)
+        print(f"Tokens: {tokens} (length: {len(tokens)})")
         
         # Test round-trip
-        recovered_token = tokenizer.get_token(token_id)
-        assert recovered_token == token, f"Token recovery failed: {token} != {recovered_token}"
+        decoded = tokenizer.decode(tokens)
+        decoded_str = decoded.decode('utf-8')
+        print(f"Decoded: '{decoded_str}'")
         
-    print("✓ ANSI token tests passed")
+        assert decoded_str == sentence, f"Round-trip failed: '{sentence}' != '{decoded_str}'"
+        print("✓ Round-trip successful")
+    
+    print("✓ English tokenization tests passed")
 
 
-def test_telnet_tokens():
-    """Test Telnet token handling"""
-    print("\n=== Testing Telnet Tokens ===")
+def test_special_token_handling():
+    """Test that special ANSI and Telnet tokens are handled correctly"""
+    print("\n=== Testing Special Token Handling ===")
     
     tokenizer = GreyLordTokenizer()
     
-    # Test Telnet tokens
-    telnet_tokens = ['<|TELNET#WILL_BINARY|>', '<|TELNET#DO_ECHO|>', '<|TELNET#UNKNOWN|>']
-    for token in telnet_tokens:
-        token_id = tokenizer.get_token_id(token)
-        print(f"Token '{token}' -> ID: {token_id}")
-        assert token_id is not None, f"Telnet token {token} not found"
-        assert token_id >= 300, f"Telnet token {token} should have ID >= 300"
+    # Test cases with special tokens
+    test_cases = [
+        "Hello <|ANSI#BOLD|>World<|ANSI#RESET|>!",
+        "<|TELNET#WILL_BINARY|>Login data<|TELNET#DO_ECHO|>",
+        "You see a <|ANSI#FG_RED|>red dragon<|ANSI#RESET|> approaching!",
+        "Status: <|ANSI#FG_GREEN|>Healthy<|ANSI#RESET|> | Level: 15"
+    ]
+    
+    for test_case in test_cases:
+        print(f"\nTesting: '{test_case}'")
+        tokens = tokenizer.encode(test_case)
+        print(f"Tokens: {tokens} (length: {len(tokens)})")
         
         # Test round-trip
-        recovered_token = tokenizer.get_token(token_id)
-        assert recovered_token == token, f"Token recovery failed: {token} != {recovered_token}"
+        decoded = tokenizer.decode(tokens)
+        decoded_str = decoded.decode('utf-8')
+        print(f"Decoded: '{decoded_str}'")
         
-    print("✓ Telnet token tests passed")
+        assert decoded_str == test_case, f"Round-trip failed: '{test_case}' != '{decoded_str}'"
+        print("✓ Round-trip successful")
+    
+    print("✓ Special token handling tests passed")
 
 
 def test_mixed_content():
-    """Test mixed content with bytes and special tokens"""
+    """Test mixed content with English and special tokens"""
     print("\n=== Testing Mixed Content ===")
     
     tokenizer = GreyLordTokenizer()
     
-    # Create test data that includes both special tokens and regular bytes
-    test_data = b"Hello<|ANSI#BOLD|>World<|TELNET#DO_ECHO|>"
-    print(f"Mixed test data: {test_data}")
+    # Realistic game scenarios
+    test_scenarios = [
+        "[HP=100/100]: <|ANSI#FG_GREEN|>You are in perfect health.<|ANSI#RESET|>",
+        "<|ANSI#BOLD|>Combat:<|ANSI#RESET|> The orc warrior attacks you with a rusty sword!",
+        "You gained <|ANSI#FG_YELLOW|>250 gold pieces<|ANSI#RESET|> from the treasure chest!"
+    ]
     
-    encoded = tokenizer.encode(test_data)
-    print(f"Encoded: {encoded}")
+    for scenario in test_scenarios:
+        print(f"\nTesting: '{scenario}'")
+        tokens = tokenizer.encode(scenario)
+        print(f"Tokens: {tokens} (length: {len(tokens)})")
+        
+        # Test round-trip
+        decoded = tokenizer.decode(tokens)
+        decoded_str = decoded.decode('utf-8')
+        print(f"Decoded: '{decoded_str}'")
+        
+        assert decoded_str == scenario, f"Round-trip failed: '{scenario}' != '{decoded_str}'"
+        print("✓ Round-trip successful")
     
-    # Check that we have the right mix of byte tokens and special tokens
-    assert any(token_id >= 400 for token_id in encoded), "Should have ANSI tokens"
-    assert any(token_id >= 300 for token_id in encoded), "Should have Telnet tokens"
-    assert any(token_id <= 255 for token_id in encoded), "Should have byte tokens"
-    
-    decoded = tokenizer.decode(encoded)
-    print(f"Decoded: {decoded}")
-    
-    assert test_data == decoded, f"Mixed content round-trip failed: {test_data} != {decoded}"
-    print("✓ Mixed content test passed")
+    print("✓ Mixed content tests passed")
 
 
-def test_special_tokens():
-    """Test special control tokens"""
-    print("\n=== Testing Special Tokens ===")
+def test_basic_properties():
+    """Test basic tokenizer properties"""
+    print("\n=== Testing Basic Properties ===")
     
     tokenizer = GreyLordTokenizer()
     
-    special_token_ids = tokenizer.get_special_token_ids()
-    print(f"Special token IDs: {special_token_ids}")
+    # Test vocabulary size
+    vocab_size = tokenizer.get_vocab_size()
+    print(f"Vocabulary size: {vocab_size}")
+    assert vocab_size > 50000, f"Vocab size should be > 50000 (GPT-2 + special tokens), got {vocab_size}"
     
-    # Should only have PAD token now
-    assert len(special_token_ids) == 1, f"Should only have 1 special token, got {len(special_token_ids)}"
-    assert 'pad' in special_token_ids, "Should have PAD token"
+    # Test token ranges
+    ranges = tokenizer.get_token_ranges()
+    print(f"Token ranges: {ranges}")
+    assert 'gpt2' in ranges, "Should have GPT-2 token range"
+    assert 'ansi' in ranges, "Should have ANSI token range"
+    assert 'telnet' in ranges, "Should have Telnet token range"
     
-    for name, token_id in special_token_ids.items():
-        assert token_id >= 500, f"Special token '{name}' should have ID >= 500, got {token_id}"
-        token = tokenizer.get_token(token_id)
-        print(f"Special token '{name}' -> ID: {token_id} -> Token: {token}")
-        assert token is not None, f"Special token ID {token_id} not found"
+    # Test special token IDs
+    special_ids = tokenizer.get_special_token_ids()
+    print(f"Special token IDs: {special_ids}")
+    assert 'pad' in special_ids, "Should have PAD token"
     
-    print("✓ Special token tests passed")
+    # Test PAD token
+    pad_id = tokenizer.pad_token_id
+    print(f"PAD token ID: {pad_id}")
+    assert pad_id > 50000, f"PAD token should be > 50000, got {pad_id}"
+    
+    print("✓ Basic properties tests passed")
 
 
 def test_batch_operations():
@@ -188,43 +136,54 @@ def test_batch_operations():
     
     # Test batch encoding
     test_data_list = [
-        b"Hello World",
-        b"<|ANSI#RESET|>",
-        b"Test\x00\x01\x02",
-        b"<|TELNET#WILL_BINARY|>Mixed"
+        "Hello World",
+        "<|ANSI#RESET|>Test",
+        "You attack the goblin",
+        "<|ANSI#FG_RED|>Warning!<|ANSI#RESET|>"
     ]
     
     print(f"Batch test data: {test_data_list}")
     
     # Test with padding
     encoded_batch = tokenizer.batch_encode(test_data_list, max_length=20)
-    print(f"Encoded batch (padded to 20): {[len(seq) for seq in encoded_batch]}")
+    print(f"Encoded batch lengths: {[len(seq) for seq in encoded_batch]}")
     
     # All sequences should be padded to length 20
     for seq in encoded_batch:
         assert len(seq) == 20, f"Sequence should be padded to 20, got {len(seq)}"
     
+    # Test batch decoding
     decoded_batch = tokenizer.batch_decode(encoded_batch)
-    print(f"Decoded batch length: {len(decoded_batch)}")
+    print(f"Decoded batch: {[data.decode('utf-8') for data in decoded_batch]}")
     
-    print("✓ Batch operations test passed")
+    print("✓ Batch operations tests passed")
 
 
-if __name__ == "__main__":
+def main():
+    """Run all tests"""
+    print("GREYLORD TOKENIZER TESTS")
+    print("=" * 50)
+    
     try:
-        test_token_ranges()
-        test_basic_functionality()
-        test_byte_token_mapping()
-        test_ansi_tokens()
-        test_telnet_tokens()
+        test_english_tokenization()
+        test_special_token_handling()
         test_mixed_content()
-        test_special_tokens()
+        test_basic_properties()
         test_batch_operations()
         
-        print("\n🎉 All tests passed! Reorganized tokenizer is working correctly.")
+        print("\n" + "=" * 50)
+        print("ALL TESTS PASSED! ✓")
+        print("The GreyLord tokenizer is working correctly.")
         
     except Exception as e:
-        print(f"\n❌ Test failed: {e}")
+        print(f"\n❌ TEST FAILED: {e}")
         import traceback
         traceback.print_exc()
-        sys.exit(1) 
+        return False
+    
+    return True
+
+
+if __name__ == '__main__':
+    success = main()
+    sys.exit(0 if success else 1) 
