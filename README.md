@@ -78,3 +78,26 @@ Currently we're using a custom tokenizer based on [distilbert-base-uncased](http
 - **Economic Head**: Wealth expert - market prices, resource valuation, opportunities
 - **Quest Head**: Mission expert - quest objectives, completion requirements, reward evaluation
 - **Quartermaster Head**: Equipment expert - optimal gear selection, inventory management, level-appropriate upgrades
+
+### VRAM Optimization (
+**Hardware-specific tuning parameters to balance model quality with VRAM constraints. Prioritizes model capacity over training speed.**
+
+**High-Impact VRAM Parameters:**
+
+| Parameter | Conservative (8GB) | Balanced (10GB) | Aggressive (12GB) |
+|-----------|-------------------|-----------------|-------------------|
+| `observation_window` | 512 | 1024 | 2048 |
+| `max_observations` | 4 | 6 | 8 |
+| `batch_size` | 16 | 24 | 32 |
+| `buffer_size` | 5000 | 8000 | 12000 |
+| `lstm_hidden` | 128 | 256 | 512 |
+| `embed_size` | 64 | 128 | 256 |
+
+**Memory Reduction Strategies (Quality-First):**
+- **Gradient Accumulation**: Use smaller batch sizes (8-16) with 2-4x accumulation steps
+- **Mixed Precision**: Enable FP16 training to halve memory usage: `torch.cuda.amp.autocast()`
+- **Sequence Bucketing**: Group similar-length sequences to reduce padding waste
+- **Checkpoint Activations**: Trade compute for memory: `torch.utils.checkpoint.checkpoint()`
+- **Reduced Update Frequency**: Increase `update_frequency` from 4 to 8-16 (slower but stable)
+- **Disable Auxiliary Heads**: Each head adds ~50MB. Disable non-essential heads if needed
+- **Attention Heads**: Reduce `num_heads` from 8 to 4 for MultiheadAttention layers
