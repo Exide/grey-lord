@@ -158,13 +158,15 @@ class BBSEnvironment(gymnasium.Env):
 
 
     def close(self):
-        self._disconnect()
-
-        # send the stop signal
+        # tell the reader thread to stop
         self.reader_thread_stop_event.set()
+
         # wait for the thread to stop
         if self.reader_thread and self.reader_thread.is_alive():
             self.reader_thread.join(timeout=2.0)
+
+        # cleanup the socket
+        self._disconnect()
 
 
     def _connect(self):
