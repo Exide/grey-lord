@@ -51,7 +51,9 @@ class AnsiParser:
     def parse(self, data: bytes) -> bytes:
         data: bytes = self._handle_ansi_verification(data)
 
-        def tokenize(path) -> bytes:
+
+    def tokenize(self, data: bytes) -> bytes:
+        def create_token(path) -> bytes:
             full_match = path.group(0)      # The entire match including \x1b[ and ending char
             parameters = path.group(1)      # Parameters part (e.g., "31" or "1;32" or "?25")
             intermediates = path.group(2)   # Intermediate bytes (space through /)
@@ -64,7 +66,7 @@ class AnsiParser:
                 case b'R': return self.tokenize_cursor_position_report(full_match).encode('utf-8')
                 case _: return self.tokenize_generic(full_match).encode('utf-8')
 
-        return REGEX_PATTERN.sub(tokenize, data)
+        return REGEX_PATTERN.sub(create_token, data)
 
 
     def _handle_ansi_verification(self, data: bytes) -> bytes:

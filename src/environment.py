@@ -220,7 +220,7 @@ class BBSEnvironment(gymnasium.Env):
                 self.render()
 
                 data = telnet_parser.parse(data)
-                data = ansi_parser.parse(data)
+                data = ansi_parser.tokenize(data)
                 
                 if not is_logged_in:
                     is_logged_in = self._login(data)
