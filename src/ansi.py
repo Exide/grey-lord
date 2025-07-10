@@ -83,10 +83,8 @@ class AnsiParser:
 
     @staticmethod
     def tokenize_cursor_position_report(data: bytes) -> str:
-        # todo: use the template above
         # For now, just return the hex representation like in training data
-        hex_representation = ''.join(f'{ord(c):02X}' for c in data)
-        return f'<|ansi#{hex_representation}|>'
+        return AnsiParser.tokenize_generic(data)
 
 
     @staticmethod
@@ -116,7 +114,6 @@ class AnsiParser:
 
     @staticmethod
     def tokenize_generic(data: bytes) -> str:
-        """Generic tokenizer for ANSI sequences not specifically handled"""
-        hex_representation = data.hex().upper()
-        return f'<|ansi#{hex_representation}|>'
+        value = data.hex(' ', 1).upper()
+        return f'<|ANSI#{value}|>'
 
